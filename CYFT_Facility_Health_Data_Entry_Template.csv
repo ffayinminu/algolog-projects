@@ -1,0 +1,101 @@
+FIELD,VALUE,INSTRUCTIONS
+=== FACILITY INFORMATION ===,,
+Hospital/Clinic Name,,"Enter full official name"
+Address,,"Complete address including city"
+Contact Person,,"Primary facility manager/administrator"
+Contact Phone,,"Include country code if needed"
+Inspection Date,,"Format: DD/MM/YYYY"
+Inspector Name,,"Your FM technician's name"
+,,,
+=== CATEGORY 1: GENERATOR HEALTH ===,,
+Generator Score (0-10),,"Rate 0-10 based on overall condition"
+Generator Status,,"Enter: Excellent / Good / Fair / Critical"
+Generator Issues Found,,"List all issues separated by semicolons"
+Generator Detailed Notes,,"Describe current condition, observations, concerns"
+Generator Recommendations,,"List recommendations with costs (e.g., 'Oil change - ₦15000; Battery replacement - ₦35000')"
+Generator Photo Filename,,"Filename of photo in Google Drive (e.g., hospital_gen_jan2026.jpg)"
+,,,
+=== CATEGORY 2: HVAC/AC SYSTEMS ===,,
+HVAC Score (0-10),,"Rate 0-10 based on overall condition"
+HVAC Status,,"Enter: Excellent / Good / Fair / Critical"
+HVAC Issues Found,,"List all issues separated by semicolons"
+HVAC Detailed Notes,,"Describe cooling performance, filter condition, etc."
+HVAC Recommendations,,"List recommendations with costs"
+HVAC Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 3: MEDICAL EQUIPMENT ENVIRONMENT ===,,
+Equipment Environment Score (0-10),,"Rate 0-10 based on overall condition"
+Equipment Environment Status,,"Enter: Excellent / Good / Fair / Critical"
+Equipment Environment Issues Found,,"List all issues separated by semicolons"
+Equipment Environment Detailed Notes,,"Describe temperature, dust levels, ventilation"
+Equipment Environment Recommendations,,"List recommendations with costs"
+Equipment Environment Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 4: WATER SYSTEMS ===,,
+Water Systems Score (0-10),,"Rate 0-10 based on overall condition"
+Water Systems Status,,"Enter: Excellent / Good / Fair / Critical"
+Water Systems Issues Found,,"List all issues separated by semicolons"
+Water Systems Detailed Notes,,"Describe pressure, quality, tank condition, leaks"
+Water Systems Recommendations,,"List recommendations with costs"
+Water Systems Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 5: ELECTRICAL SYSTEMS ===,,
+Electrical Score (0-10),,"Rate 0-10 based on overall condition"
+Electrical Status,,"Enter: Excellent / Good / Fair / Critical"
+Electrical Issues Found,,"List all issues separated by semicolons"
+Electrical Detailed Notes,,"Describe wiring, outlets, lighting, circuits"
+Electrical Recommendations,,"List recommendations with costs"
+Electrical Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 6: PLUMBING & DRAINAGE ===,,
+Plumbing Score (0-10),,"Rate 0-10 based on overall condition"
+Plumbing Status,,"Enter: Excellent / Good / Fair / Critical"
+Plumbing Issues Found,,"List all issues separated by semicolons"
+Plumbing Detailed Notes,,"Describe toilets, drains, leaks, odors"
+Plumbing Recommendations,,"List recommendations with costs"
+Plumbing Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 7: MEDICAL WASTE MANAGEMENT ===,,
+Waste Management Score (0-10),,"Rate 0-10 based on overall condition"
+Waste Management Status,,"Enter: Excellent / Good / Fair / Critical"
+Waste Management Issues Found,,"List all issues separated by semicolons"
+Waste Management Detailed Notes,,"Describe bins, segregation, storage"
+Waste Management Recommendations,,"List recommendations with costs"
+Waste Management Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 8: FIRE SAFETY ===,,
+Fire Safety Score (0-10),,"Rate 0-10 based on overall condition"
+Fire Safety Status,,"Enter: Excellent / Good / Fair / Critical"
+Fire Safety Issues Found,,"List all issues separated by semicolons"
+Fire Safety Detailed Notes,,"Describe extinguishers, exits, smoke detectors"
+Fire Safety Recommendations,,"List recommendations with costs"
+Fire Safety Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 9: PEST CONTROL ===,,
+Pest Control Score (0-10),,"Rate 0-10 based on overall condition"
+Pest Control Status,,"Enter: Excellent / Good / Fair / Critical"
+Pest Control Issues Found,,"List all issues separated by semicolons"
+Pest Control Detailed Notes,,"Describe any pest activity, food storage, fumigation date"
+Pest Control Recommendations,,"List recommendations with costs"
+Pest Control Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== CATEGORY 10: CLEANLINESS & HYGIENE ===,,
+Cleanliness Score (0-10),,"Rate 0-10 based on overall condition"
+Cleanliness Status,,"Enter: Excellent / Good / Fair / Critical"
+Cleanliness Issues Found,,"List all issues separated by semicolons"
+Cleanliness Detailed Notes,,"Describe floors, surfaces, toilets, sanitizers"
+Cleanliness Recommendations,,"List recommendations with costs"
+Cleanliness Photo Filename,,"Filename of photo in Google Drive"
+,,,
+=== OVERALL SUMMARY ===,,
+Critical Issue 1,,"Most urgent issue requiring immediate attention"
+Critical Issue 1 Cost,,"Cost in Naira (numbers only, e.g., 45000)"
+Critical Issue 2,,"Second most urgent issue"
+Critical Issue 2 Cost,,"Cost in Naira (numbers only)"
+Critical Issue 3,,"Third most urgent issue"
+Critical Issue 3 Cost,,"Cost in Naira (numbers only)"
+Total Critical Repairs Cost,,"Sum of all critical costs (numbers only)"
+Total All Recommendations Cost,,"Sum of ALL recommendations across all categories (numbers only)"
+Overall Facility Condition,,"Enter: Excellent / Good / Fair / Poor"
+Additional Comments,,"Any other observations or recommendations"
+Inspection Duration (minutes),,"How long the on-site inspection took"

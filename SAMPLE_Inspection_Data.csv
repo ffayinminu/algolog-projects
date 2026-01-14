@@ -1,0 +1,78 @@
+FIELD,VALUE
+Hospital/Clinic Name,Cedar Crest Hospital
+Address,"123 Medical Drive, Gudu, Abuja FCT"
+Contact Person,Dr. Amina Mohammed
+Contact Phone,080-1234-5678
+Inspection Date,12/01/2026
+Inspector Name,Ibrahim Yusuf
+Generator Score (0-10),8.5
+Generator Status,Excellent
+Generator Issues Found,Oil slightly dark; Battery terminals have minor corrosion
+Generator Detailed Notes,"Generator is in good operational condition. Load test passed successfully. Oil level adequate but color indicates it's nearing change interval. Battery voltage at 12.6V which is acceptable. No fuel leaks detected. Exhaust smoke is normal. Generator has been well-maintained overall."
+Generator Recommendations,"Oil change - ₦15,000; Battery terminal cleaning - ₦5,000"
+Generator Photo Filename,cedar_gen_jan2026.jpg
+HVAC Score (0-10),7
+HVAC Status,Good
+HVAC Issues Found,Unit 3 in main ward making rattling noise; Unit 5 in reception cooling inadequately; Filters in 4 units are dirty
+HVAC Detailed Notes,"Out of 8 AC units, 6 are functioning well. Unit 3 requires urgent attention as the noise suggests a loose component or failing bearing. Unit 5 is not cooling to desired temperature (currently 26°C instead of 20°C). All filters were inspected and 4 need immediate cleaning or replacement."
+HVAC Recommendations,"Service Unit 3 - ₦30,000; Gas refill Unit 5 - ₦20,000; Clean/replace 4 filters - ₦20,000 (₦5,000 each)"
+HVAC Photo Filename,cedar_hvac_jan2026.jpg
+Equipment Environment Score (0-10),8
+Equipment Environment Status,Excellent
+Equipment Environment Issues Found,Temperature slightly elevated in imaging room during peak hours
+Equipment Environment Detailed Notes,"Medical equipment storage and operating rooms maintain good environmental conditions. Temperature monitoring shows imaging room reaches 28°C during afternoon peak hours, which is within acceptable range but not optimal. Dust levels are minimal. Ventilation is adequate throughout."
+Equipment Environment Recommendations,"Install additional ventilation fan in imaging room - ₦40,000"
+Equipment Environment Photo Filename,cedar_equip_jan2026.jpg
+Water Systems Score (0-10),6.5
+Water Systems Status,Good
+Water Systems Issues Found,Water pressure low in second floor; External water tank shows rust/corrosion; One tap in staff toilet dripping
+Water Systems Detailed Notes,"Water supply is generally reliable but pressure on second floor is noticeably lower than ground floor. External inspection of overhead tank reveals rust patches on exterior surface which may indicate need for cleaning and maintenance. Small leak in staff toilet tap causing water wastage estimated at 20 liters per day."
+Water Systems Recommendations,"Tank cleaning and exterior treatment - ₦80,000; Pump pressure adjustment - ₦15,000; Tap repair - ₦8,000"
+Water Systems Photo Filename,cedar_water_jan2026.jpg
+Electrical Score (0-10),7.5
+Electrical Status,Good
+Electrical Issues Found,12 burned out bulbs throughout facility; 2 non-functional outlets in storage room; One light switch in pharmacy not working
+Electrical Detailed Notes,"Electrical infrastructure is generally sound with no exposed wiring detected. Most circuits are functioning properly. The burned out bulbs are concentrated in the corridor (8 bulbs) and patient rooms (4 bulbs). Storage room outlets appear to be a circuit issue rather than individual outlet failure."
+Electrical Recommendations,"Bulb replacements (12 units) - ₦12,000; Outlet/circuit repair in storage - ₦15,000; Switch replacement in pharmacy - ₦5,000"
+Electrical Photo Filename,cedar_electrical_jan2026.jpg
+Plumbing Score (0-10),6
+Plumbing Status,Fair
+Plumbing Issues Found,Toilet in Ward B not flushing properly; Sink drain in laboratory slow; Foul odor from drain in cleaning room; 2 toilets have running water (constant flow)
+Plumbing Detailed Notes,"Plumbing system requires attention in multiple areas. Ward B toilet has weak flush indicating possible valve or water pressure issue. Laboratory sink drains slowly suggesting partial blockage. Cleaning room drain emits sewage odor indicating possible trap issue or main line problem. Two toilets continuously running causing significant water waste (estimated 500 liters per day combined)."
+Plumbing Recommendations,"Toilet flush repairs (3 units) - ₦60,000; Drain cleaning (2 locations) - ₦25,000; Install drain trap in cleaning room - ₦20,000"
+Plumbing Photo Filename,cedar_plumbing_jan2026.jpg
+Waste Management Score (0-10),9
+Waste Management Status,Excellent
+Waste Management Issues Found,One yellow bin lid broken in outpatient area
+Waste Management Detailed Notes,"Medical waste management system is exemplary. Proper segregation observed throughout facility. Yellow bins for infectious waste are present in all required locations. Sharp containers are available and not overfilled. Waste storage area is secure and well-maintained. Staff demonstrate good understanding of protocols."
+Waste Management Recommendations,"Replace broken yellow bin lid - ₦8,000"
+Waste Management Photo Filename,cedar_waste_jan2026.jpg
+Fire Safety Score (0-10),5.5
+Fire Safety Status,Fair
+Fire Safety Issues Found,3 fire extinguishers expired (dates: 2023); Fire extinguisher in pharmacy not accessible (blocked by supplies); Exit sign in back corridor not illuminated; No fire drill conducted in past 12 months
+Fire Safety Detailed Notes,"Fire safety infrastructure exists but requires urgent attention. Three extinguishers have expired tags from 2023 and need immediate refilling or replacement. Pharmacy extinguisher is blocked by medical supplies stacked in front of it. Emergency exit signage in back corridor has non-functional lighting. Staff report no fire drills have been conducted recently."
+Fire Safety Recommendations,"Refill/replace 3 expired extinguishers - ₦45,000; Repair exit sign lighting - ₦12,000; Fire safety training and drill - ₦100,000"
+Fire Safety Photo Filename,cedar_fire_jan2026.jpg
+Pest Control Score (0-10),8.5
+Pest Control Status,Excellent
+Pest Control Issues Found,Minor ant activity observed in staff kitchen area
+Pest Control Detailed Notes,"Facility is generally pest-free. No evidence of rodent activity. No cockroach sightings. Small ants observed in staff kitchen near food storage area but this is minor and easily addressed. Last fumigation was conducted 2 months ago. Food storage areas are properly sealed except staff kitchen."
+Pest Control Recommendations,"Targeted ant treatment in kitchen - ₦15,000; Install kitchen food storage containers - ₦10,000"
+Pest Control Photo Filename,cedar_pest_jan2026.jpg
+Cleanliness Score (0-10),9.5
+Cleanliness Status,Excellent
+Cleanliness Issues Found,None significant - facility maintained to high standard
+Cleanliness Detailed Notes,"Facility cleanliness is outstanding. Floors are spotless throughout. Patient rooms are well-maintained. Toilets are clean and well-stocked with supplies. Hand sanitizer dispensers are present at all required locations and filled. Staff demonstrates excellent housekeeping practices. Only minor suggestion would be more frequent deep cleaning of corridor corners."
+Cleanliness Recommendations,"Continue current excellent cleaning protocols; Consider quarterly deep cleaning of all corners and hard-to-reach areas - ₦50,000"
+Cleanliness Photo Filename,cedar_clean_jan2026.jpg
+Critical Issue 1,"Three fire extinguishers expired (safety compliance violation)"
+Critical Issue 1 Cost,45000
+Critical Issue 2,"Two toilets with constant running water (wasting ~500L/day = ₦15,000/month)"
+Critical Issue 2 Cost,40000
+Critical Issue 3,"AC Unit 3 making unusual noise (potential imminent failure - emergency replacement would cost ₦200,000+)"
+Critical Issue 3 Cost,30000
+Total Critical Repairs Cost,115000
+Total All Recommendations Cost,605000
+Overall Facility Condition,Good - several issues need attention but overall well-maintained
+Additional Comments,"Cedar Crest Hospital maintains their facility well overall. The most urgent priority is addressing fire safety compliance issues. Water wastage from plumbing issues represents ongoing unnecessary expense. With the recommended repairs, the facility health score could improve from current 76/100 to projected 85-90/100 within 30 days. Management shows commitment to maintenance and should see good ROI on recommended investments."
+Inspection Duration (minutes),180
