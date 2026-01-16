@@ -204,9 +204,127 @@ Overall Score = Average of all 11 category scores
 
 ---
 
-### 3.7 Critical Issues Tracking
+### 3.7 Interactive Dashboard & Drill-Down Features
 
-**FR-3.7.1** System shall capture top 3 critical issues:
+**FR-3.7.1** System shall provide an interactive web/mobile dashboard where clients can view facility health reports on any device (tablet, laptop, desktop, phone).
+
+**FR-3.7.2** Dashboard shall be fully responsive and display correctly on all screen sizes.
+
+**FR-3.7.3** **Clickable Repair Costs** — When user clicks on a repair cost amount (e.g., ₦80,000):
+- System shall display an itemized breakdown popup/modal showing:
+  - Item name (e.g., "Engine Oil", "Filter", "Sensor")
+  - Quantity
+  - Unit price
+  - Total cost per item
+  - Receipt/invoice reference (if attached)
+  - Date of purchase/replacement
+  - Photo evidence (if available)
+
+**FR-3.7.4** **Clickable Issues Found** — When user clicks on issues count (e.g., "2 issues"):
+- System shall display a detailed issues list showing:
+  - Issue description
+  - Severity level
+  - Recommended action
+  - Estimated cost to fix
+  - Photo evidence of issue
+  - Date identified
+
+**FR-3.7.5** **Expandable Category Rows** — Each category row in the report table shall be expandable to show:
+- Full list of checkpoints inspected
+- Pass/fail status for each checkpoint
+- Detailed notes from inspector
+- All photos for that category
+- Complete cost breakdown
+
+---
+
+### 3.8 Cost Itemization Module
+
+**FR-3.8.1** For each category, system shall track itemized costs:
+
+| Field | Description | Required |
+|-------|-------------|----------|
+| Item Name | Description of part/service | Yes |
+| Quantity | Number of units | Yes |
+| Unit Price | Cost per unit (₦) | Yes |
+| Total | Quantity × Unit Price | Auto |
+| Vendor | Supplier name | No |
+| Receipt Number | Invoice/receipt reference | No |
+| Receipt Photo | Photo of receipt/invoice | No |
+| Date | Date of purchase/service | Yes |
+
+**FR-3.8.2** System shall auto-sum all items to calculate category repair cost.
+
+**FR-3.8.3** System shall store receipt photos for audit verification.
+
+---
+
+### 3.9 Quality Verification Module
+
+**FR-3.9.1** System shall track quality/condition of inspected items to prevent fraud:
+
+**For Generator Health:**
+- Oil quality check (color, viscosity, contamination level)
+- Oil brand verification (photo of oil container)
+- Filter condition (new vs used verification)
+- Battery condition with voltage reading
+
+**For HVAC Systems:**
+- Refrigerant level verification
+- Filter condition (photo evidence)
+- Compressor readings
+
+**For All Categories:**
+- Before/after photos for replacements
+- Serial numbers of replaced parts (where applicable)
+- Manufacturer labels/stickers (photo evidence)
+
+**FR-3.9.2** System shall flag discrepancies:
+- If item marked as "replaced" but no receipt attached
+- If item marked as "new" but photo shows used condition
+- If reported cost significantly exceeds market rate
+
+**FR-3.9.3** Quality verification fields per item:
+| Field | Description |
+|-------|-------------|
+| Condition | New / Used / Refurbished |
+| Quality Rating | 1-5 stars |
+| Verification Photo | Photo of actual item installed |
+| Brand/Model | Manufacturer details |
+| Serial Number | For trackable parts |
+| Warranty Status | Under warranty / Expired / N/A |
+
+---
+
+### 3.10 Accountability & Audit Trail
+
+**FR-3.10.1** System shall maintain complete audit trail:
+- Who entered each data point (inspector name, timestamp)
+- Who approved/modified records (admin name, timestamp)
+- History of all changes to inspection data
+
+**FR-3.10.2** System shall support verification workflow:
+1. Inspector submits inspection with itemized costs
+2. Admin reviews and verifies against receipts/photos
+3. Admin approves or flags discrepancies
+4. Client receives verified report
+
+**FR-3.10.3** System shall generate discrepancy alerts when:
+- Reported items don't match photo evidence
+- Costs exceed expected market rates by >20%
+- Required verification photos are missing
+- Receipt totals don't match reported costs
+
+**FR-3.10.4** System shall provide comparison reports:
+- Items reported vs items verified
+- Expected costs vs actual costs
+- Industry benchmarks vs facility costs
+
+---
+
+### 3.11 Critical Issues Tracking
+
+**FR-3.11.1** System shall capture top 3 critical issues:
 - Issue description
 - Estimated cost to fix
 - Priority level
