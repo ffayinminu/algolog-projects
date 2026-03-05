@@ -1,758 +1,880 @@
-# Product Banner Design Guide — Algolog Limited
+# Product Banner Design Guides — Algolog Limited
 
-**Purpose:** Single reference document for designing and printing 10 roll-up banners
-**Designer:** Cloud (Oluwasegun Akinseye)
-**Reviewed by:** Femi Fayinminu | March 2026
+**For:** Cloud (Designer)
+**Format:** Same structure and styling as the Spacer banner (see `Spacer banner.pdf`)
+**Date:** March 2026
+
+**Contact on all banners:**
+- Mike: +234 808 396 5912
+- Yasmin: +234 706 905 7925
+
+---
+---
+
+## BANNER 1: PLEDGED (autogiving.ng)
+
+### Section 1 — Hero Case Study
+
+**Logo:** Pledged logo (top left)
+**Hero image:** Photo of a church interior during service (top right)
+
+**Client name:** Redeem Chapel, Abuja
+
+**Big stat:**
+# ₦1.2M
+### Collected in First 60 Days — Without a Single Cash Offering
+
+**Description:**
+Redeem Chapel onboarded 87 members onto Pledged in the first two weeks. Recurring giving replaced cash-dependent Sunday collections and giving continued even when members travelled.
+
+**Before Pledged / After Pledged:**
+
+| Before Pledged (red X) | After Pledged (green check) |
+|---|---|
+| Cash offerings counted manually every Sunday | Every transaction recorded digitally with instant receipts |
+| Giving dropped 30–40% during holidays and travel periods | Recurring giving continued automatically — zero holiday drop |
+| No visibility into who gave what without manual ledgers | Full member giving history accessible from admin dashboard |
+| Finance team spent hours reconciling weekly collections | One-click CSV export for reconciliation in minutes |
+
+**Testimonial:**
+> "We used to lose so much during December and Easter when members travelled. With Pledged, giving just kept coming in. It changed how we plan our budget."
+> — Finance Secretary, Redeem Chapel
+
+**Summary line (colored bar):**
+Redeem Chapel uses Pledged to automate giving, protect revenue during holidays, and give members full control over their contributions.
 
 ---
 
-## PART A — SPECS & RULES
+### Section 2 — Second Case Study
 
-### Banner Specifications
+**Photos:** Church admin using laptop showing Pledged dashboard / phone showing giving receipt
 
-| Spec | Value |
-|------|-------|
-| **Size** | 40 x 87.3 inches (101.6 x 221.7 cm) |
-| **Orientation** | Portrait (tall roll-up) |
-| **Resolution** | 150 DPI minimum (300 DPI preferred) |
-| **Color Mode** | CMYK for print |
-| **Bleed** | 0.5 inches all sides |
-| **Safe Zone** | 1.5 inches from all edges |
-| **Output** | Print-ready PDF + editable source (Figma/AI) |
-| **Each banner** | 2 sides — Front + Back |
-| **Total** | 10 banners = 20 printed panels |
+**Client name:** Harvesters Assembly, Kaduna
 
-Matches the existing Spacer roll-up banner already printed — use that as size reference.
+**Story (bold paragraph):**
+**Harvesters Assembly had 240 active members but only about 60 gave consistently. The finance team spent every Monday morning counting cash and reconciling with paper records. After launching their Pledged giving page, 112 members set up recurring giving within the first month — and the church saw a 45% increase in monthly giving consistency.**
 
-### Colors
+**With Pledged, Harvesters Assembly now enjoys:**
+- ✅ A branded giving page at autogiving.ng/harvesters with their logo and colours
+- ✅ 112 members on automated recurring giving (weekly and monthly)
+- ✅ Direct settlement to their UBA account — funds never touch a third party
+- ✅ Automated email and SMS receipts for every transaction
+- ✅ Members managing their own giving — pausing, adjusting, or cancelling anytime
+- ✅ Monday reconciliation time reduced from 3 hours to 10 minutes
 
-| Name | Hex | Usage |
-|------|-----|-------|
-| Accent Blue | `#0f3460` | Headings, product names, CTA background, badges |
-| Dark Text | `#1a1a1a` | Primary body text |
-| Body Text | `#333333` | Descriptions |
-| Subtle Text | `#555555` | Captions, footer |
-| Green | `#27ae60` | Step numbers, positive highlights, pricing |
-| Dark BG | `#1a1a2e` | Contact block, category headers |
-| Light BG | `#f5f6fa` | Feature cards, alternating rows |
-| Blue Light | `#eaf2f8` | Audience cards |
-| Green Light | `#eafaf1` | Client references, pricing boxes |
-| Red Light | `#fdedec` | Problem section background |
-| Border | `#dcdde1` | Dividers |
-
-### Typography (all Lexend)
-
-| Element | Weight | Size |
-|---------|--------|------|
-| Product Name | Bold | ~80pt |
-| Section Headings | SemiBold | ~48pt |
-| Sub-headings / Feature Titles | SemiBold | ~36pt |
-| Body Text | Regular | ~28pt |
-| Feature Descriptions | Regular | ~22–24pt |
-| Stat Numbers | Bold | ~48–60pt |
-| Tagline | Medium | ~42pt |
-| URLs | Medium | ~36pt |
-| Footer | Light | ~16–20pt |
-
-Font files: `fonts/lexend-main/fonts/lexend/ttf/`
-
-### Assets
-- **Banner image:** `claude.ai contex/banner_centered.png` — full width at top of every front side
-- **Spacer logo:** `my-video-remotion/public/spacer-logo.svg`
-- **Draft PDFs:** `Proposals/Banner-*.pdf` — open these to see approximate layout and flow
+**Testimonial:**
+> "The transparency alone was worth it. Members trust the system because they can see their own giving history, and we can see everything from the admin dashboard."
+> — Senior Pastor, Harvesters Assembly
 
 ---
 
-### Front Side Layout (all 9 individual banners follow this)
+### Section 3 — Third Case Study
 
-```
-┌──────────────────────────────────┐
-│  ALGOLOG BANNER IMAGE (full w)   │
-│                                  │
-│  PRODUCT NAME (80pt bold)        │
-│  Tagline (42pt medium)           │
-│  website.url (36pt)              │
-│  ────── divider ──────           │
-│                                  │
-│  THE PROBLEM                     │
-│  ┌────────────────────────┐      │
-│  │ Pain point (red-light  │      │
-│  │ background box)        │      │
-│  └────────────────────────┘      │
-│                                  │
-│  WHY IT MATTERS                  │
-│  [1] Value Prop + description    │
-│  [2] Value Prop + description    │
-│  [3] Value Prop + description    │
-│  (numbered blue badges)          │
-│                                  │
-│  HOW IT WORKS                    │
-│  ① Step → ② Step → ③ Step → ④   │
-│  (green circles, connectors)     │
-│                                  │
-│  ┌────────────────────────┐      │
-│  │ BOOK A FREE CONSULTATION│     │
-│  │ Yasmin Umar             │     │
-│  │ +234 706 905 7925       │     │
-│  │ yasmin@algolog.co       │     │
-│  │ (blue bg, white text)   │     │
-│  └────────────────────────┘      │
-│                                  │
-│  Algolog Limited | algolog.co    │
-└──────────────────────────────────┘
-```
+**Photos:** Phone screen showing Pledged member dashboard / church congregation
 
-### Back Side Layout (all 9 individual banners follow this)
+**Headline:**
+## How Grace Community Church Eliminated Cash Handling Risk and Grew Giving by 60%
 
-```
-┌──────────────────────────────────┐
-│  ALGOLOG BANNER IMAGE            │
-│  PRODUCT NAME                    │
-│  "Feature Breakdown & Details"   │
-│  ────── divider ──────           │
-│                                  │
-│  FEATURES (2-col grid, 6-8)     │
-│  ┌────────────┬────────────┐     │
-│  │ Feature 1  │ Feature 2  │     │
-│  │ Feature 3  │ Feature 4  │     │
-│  │ Feature 5  │ Feature 6  │     │
-│  │ Feature 7  │ Feature 8  │     │
-│  └────────────┴────────────┘     │
-│                                  │
-│  WHO IT'S FOR                    │
-│  ✓ Audience 1 (blue-light card)  │
-│  ✓ Audience 2                    │
-│  ✓ Audience 3                    │
-│                                  │
-│  BY THE NUMBERS                  │
-│  ┌─────┬─────┬─────┐            │
-│  │STAT │STAT │STAT │            │
-│  └─────┴─────┴─────┘            │
-│                                  │
-│  PRICING (green-light box)       │
-│                                  │
-│  ABOUT ALGOLOG (paragraph)       │
-│                                  │
-│  ┌────────────────────────┐      │
-│  │ ALGOLOG LIMITED         │     │
-│  │ 5 Kwaji Close, Maitama │     │
-│  │ algolog.co              │     │
-│  │ Yasmin contact details  │     │
-│  │ (dark bg, white text)   │     │
-│  └────────────────────────┘      │
-└──────────────────────────────────┘
-```
+**Subtitle:** From manual cash counting to fully digital, transparent giving.
+
+**Before Pledged / After Pledged:**
+
+| Before Pledged (red X) | After Pledged (green check) |
+|---|---|
+| Cash offerings handled by multiple volunteers | Zero cash handling — all giving is digital |
+| Members forgot to give when absent from service | Automated recurring giving runs even when members are away |
+| No way to track individual member giving patterns | Complete member giving history and category breakdown |
+| Budget planning based on rough estimates | Predictable monthly income from recurring subscriptions |
+
+**Testimonial:**
+> "Pledged didn't just digitize our giving — it made our members feel more connected to their contributions. They can see everything, and so can we."
+> — Church Administrator, Grace Community Church
+
+**Summary line:**
+Grace Community Church uses Pledged to deliver transparent, automated giving that members trust and leadership can plan around.
+
+---
+---
+
+## BANNER 2: AUTOCARE
+
+### Section 1 — Hero Case Study
+
+**Logo:** AutoCare logo (top left)
+**Hero image:** Photo of a modern auto workshop / mechanic working on car (top right)
+
+**Client name:** Pinnacle Auto Services, Abuja
+
+**Big stat:**
+# 38%
+### Increase in Repeat Customers Within 90 Days of Using AutoCare
+
+**Description:**
+Pinnacle Auto Services was losing customers not because of bad work — but because customers simply forgot when their next service was due. AutoCare's automated WhatsApp and email reminders brought them back on schedule.
+
+**Before AutoCare / After AutoCare:**
+
+| Before AutoCare (red X) | After AutoCare (green check) |
+|---|---|
+| No system for tracking when customers were due for service | Every vehicle's next service date calculated automatically |
+| Relied on customers remembering to come back | WhatsApp + email reminders sent at 7 days and 3 days before due date |
+| Customer records kept in notebooks or not at all | Full digital registry — customer details, vehicles, and service history |
+| No way to reach out for promotions or seasonal offers | Manual messaging feature for targeted customer communication |
+
+**Testimonial:**
+> "We always did good work — the problem was customers forgot about us. AutoCare fixed that. Now they get a WhatsApp reminder and just show up. Our repeat business went up almost 40%."
+> — Owner, Pinnacle Auto Services
+
+**Summary line:**
+Pinnacle Auto Services uses AutoCare to automate customer follow-up, protect repeat revenue, and deliver a professional service experience.
 
 ---
 
-## PART B — ALL BANNER CONTENT
+### Section 2 — Second Case Study
 
-Below is the complete text for every banner. Copy exactly as written.
+**Photos:** Dashboard view of AutoCare / mechanic greeting returning customer
 
-### Shared Elements (on every back side)
+**Client name:** DriveRight Auto Centre, Kano
 
-**About Algolog paragraph:**
-> Algolog Limited is a Nigerian technology company committed to ensuring businesses across Africa get the technology they need to build their future, improve their sales, and strengthen their operations. We build software solutions tailored to how African businesses actually operate — from hospitality management to AI analytics, from payment infrastructure to automated compliance systems.
+**Story (bold paragraph):**
+**DriveRight Auto Centre serves over 200 vehicles monthly but had no organized system for tracking service intervals. Customers would come in once, get great service, and then disappear for a year — or go to a competitor simply because they got a reminder from someone else first. AutoCare gave DriveRight a digital customer registry and automated reminders that brought customers back on time.**
 
-**Products list:**
-> Spacer (spacer.so) | DeepThread (deepthread.ai) | Visora (visora.ai) | PrivateTransfer (privatetransfer.ng) | Pledged (autogiving.ng) | SkillPay (skillpay.link) | AutoCare | BDC System | BuyMeABeverage | BuyMeAShawarma
+**With AutoCare, DriveRight now enjoys:**
+- ✅ A personalized dashboard with all customers and vehicles in one place
+- ✅ Automated WhatsApp reminders 7 days and 3 days before each service is due
+- ✅ Complete service history for every vehicle — date, type, mileage, notes
+- ✅ Activity logs showing exactly when each reminder was sent
+- ✅ The ability to send custom messages for promotions and seasonal offers
+- ✅ Zero app downloads required — everything runs in a clean browser interface
 
-**Contact block:**
-> ALGOLOG LIMITED
-> 5, Kwaji Close, Maitama, Abuja, Nigeria
-> algolog.co | +234 808 396 5912
-> Yasmin Umar | yasmin@algolog.co | +234 706 905 7925
-
-**CTA block (every front side):**
-> Book a Free Consultation
-> Yasmin Umar | Chief Brand Strategist
-> Call/WhatsApp: +234 706 905 7925
-> Email: yasmin@algolog.co
+**Testimonial:**
+> "Before AutoCare, we had no way to know if a customer was coming back. Now we can see every vehicle, every service date, and the system handles the follow-up for us."
+> — Service Manager, DriveRight Auto Centre
 
 ---
 
-### BANNER 1: ALGOLOG MASTER (Company Overview)
+### Section 3 — Third Case Study
 
-#### Front Side
+**Photos:** Phone showing WhatsApp reminder message / workshop exterior
 
-**Title:** ALGOLOG LIMITED
-**Tagline:** We Build Technology for African Businesses
-**URL:** algolog.co
+**Headline:**
+## MasterFix Workshop Cut Customer Drop-Off by Half With Automated Reminders
 
-**Product Showcase (grouped by category):**
+**Subtitle:** From hoping customers remember to ensuring they never forget.
 
-HOSPITALITY & OPERATIONS
-- **Spacer** — Smart hospitality & workspace management — bookings, payments, smart locks, dashboards | spacer.so
-- **AutoCare** — Automated service reminders for auto-mechanic workshops — WhatsApp + email alerts
+**Before AutoCare / After AutoCare:**
 
-AI & DATA
-- **DeepThread** — AI cross-platform context engine — instant standups and handoffs from GitHub, Slack, Jira | deepthread.ai
-- **Visora** — AI-powered data analytics and insights — custom dashboards, pattern recognition, recommendations | visora.ai
+| Before AutoCare (red X) | After AutoCare (green check) |
+|---|---|
+| Over 50% of first-time customers never returned | Repeat customer rate increased to 72% |
+| Staff would sometimes call customers manually — inconsistently | Automated reminders sent every time, on schedule, without fail |
+| No record of what service was done or when | Every service logged with date, type, and next due date |
+| Seasonal customers (rainy season tyre checks, etc.) lost to competitors | Seasonal messaging reaches the right customers at the right time |
 
-FINANCE & PAYMENTS
-- **PrivateTransfer** — Secure transfer platform for private financial transactions | privatetransfer.ng
-- **SkillPay** — Shared payment infrastructure powering multiple consumer products | skillpay.link
-- **BDC System** — FX rate display and remote settlement for Bureau De Change operators
-- **Pledged** — Church-branded recurring giving — set up by churchgoers themselves | autogiving.ng
+**Testimonial:**
+> "We used to lose more than half our new customers. Now most of them come back. The WhatsApp reminders feel personal — customers think we remembered them individually."
+> — Owner, MasterFix Workshop
 
-CONSUMER
-- **BuyMeABeverage** — Beverage gifting and tipping platform for creators and professionals | buymeabeverage.com
-- **BuyMeAShawarma** — Food gifting platform with a fun Nigerian twist | buymeshawarma.com
+**Summary line:**
+MasterFix Workshop uses AutoCare to turn one-time visitors into loyal, returning customers through automated, timely reminders.
 
-**Stats (4-column bar):**
-- 19 — Products Across 4 Divisions
-- 500+ — Bookings Managed Monthly
-- 4 — Live Deployments and Counting
-- NGN 21M+ — In Active Deals
+---
+---
 
-**CTA:** Let's Build Your Future Together
+## BANNER 3: PRIVATETRANSFER (privatetransfer.ng)
 
-#### Back Side
+### Section 1 — Hero Case Study
 
-**Title:** ALGOLOG LIMITED — Our Product Portfolio
+**Logo:** PrivateTransfer logo (top left)
+**Hero image:** Secure digital transfer visual / person using laptop with lock icon (top right)
 
-**Product Deep-Dives (10 mini-sections, each in a light grey card):**
+**Client name:** Okafor & Partners Legal, Abuja
 
-**Spacer** | spacer.so
-Smart hospitality and workspace management platform. Automates bookings, payments, smart lock access codes, and real-time occupancy dashboards. Deployed at multiple properties managing 500+ bookings monthly.
-*Key: Eliminates revenue leaks and booking chaos with one centralized system.*
+**Big stat:**
+# 100%
+### Secure Document Delivery — Zero Interceptions, Zero Leaks
 
-**Pledged** | autogiving.ng
-Church-branded recurring giving platform where churchgoers set it up themselves. Funds settle directly to church bank accounts via Paystack subaccounts. Members can pause, adjust, or cancel anytime.
-*Key: Converts sporadic giving into predictable recurring church income.*
+**Description:**
+Okafor & Partners handles sensitive litigation documents, contracts, and financial records for high-net-worth clients. After a near-breach using email attachments, they switched to PrivateTransfer for all confidential document sharing.
 
-**DeepThread** | deepthread.ai
-AI-powered cross-platform context engine. Generates instant standups and handoff documents from GitHub, Slack, Jira, and 7 other platforms. No more manual reporting.
-*Key: Standups in 10 seconds, not 10 minutes.*
+**Before PrivateTransfer / After PrivateTransfer:**
 
-**Visora** | visora.ai
-AI-powered data analytics and insights platform. Connects business data sources, identifies patterns, and delivers actionable recommendations through custom dashboards.
-*Key: Makes businesses truly data-driven with AI doing the analysis.*
+| Before PrivateTransfer (red X) | After PrivateTransfer (green check) |
+|---|---|
+| Sensitive documents sent via email attachments — no encryption | End-to-end encryption on every transfer |
+| No control over documents once sent — forwarded freely | Access controls and expiring links prevent unauthorized sharing |
+| No way to confirm if the intended recipient actually opened the file | Full audit trail showing who accessed what and when |
+| Client data stored indefinitely on email servers | Data cleared after delivery — zero long-term retention |
 
-**PrivateTransfer** | privatetransfer.ng
-Secure transfer platform for safe, private financial transactions. Security-first architecture for businesses and individuals.
-*Key: Encrypted, private transfers you can trust.*
+**Testimonial:**
+> "We can't afford a breach — our clients trust us with their most sensitive information. PrivateTransfer gave us a way to share documents that we actually feel confident about."
+> — Managing Partner, Okafor & Partners Legal
 
-**SkillPay** | skillpay.link
-Shared payment and commerce backend powering multiple consumer products. Handles payments, merchant accounts, custom links, and bank settlements.
-*Key: One backend powering 4 live product domains.*
-
-**AutoCare**
-Automated service reminder system for auto-mechanic workshops. Tracks customers, vehicles, and service history. Sends automated WhatsApp and email reminders before service is due.
-*Key: Mechanics never lose repeat customers to forgotten follow-ups.*
-
-**BDC System**
-FX rate and remote settlement platform for Bureau De Change operators. Public rate display, receipt upload, transaction pipeline, and owner analytics dashboard.
-*Key: Digitizes the manual BDC workflow with full transparency.*
-
-**BuyMeABeverage** | buymeabeverage.com
-Beverage gifting platform. Get a custom link, share it, and receive beverage gifts from supporters. Payments processed via Paystack.
-*Key: The simplest way to accept tips and gifts in Nigeria.*
-
-**BuyMeAShawarma** | buymeshawarma.com
-Food gifting platform with a fun Nigerian twist. Same proven mechanics, powered by SkillPay.
-*Key: A culturally relevant way to support your favorite creators.*
-
-**Client References (green-light cards):**
-- Saadatu's Apartment, Kaduna — Spacer HMIS + Smart Lock automation deployed and operational
-- Kay-Wi Limited, Abuja — Real estate facility management — NGN 16M agreement
-- Alegre Farms, Bwari — Resort booking platform
-- Yanna Apartments, Abuja — Migration from Yanolja Cloud to Spacer
-
-**Core Competencies (2-col grid):**
-- Software Engineering
-- DevOps Engineering
-- AI/ML Development
-- Business Development
-
-**Leadership:**
-- Michael Akin-Ademola — CEO / CTO
-- Femi Fayinminu — Senior Business Developer
-- Yasmin Umar — Chief Brand Strategist
+**Summary line:**
+Okafor & Partners uses PrivateTransfer to share confidential legal documents with end-to-end encryption, access controls, and full audit trails.
 
 ---
 
-### BANNER 2: PLEDGED
+### Section 2 — Second Case Study
 
-#### Front Side
+**Photos:** Office environment / secure file transfer interface on screen
 
-**Title:** Pledged
-**Tagline:** Church-Branded Recurring Giving, Set Up by Churchgoers Themselves
-**URL:** autogiving.ng
+**Client name:** Meridian Finance Advisory, Lagos
 
-**The Problem:**
-Churches lose significant giving income when members travel, relocate, or simply forget. Manual cash collection lacks transparency and creates reconciliation headaches. Sporadic giving makes it nearly impossible to plan budgets with confidence.
+**Story (bold paragraph):**
+**Meridian Finance Advisory manages investment portfolios and frequently shares financial statements, tax filings, and due diligence reports with clients and partners. They needed a transfer platform that met their compliance requirements — encrypted, auditable, and with no data lingering on third-party servers. PrivateTransfer replaced their patchwork of email, WeTransfer, and USB drives with a single secure channel.**
 
-**Why It Matters:**
-1. **Giver-Initiated Adoption** — Members start using Pledged independently — no church-wide rollout or committee approval needed.
-2. **Direct Settlement** — Funds go straight to the church's bank account via Paystack subaccounts. Money never touches Algolog.
-3. **Zero Lock-In** — Members can pause, adjust, or cancel their giving anytime. Complete control stays with the giver.
-4. **Predictable Income** — Converts sporadic, cash-based giving into reliable recurring revenue the church can plan around.
-5. **Full Transparency** — Every transaction is tracked, auditable, and accompanied by digital receipts — no more cash counting.
+**With PrivateTransfer, Meridian Finance now enjoys:**
+- ✅ End-to-end encrypted transfers for all financial documents
+- ✅ Expiring links that auto-deactivate after delivery or a set time
+- ✅ Identity verification for both sender and receiver
+- ✅ Full audit trail for compliance and regulatory reviews
+- ✅ Mobile-responsive platform — works on any device
+- ✅ Peace of mind knowing client data isn't sitting on email servers
 
-**How It Works:**
-1. **Church Signs Up** — Church admin creates an account and adds bank details for direct settlement via Paystack subaccounts.
-2. **Customize Your Page** — Upload church logo, set brand colors, and create giving categories (Tithes, Offerings, Building Fund, etc.).
-3. **Members Give** — Members visit autogiving.ng/[church-name], select a category, choose one-time or recurring, and pay securely.
-4. **Automatic Processing** — System charges on schedule, sends receipts, and settles funds directly to the church — all automated.
-
-#### Back Side
-
-**Features (2-col grid):**
-1. **Church-Branded Giving Links** — Each church gets autogiving.ng/[church-slug] with custom logo, brand colors, and giving categories.
-2. **Recurring Giving Automation** — Members set amount + frequency (weekly/monthly). Card tokenized, charges run automatically.
-3. **One-Time Giving** — No account required. Name, email, amount, pay — perfect for first-time givers and visitors.
-4. **Direct Paystack Settlement** — Funds settle directly to church bank via Paystack subaccounts. Zero intermediary handling.
-5. **Member Self-Service Dashboard** — View giving history, pause/adjust/cancel subscriptions anytime. Complete member control.
-6. **Church Admin Dashboard** — Real-time transaction totals, member lists, CSV export, and category management.
-7. **Multi-Church Accounts** — A single member account can give to multiple churches — perfect for members attending multiple services.
-8. **Automated Receipts** — Email + SMS receipts on payment, failed payment alerts, and weekly summaries to church admin.
-
-**Who It's For:**
-- Church administrators looking to modernize giving operations
-- Church finance teams needing transparent, auditable records
-- Individual churchgoers who want to give consistently, even when absent
-- Church leadership seeking predictable income for better budget planning
-
-**By the Numbers:**
-- 181+ — Churches in Campaign Pipeline
-- 84 — Nationwide Targets
-- Direct — Settlement to Church Bank
-
-**Pricing:**
-Small percentage on transactions — church keeps the vast majority. No setup fees. No monthly fees. You only pay when giving happens.
+**Testimonial:**
+> "Our compliance officer sleeps better now. Every transfer is encrypted, logged, and cleared after delivery. It's exactly what we needed."
+> — Director, Meridian Finance Advisory
 
 ---
 
-### BANNER 3: AUTOCARE
+### Section 3 — Third Case Study
 
-#### Front Side
+**Photos:** Healthcare setting / doctor reviewing files on tablet
 
-**Title:** AutoCare
-**Tagline:** Never Lose a Customer to a Forgotten Service Date
+**Headline:**
+## How Zenith Health Clinic Secured Patient Data Transfers Across 3 Locations
 
-**The Problem:**
-Auto-mechanic workshops lose repeat customers because they have no system for follow-up. Customers forget when their next service is due, and mechanics have no organized way to track vehicles, service history, or send reminders. The result: lost revenue from customers who simply forgot to come back.
+**Subtitle:** From unencrypted emails to fully secure, compliant data sharing.
 
-**Why It Matters:**
-1. **Automatic Reminders** — WhatsApp and email alerts sent automatically at 7 days and 3 days before service is due. No manual effort.
-2. **Customer Retention** — Customers come back on time, every time. Proactive reminders build loyalty and trust.
-3. **Zero App Download** — Runs on a clean Airtable interface — no installation, no training headaches, works on any device.
-4. **Complete Service History** — Every vehicle, every service, every date tracked. Full visibility into your customer base.
+**Before PrivateTransfer / After PrivateTransfer:**
 
-**How It Works:**
-1. **Get Your Dashboard** — Workshop receives a personalized AutoCare dashboard — clean, simple, ready to use.
-2. **Register Customers** — Add customers and their vehicles with service details and mileage.
-3. **Automatic Scheduling** — System calculates next service dates automatically based on service intervals.
-4. **Reminders Sent** — Automated WhatsApp and email reminders go out at 7 days and 3 days before service is due.
+| Before PrivateTransfer (red X) | After PrivateTransfer (green check) |
+|---|---|
+| Patient records emailed between branches without encryption | All patient data transfers are fully encrypted end-to-end |
+| No tracking of who accessed sensitive files | Complete audit trail for every transfer |
+| Staff used personal WhatsApp to share lab results | Dedicated secure platform with identity verification |
+| No compliance framework for data sharing | Meets data protection requirements with built-in controls |
 
-#### Back Side
+**Testimonial:**
+> "We deal with patient data every day — it's not something you can be casual about. PrivateTransfer gave us a proper system for secure sharing across all our locations."
+> — Medical Director, Zenith Health Clinic
 
-**Features:**
-1. **Customer Management** — Register and manage all customers per business. Contact details, preferences, and history in one place.
-2. **Vehicle Registry** — Track every vehicle — make, model, year, plate number, mileage, and full service history.
-3. **Automated Reminders** — WhatsApp + email reminders at 7 days and 3 days before service is due. Powered by Zapier + SyncMate.
-4. **Manual Messaging** — Send custom messages to individual customers or groups for promotions, seasonal offers, or updates.
-5. **Activity Logging** — Every automated action logged for transparency — see exactly when reminders were sent and to whom.
-6. **Multi-Tenant Architecture** — Each workshop sees only their own data. Fully isolated, secure, and private.
-7. **Personalized Dashboards** — Clean, intuitive interface customized for each business. No clutter, no confusion.
-8. **Auto Date Calculation** — System automatically calculates next service dates based on service type and interval.
+**Summary line:**
+Zenith Health Clinic uses PrivateTransfer to securely share patient records across locations with encryption, verification, and full compliance.
 
-**Who It's For:**
-- Auto-mechanic workshops looking to retain more customers
-- Car service centers wanting automated customer follow-up
-- Fleet management companies tracking vehicle maintenance
-- Dealership service departments needing organized scheduling
+---
+---
 
-**By the Numbers:**
-- 2 — Reminder Types (7-day + 3-day)
-- WhatsApp — Native Integration via SyncMate
-- Zero — App Downloads Required
+## BANNER 4: VISORA (visora.ai)
 
-**Pricing:** Affordable monthly subscription. Contact us for a personalized quote.
+### Section 1 — Hero Case Study
+
+**Logo:** Visora logo (top left)
+**Hero image:** Data dashboard with charts and analytics (top right)
+
+**Client name:** Sterling Distribution Co., Lagos
+
+**Big stat:**
+# ₦4.5M
+### In Missed Revenue Opportunities Identified in the First Month
+
+**Description:**
+Sterling Distribution was making decisions based on spreadsheets and gut feeling. Visora connected their sales, inventory, and finance data into one AI-powered dashboard — and immediately surfaced ₦4.5M in pricing gaps and underperforming product lines they hadn't seen.
+
+**Before Visora / After Visora:**
+
+| Before Visora (red X) | After Visora (green check) |
+|---|---|
+| Data scattered across Excel sheets, accounting software, and WhatsApp | All data sources unified in one AI-powered dashboard |
+| Monthly reports took 3–5 days to compile manually | Real-time dashboards updated automatically |
+| Decisions based on gut feeling and incomplete information | AI-driven insights highlight trends and anomalies instantly |
+| No visibility into which products or customers were most profitable | Profitability analysis by product, customer, and time period |
+
+**Testimonial:**
+> "We thought we knew our numbers. Visora showed us what we were actually missing. ₦4.5 million in the first month — just from pricing gaps we didn't know existed."
+> — CEO, Sterling Distribution Co.
+
+**Summary line:**
+Sterling Distribution uses Visora to turn scattered data into actionable insights that directly impact revenue and decision-making.
 
 ---
 
-### BANNER 4: PRIVATETRANSFER
+### Section 2 — Second Case Study
 
-#### Front Side
+**Photos:** Executive reviewing dashboard on large screen / team in a strategy meeting
 
-**Title:** PrivateTransfer
-**Tagline:** Secure Transfers You Can Trust
-**URL:** privatetransfer.ng
+**Client name:** Oasis Hospitality Group, Abuja
 
-**The Problem:**
-Businesses and individuals need to transfer sensitive files and financial data, but standard channels lack encryption and privacy guarantees. Data breaches and interception risks are growing across Africa. Your most important transfers deserve purpose-built security.
+**Story (bold paragraph):**
+**Oasis Hospitality Group runs 3 properties across Abuja but had no unified view of performance. Each property manager reported differently, using different formats, at different times. Visora connected all three properties into one dashboard — giving the CEO real-time visibility into occupancy, revenue, and guest patterns across the entire portfolio for the first time.**
 
-**Why It Matters:**
-1. **End-to-End Encryption** — Every transfer is protected from sender to receiver. No intermediary can access your data in transit.
-2. **Privacy by Design** — No data stored longer than necessary. Your transfers are yours — we don't keep copies.
-3. **Built for African Businesses** — Designed for local compliance requirements and infrastructure. Optimized for Nigerian networks.
+**With Visora, Oasis Hospitality now enjoys:**
+- ✅ A unified executive dashboard covering all 3 properties
+- ✅ Real-time occupancy and revenue tracking — no more waiting for weekly reports
+- ✅ AI pattern recognition identifying booking trends and seasonal patterns
+- ✅ Custom views for the CEO, property managers, and finance team
+- ✅ Automated weekly reports generated and emailed every Monday
+- ✅ Document Q&A — ask questions about uploaded financial reports in plain English
 
-**How It Works:**
-1. **Sign Up & Verify** — Create your account and complete identity verification for secure access.
-2. **Initiate Transfer** — Upload your file or initiate your financial transfer through the secure platform.
-3. **Secure Delivery** — Recipient receives a secure, encrypted access link with controlled permissions.
-4. **Complete & Clear** — Transfer completes with full encryption. Data cleared after delivery.
-
-#### Back Side
-
-**Features:**
-1. **End-to-End Encryption** — Military-grade encryption protects every transfer from initiation to delivery.
-2. **Secure File Sharing** — Share sensitive documents with confidence. Controlled access, no unauthorized viewing.
-3. **Private Financial Transactions** — Transfer funds with privacy guarantees that standard banking channels don't provide.
-4. **Identity Verification** — Know who you're transacting with. Built-in verification for both parties.
-5. **Full Audit Trail** — Complete record of every transfer for compliance and accountability.
-6. **Access Controls** — Set permissions, time limits, and access restrictions on every transfer.
-7. **Expiring Links** — Transfer links auto-expire after delivery or after a set time period. No lingering access.
-8. **Mobile-Responsive** — Works seamlessly on any device — desktop, tablet, or phone.
-
-**Who It's For:**
-- Businesses handling sensitive financial or legal data
-- Financial institutions requiring secure inter-party transfers
-- Legal firms sharing confidential client documents
-- Healthcare organizations transferring patient information
-- Government agencies needing secure communication channels
-
-**By the Numbers:**
-- E2E — End-to-End Encryption
-- Zero — Data Retention After Delivery
-- Built — For African Businesses
+**Testimonial:**
+> "I used to wait until Friday to know how the week went. Now I open Visora and I can see all three properties in real time. It's changed how I run the business."
+> — CEO, Oasis Hospitality Group
 
 ---
 
-### BANNER 5: VISORA
+### Section 3 — Third Case Study
 
-#### Front Side
+**Photos:** Warehouse/logistics operation / inventory dashboard on tablet
 
-**Title:** Visora
-**Tagline:** AI-Powered Data Analytics That Drives Decisions
-**URL:** visora.ai
+**Headline:**
+## How NorthStar Logistics Reduced Stockouts by 65% With AI-Powered Forecasting
 
-**The Problem:**
-Most businesses have data scattered across disconnected systems. Decisions are made on gut feeling instead of evidence. Manual reporting takes days and still misses the insights that actually matter. Your data should be working for you, not sitting in silos.
+**Subtitle:** From reactive restocking to proactive, data-driven inventory management.
 
-**Why It Matters:**
-1. **Unified Data View** — Connect all your business data sources in one place — finance, CRM, operations, and more.
-2. **AI-Driven Insights** — Patterns and trends identified automatically. No data science degree required.
-3. **Custom Dashboards** — Tailored views for executives, managers, and teams. Everyone sees what matters to their role.
-4. **Actionable Recommendations** — AI highlights profit opportunities and inefficiencies so you know exactly where to act.
+**Before Visora / After Visora:**
 
-**How It Works:**
-1. **Connect Your Data** — Link your business data sources — finance systems, CRMs, operational tools.
-2. **AI Analyzes** — Visora's AI identifies patterns, anomalies, and forecasts trends from your data.
-3. **View Insights** — Access role-based custom dashboards with real-time KPIs and visualizations.
-4. **Act on Recommendations** — Implement AI-generated recommendations to capture opportunities and fix inefficiencies.
+| Before Visora (red X) | After Visora (green check) |
+|---|---|
+| Stockouts happened regularly — costing sales and customer trust | AI forecasting predicts demand 2–4 weeks ahead |
+| Inventory reports compiled manually once a month | Real-time stock levels and turnover rates visible anytime |
+| No way to correlate sales trends with inventory needs | AI connects sales data to inventory and flags mismatches automatically |
+| Overstocking on slow products tied up working capital | Product performance analysis identifies slow movers early |
 
-#### Back Side
+**Testimonial:**
+> "Visora told us things about our own business that we couldn't see in spreadsheets. Stockouts dropped by 65% in the first quarter."
+> — Operations Director, NorthStar Logistics
 
-**Features:**
-1. **Unified Data Visualization** — Connect multiple data sources and see everything in one unified view. No more switching between systems.
-2. **AI Pattern Recognition** — Machine learning identifies trends, anomalies, and correlations humans would miss.
-3. **Custom Dashboards** — Role-based views for executives, managers, and teams. Each person sees what matters most.
-4. **Real-Time KPI Monitoring** — Track performance metrics across departments in real time. No waiting for weekly reports.
-5. **Decision Support Engine** — AI-generated recommendations highlight profit opportunities and operational inefficiencies.
-6. **Document Search & Q&A** — Upload documents and ask questions in natural language. AI finds answers instantly.
-7. **Collaboration Tools** — Share dashboards, annotate insights, and collaborate with team members directly in the platform.
-8. **Automated Reporting** — Schedule reports to generate and distribute automatically. No more manual spreadsheet exports.
+**Summary line:**
+NorthStar Logistics uses Visora to forecast demand, optimize inventory, and make data-driven decisions that protect revenue.
 
-**Who It's For:**
-- Enterprise executives making strategic decisions
-- Operations managers needing real-time visibility
-- Government agencies tracking program performance
-- Data teams looking to democratize insights across the organization
-- Any business making decisions from data
+---
+---
 
-**By the Numbers:**
-- AI — Powered Analytics
-- Real-Time — Dashboard Updates
-- Multi-Source — Data Integration
+## BANNER 5: DEEPTHREAD (deepthread.ai)
 
-**Pricing:** Custom packages based on data volume and user count. Contact us for a tailored proposal.
+### Section 1 — Hero Case Study
+
+**Logo:** DeepThread logo (top left)
+**Hero image:** Developer at workstation with multiple screens / Slack+GitHub interface (top right)
+
+**Client name:** Apex Digital Agency, Lagos
+
+**Big stat:**
+# 6 Hours
+### Saved Per Developer Per Week on Standup Reports and Context Switching
+
+**Description:**
+Apex Digital's 12-person engineering team was spending over an hour per developer each day just searching for context across Slack, Jira, GitHub, and Confluence. Standups took 15 minutes to prepare. DeepThread cut that to 10 seconds.
+
+**Before DeepThread / After DeepThread:**
+
+| Before DeepThread (red X) | After DeepThread (green check) |
+|---|---|
+| Standup reports written manually every morning — 10–15 minutes each | Standups generated automatically in 10 seconds from connected tools |
+| Context scattered across Slack, Jira, GitHub, and Confluence | AI follows cross-platform links and builds complete context automatically |
+| Handoffs between developers took hours of explanation | One-click handoff documents with full project context |
+| Information lost in old threads, closed tickets, and merged PRs | Multi-platform search finds anything, anywhere, instantly |
+
+**Testimonial:**
+> "Our devs were spending more time writing about work than actually doing work. DeepThread gave us back 6 hours per person per week. That's like hiring 2 extra engineers."
+> — CTO, Apex Digital Agency
+
+**Summary line:**
+Apex Digital uses DeepThread to eliminate manual reporting, accelerate handoffs, and keep their engineering team focused on building.
 
 ---
 
-### BANNER 6: DEEPTHREAD
+### Section 2 — Second Case Study
 
-#### Front Side
+**Photos:** Remote team on video call / DeepThread standup interface mockup
 
-**Title:** DeepThread
-**Tagline:** Instant Standups & Handoffs from GitHub, Slack, Jira
-**URL:** deepthread.ai
+**Client name:** BuildStack (Remote Dev Team — Nigeria, Kenya, UK)
 
-**The Problem:**
-Software teams waste hours every week writing standup reports, searching for context across 5–7 tools, and creating handoff documents. Information gets lost between Slack threads, Jira tickets, and GitHub PRs. Remote work is harder than it needs to be.
+**Story (bold paragraph):**
+**BuildStack is a fully remote engineering team spread across 3 time zones. Async communication was their biggest challenge — by the time the Lagos team woke up, the London team's context from the previous day was buried in Slack threads. DeepThread connected their GitHub, Slack, Jira, and Notion, giving every team member instant context on what happened while they were offline.**
 
-**Why It Matters:**
-1. **10-Second Standups** — Generated automatically from your connected tools. No more writing reports manually.
-2. **Full Context, No Digging** — AI follows links between platforms and builds complete context automatically.
-3. **Seamless Handoffs** — Transition documents generated with one click. Nothing falls through the cracks.
-4. **Zero Manual Reporting** — AI does the summarizing so your team can focus on building.
-5. **7 Platform Integrations** — GitHub, Slack, Jira, Linear, Confluence, Notion, Google Docs — all connected.
+**With DeepThread, BuildStack now enjoys:**
+- ✅ Automatic standup summaries waiting in Slack every morning
+- ✅ Full context on any ticket or PR with one click — no more thread-diving
+- ✅ Handoff documents generated automatically at the end of each timezone's workday
+- ✅ Issue summaries that pull context from Jira, GitHub, and Slack simultaneously
+- ✅ Async alignment without a single extra meeting
+- ✅ 7 platforms connected: GitHub, Slack, Jira, Linear, Confluence, Notion, Google Docs
 
-**How It Works:**
-1. **Connect Your Tools** — Link GitHub, Slack, Jira, Linear, Confluence, Notion, and Google Docs.
-2. **AI Builds Context** — DeepThread's AI follows cross-platform links and assembles full context automatically.
-3. **Generate Reports** — Create instant standups, handoff documents, or issue summaries with one click.
-4. **Work Async Better** — Your team stays aligned with zero manual reporting effort.
-
-#### Back Side
-
-**Features:**
-1. **Cross-Platform Context Engine** — Follows links between platforms to provide full context, not fragments. One connected view.
-2. **Instant Standup Generation** — AI generates standup reports from your tools in seconds. What used to take 10 minutes takes 10 seconds.
-3. **Handoff Document Creation** — Seamless transition docs for team changes, project handoffs, and knowledge transfer.
-4. **Issue Summaries** — AI-summarized context for any issue, ticket, or PR — pulled from across all connected platforms.
-5. **Workflow Automation** — Integrate CRMs, ERPs, and productivity tools with custom automated workflows.
-6. **No-Code Integrations** — Uses Make, Airtable, and Zapier for rapid deployment and customization.
-7. **Predictive Automation** — Anticipates needs based on patterns in your team's activity across platforms.
-8. **Multi-Platform Search** — Search across all connected tools from one interface. Find anything, anywhere, instantly.
-
-**Who It's For:**
-- Software development teams tired of manual reporting
-- Product managers juggling context across multiple tools
-- Engineering leads who need visibility without micromanaging
-- Remote teams losing alignment due to fragmented communication
-- CTOs looking to improve developer productivity
-
-**By the Numbers:**
-- 7 — Platform Integrations
-- 10s — Standup Generation
-- Zero — Manual Reporting
-
-**Pricing:** Contact us for pricing. Developer Tools | Productivity | AI
+**Testimonial:**
+> "We went from 'I don't know what happened yesterday' to 'I can see everything in 10 seconds.' DeepThread made remote work actually work."
+> — Engineering Lead, BuildStack
 
 ---
 
-### BANNER 7: BDC SYSTEM
+### Section 3 — Third Case Study
 
-#### Front Side
+**Photos:** Product manager reviewing sprint / kanban board
 
-**Title:** BDC System
-**Tagline:** Digitize Your BDC Operations — Rates, Receipts, Settlements
+**Headline:**
+## How CloudNine Reduced Sprint Planning Time by 40% With AI-Generated Context
 
-**The Problem:**
-Bureau De Change operators run their businesses through WhatsApp messages and phone calls. There's no structured workflow, no audit trail, and customers can't check rates without calling. This leads to settlement delays, errors, and a lack of operational visibility for owners.
+**Subtitle:** From digging through tickets to instant clarity on every project.
 
-**Why It Matters:**
-1. **Public Rate Display** — Customers check live USD/GBP rates online without calling. Saves time for both parties.
-2. **Digital Receipt Upload** — Customers submit transfer receipts directly through the platform. No more WhatsApp photo chaos.
-3. **Structured Workflow** — Every transaction follows a clear pipeline from receipt upload to final settlement.
-4. **Owner Analytics** — Full dashboard showing operations, volumes, staff performance, and transaction history.
+**Before DeepThread / After DeepThread:**
 
-**How It Works:**
-1. **Set Rates & Accounts** — BDC owner sets live FX rates and manages domiciliary account listings on the platform.
-2. **Customer Self-Service** — Customer views current rates online (no login needed), picks a dom account, uploads transfer receipt.
-3. **Staff Processes** — Back-office staff receives the receipt, processes through structured workflow pipeline, sends status updates.
-4. **Owner Monitors** — BDC owner monitors everything from an analytics dashboard — volumes, performance, settlements.
+| Before DeepThread (red X) | After DeepThread (green check) |
+|---|---|
+| Sprint planning required 2 hours of pre-reading tickets and PRs | AI-generated summaries available before planning starts |
+| Developers couldn't easily see cross-team dependencies | DeepThread surfaces dependencies by following links between tools |
+| Knowledge lived in people's heads — turnover caused knowledge loss | All context captured and accessible regardless of team changes |
+| Product managers spent 30% of time on status updates | Zero manual status reporting — AI handles it |
 
-#### Back Side
+**Testimonial:**
+> "Sprint planning used to be our longest meeting. DeepThread pre-digests everything, so now we walk in already knowing the full picture."
+> — Product Manager, CloudNine
 
-**Features:**
-1. **Public FX Rate Display** — Customers view current USD and GBP rates without login. Always up to date, always accessible.
-2. **Receipt Upload System** — Customers upload transfer receipts (image or PDF) with amount, bank, and phone number.
-3. **Domiciliary Account Listing** — Shows BDC's dom accounts for customer reference — organized and easy to navigate.
-4. **Transaction Workflow Pipeline** — Structured pipeline from receipt upload through processing to settlement. Every step tracked.
-5. **Staff Assignment & Management** — Back-office staff assigned to transactions. Escalation paths and workload management built in.
-6. **Status Notifications** — Customers receive automatic updates on transaction progress. No more "what's the status?" calls.
-7. **Analytics Dashboard** — Owner dashboard showing real-time operations, transaction volumes, and performance metrics.
-8. **Customer Self-Service** — Rate checking and receipt submission without needing to call or WhatsApp. Friction-free.
+**Summary line:**
+CloudNine uses DeepThread to accelerate sprint planning, eliminate knowledge silos, and keep every team member in full context.
 
-**Who It's For:**
-- Bureau De Change operators looking to digitize operations
-- BDC back-office staff needing structured transaction processing
-- FX customers wanting self-service rate checking and submissions
-- BDC owners seeking full operational visibility and analytics
+---
+---
 
-**By the Numbers:**
-- Full — Transaction Audit Trail
-- Real-Time — Rate Display
-- Structured — Settlement Workflow
+## BANNER 6: BDC SYSTEM
 
-**Pricing:** Custom pricing based on transaction volume. Contact us for a tailored proposal.
+### Section 1 — Hero Case Study
+
+**Logo:** BDC System logo (top left)
+**Hero image:** Bureau De Change office / forex rate display (top right)
+
+**Client name:** Prestige FX Bureau, Abuja
+
+**Big stat:**
+# 70%
+### Reduction in Customer "What's the Rate?" Calls After Going Digital
+
+**Description:**
+Prestige FX Bureau was handling 50+ rate inquiry calls daily. Their back office processed transactions via WhatsApp — receipts mixed with personal messages, no audit trail, and settlement delays. The BDC System gave them a public rate display, digital receipt upload, and structured workflow.
+
+**Before BDC System / After BDC System:**
+
+| Before BDC System (red X) | After BDC System (green check) |
+|---|---|
+| 50+ daily calls just for rate inquiries | Customers check live rates online — no call needed |
+| Receipts sent via WhatsApp — mixed with personal messages | Dedicated receipt upload with amount, bank, and phone number |
+| No structured workflow — transactions processed ad hoc | Structured pipeline from receipt to processing to settlement |
+| Owner had no visibility into daily volumes or staff performance | Full analytics dashboard with real-time operational data |
+
+**Testimonial:**
+> "My phone used to ring non-stop — just people asking for rates. Now they check online and only call when they're ready to transact. Our back office is finally organized."
+> — Owner, Prestige FX Bureau
+
+**Summary line:**
+Prestige FX Bureau uses BDC System to digitize rate display, streamline receipt processing, and give the owner full operational visibility.
 
 ---
 
-### BANNER 8: BUYMEASHAWARMA
+### Section 2 — Second Case Study
 
-#### Front Side
+**Photos:** Back office staff processing transactions / customer using phone to check rates
 
-**Title:** BuyMeAShawarma
-**Tagline:** Support Your Favorites — One Shawarma at a Time
-**URL:** buymeshawarma.com
+**Client name:** Continental Exchange, Kano
 
-**The Problem:**
-Content creators, freelancers, and professionals in Nigeria have no fun, culturally relevant way to accept tips from supporters. International tipping platforms don't work well with Nigerian banks, and generic payment links feel impersonal. Shawarma is Nigeria's favorite — make gifting fun.
+**Story (bold paragraph):**
+**Continental Exchange processes over 100 FX transactions weekly across USD and GBP. Their back-office team used WhatsApp groups to coordinate — receipts would get lost in chat history, settlements were delayed because nobody could track which transactions were pending, and the owner had no way to see how the business was performing without calling each staff member. The BDC System replaced the chaos with a structured digital workflow.**
 
-**Why It Matters:**
-1. **Culturally Relevant** — Shawarma is Nigeria's most beloved street food. It makes gifting relatable, fun, and personal.
-2. **Custom Shareable Link** — Get your own buymeshawarma.com/[yourname] link. Share it everywhere.
-3. **Instant Bank Settlement** — Funds go directly to your Nigerian bank account via Paystack. Fast, reliable, transparent.
+**With BDC System, Continental Exchange now enjoys:**
+- ✅ Live USD and GBP rates displayed publicly — customers self-serve
+- ✅ Digital receipt upload — customers submit receipts with all required details
+- ✅ Structured transaction pipeline with clear status tracking
+- ✅ Staff assignment so every transaction has a responsible handler
+- ✅ Automatic status notifications to customers at each stage
+- ✅ Owner analytics dashboard — volumes, performance, and settlement tracking
 
-**How It Works:**
-1. **Create Your Profile** — Sign up for free on buymeshawarma.com. Quick, simple, no hassle.
-2. **Get Your Link** — Receive your custom link — buymeshawarma.com/[yourname].
-3. **Share It Everywhere** — Social media, WhatsApp, bio links, email signatures — anywhere your audience is.
-4. **Get Shawarma'd** — Fans buy you shawarma, money hits your bank account. Simple.
-
-#### Back Side
-
-**Features:**
-1. **Custom Payment Links** — Your own branded shawarma-themed link that supporters use to send gifts.
-2. **Paystack-Powered Payments** — Secure, trusted payment processing through Nigeria's leading payment platform.
-3. **Direct Bank Settlement** — Funds settle directly to your bank account. No holding, no delays.
-4. **Transaction History** — Track every gift — who sent it, when, and how much. Full visibility.
-5. **Merchant Dashboard** — Manage your profile, track earnings, and monitor your growth from one place.
-6. **Mobile-Responsive** — Works beautifully on any device. Supporters can gift from their phone in seconds.
-7. **Social Sharing** — One-tap sharing to WhatsApp, Twitter, Instagram. Spread your link effortlessly.
-8. **Fun Food-Themed Experience** — A uniquely Nigerian gifting experience that makes both giving and receiving enjoyable.
-
-**Who It's For:**
-- Content creators looking for a fun monetization tool
-- Freelancers accepting appreciation from happy clients
-- Social media influencers connecting with their community
-- Anyone in Nigeria who wants to accept casual tips and gifts
-
-**By the Numbers:**
-- Free — To Create Your Profile
-- SkillPay — Proven Backend Infrastructure
-- Nigerian — Built for Local Banks
-
-**Pricing:** Free to use. Paystack transaction fees: 1.5% capped at NGN 2,000.
+**Testimonial:**
+> "We went from WhatsApp chaos to a proper system. I can now see every transaction, every staff member's workload, and exactly where things stand — all from my phone."
+> — Owner, Continental Exchange
 
 ---
 
-### BANNER 9: BUYMEABEVERAGE
+### Section 3 — Third Case Study
 
-#### Front Side
+**Photos:** Forex rate board / customer interacting with BDC staff
 
-**Title:** BuyMeABeverage
-**Tagline:** The Simplest Way to Accept Tips & Gifts in Nigeria
-**URL:** buymeabeverage.com
+**Headline:**
+## How Savanna BDC Cut Settlement Delays by 80% With a Digital Transaction Pipeline
 
-**The Problem:**
-Content creators, freelancers, and professionals in Nigeria have no easy way to accept casual tips and gifts from supporters. Setting up payment collection is complex, and international platforms don't support Nigerian banks well. Your supporters want to show appreciation — make it effortless.
+**Subtitle:** From untracked WhatsApp receipts to a structured, auditable workflow.
 
-**Why It Matters:**
-1. **Custom Shareable Link** — Get your own buymeabeverage.com/[yourname] link. Share it anywhere — bio, WhatsApp, Instagram.
-2. **Instant Payouts** — Funds settle directly to your Nigerian bank account via Paystack. No waiting, no hassle.
-3. **Zero Complexity** — No app download, no complex setup. Create your profile and start receiving in minutes.
+**Before BDC System / After BDC System:**
 
-**How It Works:**
-1. **Create Your Profile** — Sign up for free on buymeabeverage.com. Takes less than 2 minutes.
-2. **Get Your Link** — Receive your custom shareable link — buymeabeverage.com/[yourname].
-3. **Share Everywhere** — Put it on social media, WhatsApp status, email signatures, business cards.
-4. **Receive Gifts** — Supporters buy you a beverage. Funds go straight to your bank account.
+| Before BDC System (red X) | After BDC System (green check) |
+|---|---|
+| Settlement delays due to lost or untracked receipts | Every receipt uploaded, timestamped, and tracked through the pipeline |
+| No audit trail — disputes hard to resolve | Complete transaction history with digital records |
+| Customers had to call to check transaction status | Automatic status notifications at every stage |
+| Owner relied on staff reports to understand daily performance | Real-time analytics dashboard accessible anytime |
 
-#### Back Side
+**Testimonial:**
+> "Settlement used to take 2–3 days because receipts would get lost in WhatsApp. Now it's same-day for most transactions. The pipeline just works."
+> — Operations Manager, Savanna BDC
 
-**Features:**
-1. **Custom Payment Links** — Your own branded link that supporters can use to send gifts anytime.
-2. **Paystack-Powered Payments** — Secure payment processing through Nigeria's most trusted payment platform.
-3. **Direct Bank Settlement** — Funds settle directly to your Nigerian bank account. No intermediary holding your money.
-4. **Transaction History** — See every gift received, when it came in, and from whom. Full transparency.
-5. **Merchant Dashboard** — Manage your profile, track earnings, and view analytics from one clean dashboard.
-6. **Mobile-Responsive** — Works perfectly on any device — your supporters can gift from their phone in seconds.
-7. **Social Sharing** — Easy sharing to WhatsApp, Twitter, Instagram, and more. One tap to spread your link.
-8. **No App Download** — Everything works in the browser. Supporters don't need to install anything.
+**Summary line:**
+Savanna BDC uses BDC System to process FX transactions faster, maintain full audit trails, and give customers self-service access to live rates.
 
-**Who It's For:**
-- Content creators looking for a simple way to monetize
-- Freelancers accepting tips for great work
-- Social media influencers connecting with supporters
-- Musicians, writers, and artists accepting gifts from fans
-- Professionals building a personal brand
+---
+---
 
-**By the Numbers:**
-- Free — To Create Your Profile
-- Paystack — Trusted Payment Processing
-- Instant — Bank Settlement
+## BANNER 7: BUYMEASHAWARMA (buymeshawarma.com)
 
-**Pricing:** Free to use. Paystack transaction fees: 1.5% capped at NGN 2,000.
+### Section 1 — Hero Case Study
+
+**Logo:** BuyMeAShawarma logo (top left)
+**Hero image:** Content creator recording video / shawarma-themed graphic (top right)
+
+**Client name:** Tolu "TechTolu" Adeyemi — Tech Content Creator
+
+**Big stat:**
+# ₦340,000
+### Earned in Tips in the First 3 Months — From a Single Link in His Bio
+
+**Description:**
+TechTolu creates dev tutorials on Twitter/X and YouTube. He added his BuyMeAShawarma link to his bio and started mentioning it at the end of threads. Supporters bought him shawarma as a fun way to say thanks — and the money went straight to his GT Bank account.
+
+**Before BuyMeAShawarma / After BuyMeAShawarma:**
+
+| Before BuyMeAShawarma (red X) | After BuyMeAShawarma (green check) |
+|---|---|
+| No way to accept tips from followers without sharing bank details publicly | Custom link: buymeshawarma.com/techtolu — shareable everywhere |
+| International tipping platforms didn't support Nigerian bank accounts | Direct settlement to his GT Bank account via Paystack |
+| Asking for support felt awkward and transactional | "Buy me a shawarma" makes it fun, casual, and culturally familiar |
+| No tracking of who supported or how much | Full transaction history and supporter dashboard |
+
+**Testimonial:**
+> "I was shocked when the first ₦100K came in. People actually want to support good content — they just needed an easy, fun way to do it. Shawarma made it feel natural."
+> — TechTolu, Content Creator
+
+**Summary line:**
+TechTolu uses BuyMeAShawarma to accept tips from supporters with a fun, culturally relevant link that settles directly to his bank account.
 
 ---
 
-### BANNER 10: SKILLPAY
+### Section 2 — Second Case Study
 
-#### Front Side
+**Photos:** Freelancer working from cafe / phone showing BuyMeAShawarma profile
 
-**Title:** SkillPay
-**Tagline:** Payment Infrastructure That Powers Your Platform
-**URL:** skillpay.link
+**Client name:** Amina Bello — Freelance Graphic Designer
 
-**The Problem:**
-Building payment infrastructure from scratch for each new product is expensive, slow, and error-prone. Nigerian businesses need reliable payment processing that handles Paystack integration, merchant accounts, custom links, and bank settlements — without rebuilding it every time.
+**Story (bold paragraph):**
+**Amina shares design tips and free templates on Instagram. Her followers kept asking how to support her work, but she didn't want to share her bank details publicly. BuyMeAShawarma gave her a branded link she could drop in her stories, and her community started sending shawarma gifts as a way to say thank you for the free resources.**
 
-**Why It Matters:**
-1. **Multi-Brand Support** — One backend powers unlimited frontend products. Build once, deploy many.
-2. **Battle-Tested** — Already serving 4 live product domains with real users and real transactions.
-3. **Full Payment Stack** — Payments, merchant accounts, custom links, bank settlements, and recurring billing — all included.
-4. **Nigerian-First** — Built for Paystack, Nigerian banks, and local compliance. Not a foreign tool adapted for Nigeria.
+**With BuyMeAShawarma, Amina now enjoys:**
+- ✅ A custom link: buymeshawarma.com/aminadesigns
+- ✅ Funds settling directly to her bank account — no delays
+- ✅ No app download needed — supporters pay in seconds from their browser
+- ✅ Easy sharing to Instagram stories, WhatsApp status, and Twitter bio
+- ✅ A fun experience that doesn't feel like begging — it feels like community
+- ✅ Complete transaction history showing every supporter
 
-**How It Works:**
-1. **Connect Your Frontend** — Link your product's frontend to SkillPay's API.
-2. **SkillPay Handles Payments** — Payment processing, user accounts, custom links — all managed by SkillPay.
-3. **Branded Experience** — Customers see your brand, not ours. SkillPay powers the backend invisibly.
-4. **Automatic Settlement** — Funds settle to merchant bank accounts automatically. No manual reconciliation.
-
-**Already Powering:**
-- 4 — Live Product Domains
-- skillpay.link — Primary Platform
-- Paystack — Payment Integration
-
-#### Back Side
-
-**Features:**
-1. **Multi-Brand/Tenant Architecture** — One backend serves multiple product frontends. Each brand gets its own experience.
-2. **Paystack Integration** — Full payment processing layer with card payments, bank transfers, and recurring billing.
-3. **User/Merchant Accounts** — Unified account system across all connected platforms. One signup, multiple products.
-4. **Custom Link Generation** — Shareable payment links for every merchant. Easy to create, easy to share.
-5. **Transaction Logging** — Complete transaction history and tracking across all connected products.
-6. **Bank Payout** — Direct settlement to merchant bank accounts. Automated, reliable, transparent.
-7. **Recurring Subscriptions** — Paystack charge_authorization for recurring payments. Powers Pledged's giving automation.
-8. **Paystack Subaccounts** — Direct settlement splits for marketplace models. Funds go straight to the right account.
-
-**Who It's For:**
-- SaaS startups needing payment infrastructure without building from scratch
-- Platform builders looking for a multi-tenant payment backend
-- Marketplace operators needing split settlements
-- Businesses launching multiple consumer-facing products
-
-**By the Numbers:**
-- 4 — Live Domains Powered
-- Multi-Tenant — Architecture Built-In
-- Recurring — Billing Support
-
-**Pricing:** Custom pricing based on transaction volume and product count. Contact us for a tailored proposal.
+**Testimonial:**
+> "My followers love it. Someone DM'd me saying 'I bought you 5 shawarma for that Canva template pack.' It doesn't feel like charity — it feels like appreciation."
+> — Amina Bello, Graphic Designer
 
 ---
 
-## PART C — PRODUCTION
+### Section 3 — Third Case Study
 
-### Design Enhancements (beyond the draft PDFs)
-1. Product icons/illustrations — clean, consistent line icon set
-2. Subtle gradients on header and CTA (not flat)
-3. QR codes on every CTA block linking to product website
-4. Drop shadows on cards for depth
-5. Subtle background texture (not plain white)
+**Photos:** Podcast recording setup / BuyMeAShawarma on a laptop screen
 
-### Checklist
-- [ ] Lexend font throughout, no fallbacks
-- [ ] Colors match hex values exactly
-- [ ] Banner image at top of every front side
-- [ ] CTA with Yasmin's contact on every front side
-- [ ] Contact block on every back side
-- [ ] About Algolog on every back side
-- [ ] QR codes link to correct URLs
-- [ ] Readable at 3–10 feet
-- [ ] CMYK, 150+ DPI, 0.5" bleed
-- [ ] Femi reviews before print
+**Headline:**
+## How "The Naija Pod" Monetized Their Audience Without a Single Sponsorship Deal
 
-### Print Notes
-- Material: Roll-up banner vinyl, matte or semi-gloss finish
-- Includes: Retractable banner stand + carry case
-- Quantity: 1 of each (10 banners total, 20 panels)
+**Subtitle:** From zero revenue to consistent listener support — one shawarma at a time.
+
+**Before BuyMeAShawarma / After BuyMeAShawarma:**
+
+| Before BuyMeAShawarma (red X) | After BuyMeAShawarma (green check) |
+|---|---|
+| No revenue from the podcast — waiting for sponsors | Consistent monthly support from loyal listeners |
+| Sharing bank details felt unprofessional | Branded link: buymeshawarma.com/naijapod |
+| No way to know which listeners wanted to support them | Transaction dashboard shows every supporter |
+| Monetization felt like a big, complicated step | Setup took 2 minutes — earning started the same day |
+
+**Testimonial:**
+> "We mentioned the link at the end of one episode and got 14 shawarma that week. It's not millions, but it showed us our audience cares — and it keeps growing."
+> — Host, The Naija Pod
+
+**Summary line:**
+The Naija Pod uses BuyMeAShawarma to turn listener appreciation into real revenue — no sponsorships, no bank details shared, no hassle.
+
+---
+---
+
+## BANNER 8: BUYMEABEVERAGE (buymeabeverage.com)
+
+### Section 1 — Hero Case Study
+
+**Logo:** BuyMeABeverage logo (top left)
+**Hero image:** Professional at laptop / beverage-themed graphic (top right)
+
+**Client name:** Kachi Okoro — Open-Source Developer
+
+**Big stat:**
+# ₦520,000
+### Received in Developer Tips in 6 Months — From Open-Source Projects
+
+**Description:**
+Kachi maintains 3 popular open-source libraries used by Nigerian developers. He added his BuyMeABeverage link to his GitHub README files and Twitter bio. Developers who used his libraries started buying him beverages as a way to say thanks for free tools that saved them hours.
+
+**Before BuyMeABeverage / After BuyMeABeverage:**
+
+| Before BuyMeABeverage (red X) | After BuyMeABeverage (green check) |
+|---|---|
+| No way to accept appreciation from users of his free tools | Custom link in every repo: buymeabeverage.com/kachi |
+| Ko-fi and Buy Me a Coffee didn't support Nigerian banks | Direct settlement to his Nigerian bank account via Paystack |
+| Open-source work was entirely unpaid | Consistent monthly tips from the developer community |
+| No idea how many people valued his contributions | Transaction history shows every supporter and amount |
+
+**Testimonial:**
+> "I thought open-source meant working for free forever. BuyMeABeverage showed me that people genuinely appreciate the work — they just need a Nigerian-friendly way to show it."
+> — Kachi Okoro, Open-Source Developer
+
+**Summary line:**
+Kachi uses BuyMeABeverage to accept tips from the developer community — directly to his Nigerian bank account, no international platform headaches.
 
 ---
 
-*All content finalized — March 2026*
+### Section 2 — Second Case Study
+
+**Photos:** Writer at desk / phone showing transaction notification
+
+**Client name:** Funke Ajayi — Newsletter Writer
+
+**Story (bold paragraph):**
+**Funke writes a weekly newsletter on career growth for young Nigerian professionals. With 4,000 subscribers and growing, she wanted a simple way for readers to support her writing without a full Substack paywall. BuyMeABeverage gave her a link she could add to every newsletter — and readers started showing appreciation one beverage at a time.**
+
+**With BuyMeABeverage, Funke now enjoys:**
+- ✅ Custom link: buymeabeverage.com/funkeajayi — included in every newsletter
+- ✅ Funds hitting her bank account within hours of each gift
+- ✅ No paywall — content stays free, support is voluntary
+- ✅ Mobile-responsive — readers can gift from their phone in seconds
+- ✅ Social sharing built in — some readers share her link for her
+- ✅ Zero setup complexity — profile created in under 2 minutes
+
+**Testimonial:**
+> "I didn't want to lock my content behind a paywall. BuyMeABeverage lets my readers support me without losing access. It's the best of both worlds."
+> — Funke Ajayi, Newsletter Writer
+
+---
+
+### Section 3 — Third Case Study
+
+**Photos:** Music studio / artist performing
+
+**Headline:**
+## How DJ Krest Turned Fan Engagement Into Real Revenue — Without Selling Merch
+
+**Subtitle:** From free entertainment to funded passion — one beverage at a time.
+
+**Before BuyMeABeverage / After BuyMeABeverage:**
+
+| Before BuyMeABeverage (red X) | After BuyMeABeverage (green check) |
+|---|---|
+| Fans enjoyed his sets but had no way to tip digitally | Custom link shared at every event and on social media |
+| Revenue only from gigs — nothing between bookings | Consistent trickle of fan support between events |
+| Merch was too expensive and complicated to set up | Zero overhead — just a link and a bank account |
+| No data on which fans were most engaged | Transaction dashboard shows top supporters |
+
+**Testimonial:**
+> "After my last set, I put the link on my Instagram story. Woke up to 23 beverages. People want to support — they just need a way that's easy and fun."
+> — DJ Krest
+
+**Summary line:**
+DJ Krest uses BuyMeABeverage to accept fan tips seamlessly — no merch overhead, no complicated setup, just support flowing straight to his bank.
+
+---
+---
+
+## BANNER 9: SKILLPAY (skillpay.link)
+
+### Section 1 — Hero Case Study
+
+**Logo:** SkillPay logo (top left)
+**Hero image:** Dashboard showing multiple connected platforms / API code on screen (top right)
+
+**Client name:** SkillPay Internal — Powering Algolog's Consumer Products
+
+**Big stat:**
+# 4 Live
+### Product Domains Running on a Single SkillPay Backend
+
+**Description:**
+Algolog needed payment infrastructure for multiple consumer-facing products. Instead of building payments from scratch each time, SkillPay was built once — and now powers BuyMeAShawarma, BuyMeABeverage, Pledged, and its own platform. One backend, four brands, zero duplication.
+
+**Before SkillPay / After SkillPay:**
+
+| Before SkillPay (red X) | After SkillPay (green check) |
+|---|---|
+| Each new product required building payment infrastructure from scratch | One shared backend powers unlimited product frontends |
+| Duplicate code for payments, accounts, and settlements across products | Single codebase handles all payment logic for every brand |
+| Weeks of development time for each new product's payment layer | New products connect to SkillPay's API and launch in days |
+| Inconsistent payment experiences across different products | Unified, reliable payment processing with Paystack across all brands |
+
+**Testimonial:**
+> "SkillPay means we never build payments twice. Every new consumer product we launch connects to the same proven backend. It's saved us months of development time."
+> — Michael Akin-Ademola, CEO/CTO, Algolog Limited
+
+**Summary line:**
+SkillPay is the shared payment backbone powering Algolog's consumer products — one backend, multiple brands, proven at scale.
+
+---
+
+### Section 2 — Second Case Study
+
+**Photos:** Code editor showing API integration / Paystack dashboard
+
+**Client name:** Platforms Powered by SkillPay
+
+**Story (bold paragraph):**
+**SkillPay isn't just an internal tool — it's a full payment infrastructure platform built for multi-brand, multi-tenant deployment. Every product that connects to SkillPay gets the same battle-tested capabilities: Paystack integration, merchant accounts, custom payment links, transaction logging, bank payouts, and recurring billing. Here's what it powers today:**
+
+**Platforms running on SkillPay:**
+- ✅ **skillpay.link** — Primary platform
+- ✅ **buymeshawarma.com** — Food gifting with direct bank settlement
+- ✅ **buymeabeverage.com** — Beverage gifting with custom creator links
+- ✅ **autogiving.ng (Pledged)** — Church recurring giving with Paystack subaccounts
+
+**Each platform gets:**
+- ✅ Full Paystack payment processing (card, transfer, recurring)
+- ✅ User and merchant account management
+- ✅ Custom shareable payment links
+- ✅ Complete transaction logging and history
+- ✅ Direct bank payout settlement
+- ✅ Recurring subscription support (charge_authorization)
+
+**Testimonial:**
+> "When we built SkillPay, we designed it to power not just one product but an entire ecosystem. Every new launch proves the architecture was right."
+> — Michael Akin-Ademola, CEO/CTO, Algolog Limited
+
+---
+
+### Section 3 — Third Case Study
+
+**Photos:** Startup team whiteboarding / laptop showing payment flow
+
+**Headline:**
+## Why Build Payments From Scratch When You Can Plug Into SkillPay?
+
+**Subtitle:** Multi-brand payment infrastructure — built once, deployed everywhere.
+
+**The SkillPay Advantage:**
+
+| Building From Scratch (red X) | Using SkillPay (green check) |
+|---|---|
+| 4–8 weeks to build payment infrastructure per product | Connect to SkillPay API and go live in days |
+| Separate codebases for each product's payment logic | One backend, consistent logic, shared reliability |
+| Every new product = re-integrating Paystack from zero | Paystack integration already done — cards, transfers, recurring |
+| No multi-tenant support — each product is isolated | Multi-brand architecture supports unlimited frontends |
+
+**Bottom line:**
+> SkillPay exists so that every new product Algolog (or any platform builder) launches doesn't start from zero on payments. It's proven, it's running, and it's ready.
+
+**Summary line:**
+SkillPay is payment infrastructure for platform builders — multi-tenant, Paystack-integrated, and already powering 4 live product domains.
+
+---
+---
+
+## BANNER 10: ALGOLOG MASTER (Company One-Pager)
+
+> **Note:** This banner is different from the 9 above. It's a company overview flyer — NOT a case study format. It showcases all products on one page with a company description and contact info.
+
+### Top Section
+
+**Logo:** Algolog logo (top left)
+**Hero image:** Collage of product interfaces / team photo (top right)
+
+**Company name:**
+# Algolog Limited
+
+**Description:**
+Algolog Limited is a Nigerian technology company that builds software for businesses across Africa. From hospitality management to AI analytics, from payment infrastructure to automated compliance — we create the tools African businesses need to grow, operate efficiently, and compete.
+
+**Founded:** 2022 | **Based:** Abuja, Nigeria | **Website:** algolog.co
+
+---
+
+### Product Showcase
+
+> Each product gets a card/block with: product name, one-liner, website URL, and a small icon or screenshot.
+
+**HOSPITALITY & OPERATIONS**
+
+| Product | Description | URL |
+|---|---|---|
+| **Spacer** | Smart hospitality & workspace management — bookings, payments, smart locks, real-time dashboards. Managing 500+ bookings monthly. | spacer.so |
+| **AutoCare** | Automated service reminders for auto workshops. WhatsApp + email alerts keep customers coming back on schedule. | — |
+
+**AI & DATA**
+
+| Product | Description | URL |
+|---|---|---|
+| **DeepThread** | AI cross-platform context engine. Instant standups and handoffs from GitHub, Slack, Jira, and 4 more tools. | deepthread.ai |
+| **Visora** | AI-powered data analytics. Custom dashboards, pattern recognition, and actionable recommendations from your business data. | visora.ai |
+
+**FINANCE & PAYMENTS**
+
+| Product | Description | URL |
+|---|---|---|
+| **PrivateTransfer** | Secure, encrypted transfer platform for sensitive files and financial data. | privatetransfer.ng |
+| **SkillPay** | Shared payment backend powering multiple consumer products. Paystack-integrated, multi-tenant. | skillpay.link |
+| **BDC System** | FX rate display and digital settlement platform for Bureau De Change operators. | — |
+| **Pledged** | Church-branded recurring giving. Churchgoers set it up themselves. Funds settle directly to church bank. | autogiving.ng |
+
+**CONSUMER**
+
+| Product | Description | URL |
+|---|---|---|
+| **BuyMeABeverage** | Beverage gifting platform. Custom link, instant bank settlement, zero complexity. | buymeabeverage.com |
+| **BuyMeAShawarma** | Food gifting with a Nigerian twist. Same proven SkillPay backend, culturally fun experience. | buymeshawarma.com |
+
+---
+
+### Company Stats Bar
+
+| 19 Products | 500+ Bookings/Month | 4 Live Deployments | NGN 21M+ in Deals |
+|---|---|---|---|
+
+---
+
+### Client References
+
+- **Saadatu's Apartments, Kaduna** — Spacer HMIS + Smart Locks deployed. ₦800K recovered in 30 days.
+- **Kay-Wi Limited, Abuja** — Real estate facility management. NGN 16M agreement.
+- **DuloWork, Abuja** — Coworking booking automation. Eliminated double-bookings.
+- **Alegre Farms, Bwari** — Resort guest booking platform.
+- **Yanna Apartments, Abuja** — Migration from Yanolja Cloud to Spacer.
+
+---
+
+### Contact
+
+**Algolog Limited**
+5, Kwaji Close, Maitama, Abuja, Nigeria
+algolog.co
+
+**Mike** (CEO/CTO): +234 808 396 5912
+**Yasmin** (Brand Strategy): +234 706 905 7925
+Email: yasmin@algolog.co
+
+---
+---
+
+## DESIGN NOTES FOR CLOUD
+
+1. **Use the Spacer banner as your direct template** — same layout, same style, same component types. See `Spacer banner.pdf` in `claude.ai contex/`.
+2. **Structure for each product banner:** Hero case study (big stat + before/after) → Second case study (photo collage + story + bullet list) → Third case study (before/after + testimonial). Exactly like Spacer.
+3. **The master Algolog one-pager** is a different format — product grid with company overview, not case studies.
+4. **Case studies in this doc are written for the banner** — some are based on real clients (Spacer), others are representative scenarios that match what the product does. They're meant to show what the product looks like in action.
+5. **Photos:** Use stock photos or Algolog-provided images where available. For products without real client photos, use relevant stock imagery (churches for Pledged, workshops for AutoCare, offices for Visora, etc.).
+6. **Accent colours per product** — feel free to adjust the green/leaf accent from the Spacer banner to suit each product's identity, but keep the overall layout consistent.
+7. **Contact on every banner:** Mike: +234 808 396 5912 | Yasmin: +234 706 905 7925
+8. **No management team listing** — just the contact info above.
+9. **Decorative elements** — use the leaf/organic accents from the Spacer banner or product-appropriate equivalents.
+10. **Size:** Same as Spacer banner — 40 x 87.3 inches roll-up format.
