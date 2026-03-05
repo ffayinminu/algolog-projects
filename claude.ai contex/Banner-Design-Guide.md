@@ -13,19 +13,21 @@
 
 ## BANNER 1: PLEDGED (autogiving.ng)
 
+*\* Client names have been anonymized to protect customer privacy.*
+
 ### Section 1 — Hero Case Study
 
 **Logo:** Pledged logo (top left)
 **Hero image:** Photo of a church interior during service (top right)
 
-**Client name:** Redeem Chapel, Abuja
+**Client name:** Church A*, Abuja
 
 **Big stat:**
 # ₦1.2M
 ### Collected in First 60 Days — Without a Single Cash Offering
 
 **Description:**
-Redeem Chapel onboarded 87 members onto Pledged in the first two weeks. Recurring giving replaced cash-dependent Sunday collections and giving continued even when members travelled.
+Church A* onboarded 87 members onto Pledged in the first two weeks. Recurring giving replaced cash-dependent Sunday collections and giving continued even when members travelled.
 
 **Before Pledged / After Pledged:**
 
@@ -38,10 +40,10 @@ Redeem Chapel onboarded 87 members onto Pledged in the first two weeks. Recurrin
 
 **Testimonial:**
 > "We used to lose so much during December and Easter when members travelled. With Pledged, giving just kept coming in. It changed how we plan our budget."
-> — Finance Secretary, Redeem Chapel
+> — Finance Secretary, Church A*
 
 **Summary line (colored bar):**
-Redeem Chapel uses Pledged to automate giving, protect revenue during holidays, and give members full control over their contributions.
+Church A* uses Pledged to automate giving, protect revenue during holidays, and give members full control over their contributions.
 
 ---
 
@@ -49,22 +51,22 @@ Redeem Chapel uses Pledged to automate giving, protect revenue during holidays, 
 
 **Photos:** Church admin using laptop showing Pledged dashboard / phone showing giving receipt
 
-**Client name:** Harvesters Assembly, Kaduna
+**Client name:** Church B*, Kaduna
 
 **Story (bold paragraph):**
-**Harvesters Assembly had 240 active members but only about 60 gave consistently. The finance team spent every Monday morning counting cash and reconciling with paper records. After launching their Pledged giving page, 112 members set up recurring giving within the first month — and the church saw a 45% increase in monthly giving consistency.**
+**Church B* had 240 active members but only about 60 gave consistently. The finance team spent every Monday morning counting cash and reconciling with paper records. After launching their Pledged giving page, 112 members set up recurring giving within the first month — and the church saw a 45% increase in monthly giving consistency.**
 
-**With Pledged, Harvesters Assembly now enjoys:**
-- ✅ A branded giving page at autogiving.ng/harvesters with their logo and colours
+**With Pledged, Church B* now enjoys:**
+- ✅ A branded giving page at autogiving.ng/[churchname] with their logo and colours
 - ✅ 112 members on automated recurring giving (weekly and monthly)
-- ✅ Direct settlement to their UBA account — funds never touch a third party
+- ✅ Direct settlement to their bank account — funds never touch a third party
 - ✅ Automated email and SMS receipts for every transaction
 - ✅ Members managing their own giving — pausing, adjusting, or cancelling anytime
 - ✅ Monday reconciliation time reduced from 3 hours to 10 minutes
 
 **Testimonial:**
 > "The transparency alone was worth it. Members trust the system because they can see their own giving history, and we can see everything from the admin dashboard."
-> — Senior Pastor, Harvesters Assembly
+> — Senior Pastor, Church B*
 
 ---
 
@@ -73,7 +75,7 @@ Redeem Chapel uses Pledged to automate giving, protect revenue during holidays, 
 **Photos:** Phone screen showing Pledged member dashboard / church congregation
 
 **Headline:**
-## How Grace Community Church Eliminated Cash Handling Risk and Grew Giving by 60%
+## How Church C* Eliminated Cash Handling Risk and Grew Giving by 60%
 
 **Subtitle:** From manual cash counting to fully digital, transparent giving.
 
@@ -88,10 +90,10 @@ Redeem Chapel uses Pledged to automate giving, protect revenue during holidays, 
 
 **Testimonial:**
 > "Pledged didn't just digitize our giving — it made our members feel more connected to their contributions. They can see everything, and so can we."
-> — Church Administrator, Grace Community Church
+> — Church Administrator, Church C*
 
 **Summary line:**
-Grace Community Church uses Pledged to deliver transparent, automated giving that members trust and leadership can plan around.
+Church C* uses Pledged to deliver transparent, automated giving that members trust and leadership can plan around.
 
 ---
 ---
