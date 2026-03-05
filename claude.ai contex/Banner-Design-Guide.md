@@ -20,7 +20,7 @@
 **Logo:** Pledged logo (top left)
 **Hero image:** Photo of a church interior during service (top right)
 
-**Client name:** Church A*, Abuja
+**Client name:** Church A*
 
 **Big stat:**
 # ₦1.2M
@@ -51,7 +51,7 @@ Church A* uses Pledged to automate giving, protect revenue during holidays, and 
 
 **Photos:** Church admin using laptop showing Pledged dashboard / phone showing giving receipt
 
-**Client name:** Church B*, Kaduna
+**Client name:** Church B*
 
 **Story (bold paragraph):**
 **Church B* had 240 active members but only about 60 gave consistently. The finance team spent every Monday morning counting cash and reconciling with paper records. After launching their Pledged giving page, 112 members set up recurring giving within the first month — and the church saw a 45% increase in monthly giving consistency.**
@@ -105,7 +105,7 @@ Church C* uses Pledged to deliver transparent, automated giving that members tru
 **Logo:** AutoCare logo (top left)
 **Hero image:** Photo of a modern auto workshop / mechanic working on car (top right)
 
-**Client name:** Pinnacle Auto Services, Abuja
+**Client name:** Pinnacle Auto Services
 
 **Big stat:**
 # 38%
@@ -136,7 +136,7 @@ Pinnacle Auto Services uses AutoCare to automate customer follow-up, protect rep
 
 **Photos:** Dashboard view of AutoCare / mechanic greeting returning customer
 
-**Client name:** DriveRight Auto Centre, Kano
+**Client name:** DriveRight Auto Centre
 
 **Story (bold paragraph):**
 **DriveRight Auto Centre serves over 200 vehicles monthly but had no organized system for tracking service intervals. Customers would come in once, get great service, and then disappear for a year — or go to a competitor simply because they got a reminder from someone else first. AutoCare gave DriveRight a digital customer registry and automated reminders that brought customers back on time.**
@@ -185,170 +185,174 @@ MasterFix Workshop uses AutoCare to turn one-time visitors into loyal, returning
 
 ## BANNER 3: PRIVATETRANSFER (privatetransfer.ng)
 
+> **What it actually is:** An anonymous money transfer platform. Users create shareable links where anyone can send them money privately — no bank details exposed, no personal data required from senders. Direct bank settlement via Paystack. Also includes AnonSend for fully anonymous one-off transfers to any Nigerian bank account.
+
 ### Section 1 — Hero Case Study
 
 **Logo:** PrivateTransfer logo (top left)
-**Hero image:** Secure digital transfer visual / person using laptop with lock icon (top right)
+**Hero image:** Person sharing a link on their phone / money transfer animation (top right)
 
-**Client name:** Okafor & Partners Legal, Abuja
+**Client name:** Chidera "ChiChi" Nwosu — Wedding Fundraiser
 
 **Big stat:**
-# 100%
-### Secure Document Delivery — Zero Interceptions, Zero Leaks
+# ₦2.8M
+### Raised for Her Wedding — Without Sharing Her Bank Details Publicly
 
 **Description:**
-Okafor & Partners handles sensitive litigation documents, contracts, and financial records for high-net-worth clients. After a near-breach using email attachments, they switched to PrivateTransfer for all confidential document sharing.
+ChiChi needed to raise funds for her wedding but didn't want to post her bank details all over social media. She created a PrivateTransfer link — privatetransfer.ng/u/chichi-wedding — shared it on Instagram, WhatsApp, and Twitter, and contributions started rolling in. Every naira went straight to her bank account. Contributors didn't see her account number, and she could see every transaction from her dashboard.
 
 **Before PrivateTransfer / After PrivateTransfer:**
 
 | Before PrivateTransfer (red X) | After PrivateTransfer (green check) |
 |---|---|
-| Sensitive documents sent via email attachments — no encryption | End-to-end encryption on every transfer |
-| No control over documents once sent — forwarded freely | Access controls and expiring links prevent unauthorized sharing |
-| No way to confirm if the intended recipient actually opened the file | Full audit trail showing who accessed what and when |
-| Client data stored indefinitely on email servers | Data cleared after delivery — zero long-term retention |
+| Had to post bank account number publicly on social media | One shareable link — no bank details exposed |
+| No way to track who sent what without checking bank alerts | Full transaction dashboard with amounts, timestamps, and messages |
+| Random transfers mixed with personal banking — hard to reconcile | All wedding contributions in one trackable stream |
+| Risk of fraud or impersonation from exposed bank details | Receiver identity hidden behind a public alias |
 
 **Testimonial:**
-> "We can't afford a breach — our clients trust us with their most sensitive information. PrivateTransfer gave us a way to share documents that we actually feel confident about."
-> — Managing Partner, Okafor & Partners Legal
+> "I shared one link and raised ₦2.8M for my wedding. Nobody saw my bank details. People could send whatever they wanted, add a sweet message, and it just hit my account. Simple."
+> — ChiChi Nwosu
 
-**Summary line:**
-Okafor & Partners uses PrivateTransfer to share confidential legal documents with end-to-end encryption, access controls, and full audit trails.
+**Summary line (colored bar):**
+ChiChi used PrivateTransfer to fundraise publicly without exposing private information — one link, full privacy, direct bank settlement.
 
 ---
 
 ### Section 2 — Second Case Study
 
-**Photos:** Office environment / secure file transfer interface on screen
+**Photos:** Content creator on phone / PrivateTransfer link page on screen
 
-**Client name:** Meridian Finance Advisory, Lagos
+**Client name:** Adamu "DJ Phantom" Bala — Music Producer & DJ
 
 **Story (bold paragraph):**
-**Meridian Finance Advisory manages investment portfolios and frequently shares financial statements, tax filings, and due diligence reports with clients and partners. They needed a transfer platform that met their compliance requirements — encrypted, auditable, and with no data lingering on third-party servers. PrivateTransfer replaced their patchwork of email, WeTransfer, and USB drives with a single secure channel.**
+**DJ Phantom runs a popular Afrobeats mix series on YouTube and wanted a way for fans to tip him without the awkwardness of sharing bank details. He created his PrivateTransfer link — privatetransfer.ng/u/djphantom — and added it to his YouTube description and Instagram bio. Fans started sending tips after every new mix, with messages like "fire set bro" and "more Amapiano pls." The money went straight to his GT Bank account, and he never had to expose his personal banking info.**
 
-**With PrivateTransfer, Meridian Finance now enjoys:**
-- ✅ End-to-end encrypted transfers for all financial documents
-- ✅ Expiring links that auto-deactivate after delivery or a set time
-- ✅ Identity verification for both sender and receiver
-- ✅ Full audit trail for compliance and regulatory reviews
-- ✅ Mobile-responsive platform — works on any device
-- ✅ Peace of mind knowing client data isn't sitting on email servers
+**With PrivateTransfer, DJ Phantom now enjoys:**
+- ✅ A custom public link: privatetransfer.ng/u/djphantom — shareable everywhere
+- ✅ Full privacy — fans see his alias, not his real name or bank details
+- ✅ Direct settlement to his bank account via Paystack
+- ✅ Every tip tracked with amount, message, and timestamp
+- ✅ Ability to disable the link anytime — full control
+- ✅ No app download needed — supporters pay from their browser in seconds
 
 **Testimonial:**
-> "Our compliance officer sleeps better now. Every transfer is encrypted, logged, and cleared after delivery. It's exactly what we needed."
-> — Director, Meridian Finance Advisory
+> "I dropped my PrivateTransfer link after a 2-hour live mix and woke up to ₦47,000 in tips. They don't know my bank, my real name, nothing. Just vibes and money."
+> — DJ Phantom
 
 ---
 
 ### Section 3 — Third Case Study
 
-**Photos:** Healthcare setting / doctor reviewing files on tablet
+**Photos:** Phone showing AnonSend interface / person receiving SMS notification
 
 **Headline:**
-## How Zenith Health Clinic Secured Patient Data Transfers Across 3 Locations
+## How a Medical Emergency Raised ₦1.5M in 48 Hours — Anonymously
 
-**Subtitle:** From unencrypted emails to fully secure, compliant data sharing.
+**Subtitle:** From "I want to help but don't want attention" to secure, anonymous giving.
 
 **Before PrivateTransfer / After PrivateTransfer:**
 
 | Before PrivateTransfer (red X) | After PrivateTransfer (green check) |
 |---|---|
-| Patient records emailed between branches without encryption | All patient data transfers are fully encrypted end-to-end |
-| No tracking of who accessed sensitive files | Complete audit trail for every transfer |
-| Staff used personal WhatsApp to share lab results | Dedicated secure platform with identity verification |
-| No compliance framework for data sharing | Meets data protection requirements with built-in controls |
+| Donors had to share bank details or send via WhatsApp | One shareable link — donate in 30 seconds |
+| Some people wanted to help anonymously but couldn't | AnonSend lets donors give without revealing identity |
+| No way to track total raised without manual bank checking | Live transaction dashboard shows every contribution |
+| Organiser's personal banking info exposed to hundreds of people | Public alias protects the receiver's identity completely |
 
 **Testimonial:**
-> "We deal with patient data every day — it's not something you can be casual about. PrivateTransfer gave us a proper system for secure sharing across all our locations."
-> — Medical Director, Zenith Health Clinic
+> "When Aunty Bisi needed emergency surgery, we created a PrivateTransfer link and shared it in the family WhatsApp. ₦1.5M came in within 2 days. Some people sent anonymously through AnonSend — they just wanted to help without the attention."
+> — Family organiser
 
 **Summary line:**
-Zenith Health Clinic uses PrivateTransfer to securely share patient records across locations with encryption, verification, and full compliance.
+PrivateTransfer turns any cause — weddings, emergencies, tips, support — into a private, trackable fundraising link with zero personal data exposure.
 
 ---
 ---
 
 ## BANNER 4: VISORA (visora.ai)
 
+> **What it actually is:** An AI-powered document querying and knowledge management platform. Users upload documents (PDFs, DOCX, TXT), then ask questions about them using AI chat powered by RAG (Retrieval-Augmented Generation). Includes project collaboration, organization management, report generation, and document sharing.
+
 ### Section 1 — Hero Case Study
 
 **Logo:** Visora logo (top left)
-**Hero image:** Data dashboard with charts and analytics (top right)
+**Hero image:** AI chat interface with uploaded documents / person asking questions on laptop (top right)
 
-**Client name:** Sterling Distribution Co., Lagos
+**Client name:** Pinnacle Legal Chambers
 
 **Big stat:**
-# ₦4.5M
-### In Missed Revenue Opportunities Identified in the First Month
+# 12 Hours
+### Saved Per Week on Contract Review — By Asking AI Instead of Reading Every Page
 
 **Description:**
-Sterling Distribution was making decisions based on spreadsheets and gut feeling. Visora connected their sales, inventory, and finance data into one AI-powered dashboard — and immediately surfaced ₦4.5M in pricing gaps and underperforming product lines they hadn't seen.
+Pinnacle Legal Chambers handles hundreds of contracts, legal opinions, and regulatory filings every month. Associates spent hours reading through documents to find specific clauses, precedents, or figures. With Visora, they upload their documents and ask the AI directly: "What are the penalty clauses in the Zenith contract?" "Summarize the differences between version 2 and version 3." Answers come back in seconds — with references to the exact pages.
 
 **Before Visora / After Visora:**
 
 | Before Visora (red X) | After Visora (green check) |
 |---|---|
-| Data scattered across Excel sheets, accounting software, and WhatsApp | All data sources unified in one AI-powered dashboard |
-| Monthly reports took 3–5 days to compile manually | Real-time dashboards updated automatically |
-| Decisions based on gut feeling and incomplete information | AI-driven insights highlight trends and anomalies instantly |
-| No visibility into which products or customers were most profitable | Profitability analysis by product, customer, and time period |
+| Associates spent 2–3 hours per contract reviewing manually | AI answers specific questions in seconds with page references |
+| Finding a clause across 50+ documents required manual search | Upload all documents, ask one question, get the answer instantly |
+| Knowledge trapped in individual lawyers' heads | Shared project spaces where the whole team can query the same documents |
+| Drafting summaries meant re-reading entire files | AI generates summaries, comparisons, and extractions on demand |
 
 **Testimonial:**
-> "We thought we knew our numbers. Visora showed us what we were actually missing. ₦4.5 million in the first month — just from pricing gaps we didn't know existed."
-> — CEO, Sterling Distribution Co.
+> "I asked Visora to compare two versions of a 90-page agreement and highlight every change. It took 8 seconds. That would have taken an associate half a day."
+> — Senior Partner, Pinnacle Legal Chambers
 
-**Summary line:**
-Sterling Distribution uses Visora to turn scattered data into actionable insights that directly impact revenue and decision-making.
+**Summary line (colored bar):**
+Pinnacle Legal uses Visora to turn hundreds of documents into an instantly queryable knowledge base — saving 12+ hours per week on contract review alone.
 
 ---
 
 ### Section 2 — Second Case Study
 
-**Photos:** Executive reviewing dashboard on large screen / team in a strategy meeting
+**Photos:** Team collaborating around laptop showing Visora / AI chat session with document references
 
-**Client name:** Oasis Hospitality Group, Abuja
+**Client name:** Greenfield Consulting
 
 **Story (bold paragraph):**
-**Oasis Hospitality Group runs 3 properties across Abuja but had no unified view of performance. Each property manager reported differently, using different formats, at different times. Visora connected all three properties into one dashboard — giving the CEO real-time visibility into occupancy, revenue, and guest patterns across the entire portfolio for the first time.**
+**Greenfield Consulting produces market research reports, feasibility studies, and due diligence documents for clients across West Africa. Their team of 8 analysts was drowning in information — past reports scattered across drives, client data in different formats, and no way to search across everything at once. Visora became their central knowledge hub. They upload every report, dataset, and client brief, then use AI chat to pull insights across their entire library.**
 
-**With Visora, Oasis Hospitality now enjoys:**
-- ✅ A unified executive dashboard covering all 3 properties
-- ✅ Real-time occupancy and revenue tracking — no more waiting for weekly reports
-- ✅ AI pattern recognition identifying booking trends and seasonal patterns
-- ✅ Custom views for the CEO, property managers, and finance team
-- ✅ Automated weekly reports generated and emailed every Monday
-- ✅ Document Q&A — ask questions about uploaded financial reports in plain English
+**With Visora, Greenfield Consulting now enjoys:**
+- ✅ All research reports, client briefs, and datasets in one searchable platform
+- ✅ AI-powered Q&A: "What did we say about the Lagos retail market in 2024?" — instant answer
+- ✅ Project-based workspaces that keep client work logically separated
+- ✅ Collaborative chat sessions — multiple analysts can query documents together
+- ✅ AI-generated report summaries and data extractions
+- ✅ Subscription management for the whole team with role-based access
 
 **Testimonial:**
-> "I used to wait until Friday to know how the week went. Now I open Visora and I can see all three properties in real time. It's changed how I run the business."
-> — CEO, Oasis Hospitality Group
+> "We've uploaded 3 years of research reports. Now when a client asks a question, I don't dig through folders — I ask Visora. It pulls from everything we've ever written."
+> — Lead Analyst, Greenfield Consulting
 
 ---
 
 ### Section 3 — Third Case Study
 
-**Photos:** Warehouse/logistics operation / inventory dashboard on tablet
+**Photos:** Finance professional reviewing documents on tablet / Visora document Q&A interface
 
 **Headline:**
-## How NorthStar Logistics Reduced Stockouts by 65% With AI-Powered Forecasting
+## How Bridgepoint Accounting Cut Report Preparation Time by 60% With AI Document Queries
 
-**Subtitle:** From reactive restocking to proactive, data-driven inventory management.
+**Subtitle:** From manual document review to instant, AI-powered answers from uploaded files.
 
 **Before Visora / After Visora:**
 
 | Before Visora (red X) | After Visora (green check) |
 |---|---|
-| Stockouts happened regularly — costing sales and customer trust | AI forecasting predicts demand 2–4 weeks ahead |
-| Inventory reports compiled manually once a month | Real-time stock levels and turnover rates visible anytime |
-| No way to correlate sales trends with inventory needs | AI connects sales data to inventory and flags mismatches automatically |
-| Overstocking on slow products tied up working capital | Product performance analysis identifies slow movers early |
+| Preparing client reports required re-reading past filings | AI extracts relevant figures and narratives from uploaded documents |
+| Cross-referencing data across multiple files took hours | One question pulls data from all uploaded documents simultaneously |
+| Knowledge of past client work lived in individual accountants' memory | Shared document library accessible to the entire team via AI chat |
+| Generating summaries meant manually compiling data from multiple sources | AI generates structured summaries and comparisons on demand |
 
 **Testimonial:**
-> "Visora told us things about our own business that we couldn't see in spreadsheets. Stockouts dropped by 65% in the first quarter."
-> — Operations Director, NorthStar Logistics
+> "I uploaded a client's last 4 tax filings and asked Visora to flag inconsistencies. It found 3 discrepancies in under a minute. That's the kind of thing that used to take a full afternoon."
+> — Partner, Bridgepoint Accounting
 
 **Summary line:**
-NorthStar Logistics uses Visora to forecast demand, optimize inventory, and make data-driven decisions that protect revenue.
+Bridgepoint Accounting uses Visora to turn client documents into an AI-queryable knowledge base — cutting report preparation by 60% and catching discrepancies faster.
 
 ---
 ---
@@ -360,7 +364,7 @@ NorthStar Logistics uses Visora to forecast demand, optimize inventory, and make
 **Logo:** DeepThread logo (top left)
 **Hero image:** Developer at workstation with multiple screens / Slack+GitHub interface (top right)
 
-**Client name:** Apex Digital Agency, Lagos
+**Client name:** Apex Digital Agency
 
 **Big stat:**
 # 6 Hours
@@ -391,7 +395,7 @@ Apex Digital uses DeepThread to eliminate manual reporting, accelerate handoffs,
 
 **Photos:** Remote team on video call / DeepThread standup interface mockup
 
-**Client name:** BuildStack (Remote Dev Team — Nigeria, Kenya, UK)
+**Client name:** BuildStack
 
 **Story (bold paragraph):**
 **BuildStack is a fully remote engineering team spread across 3 time zones. Async communication was their biggest challenge — by the time the Lagos team woke up, the London team's context from the previous day was buried in Slack threads. DeepThread connected their GitHub, Slack, Jira, and Notion, giving every team member instant context on what happened while they were offline.**
@@ -445,7 +449,7 @@ CloudNine uses DeepThread to accelerate sprint planning, eliminate knowledge sil
 **Logo:** BDC System logo (top left)
 **Hero image:** Bureau De Change office / forex rate display (top right)
 
-**Client name:** Prestige FX Bureau, Abuja
+**Client name:** Prestige FX Bureau
 
 **Big stat:**
 # 70%
@@ -476,7 +480,7 @@ Prestige FX Bureau uses BDC System to digitize rate display, streamline receipt 
 
 **Photos:** Back office staff processing transactions / customer using phone to check rates
 
-**Client name:** Continental Exchange, Kano
+**Client name:** Continental Exchange
 
 **Story (bold paragraph):**
 **Continental Exchange processes over 100 FX transactions weekly across USD and GBP. Their back-office team used WhatsApp groups to coordinate — receipts would get lost in chat history, settlements were delayed because nobody could track which transactions were pending, and the owner had no way to see how the business was performing without calling each staff member. The BDC System replaced the chaos with a structured digital workflow.**
@@ -695,90 +699,95 @@ DJ Krest uses BuyMeABeverage to accept fan tips seamlessly — no merch overhead
 
 ## BANNER 9: SKILLPAY (skillpay.link)
 
+> **What it actually is:** A digital product marketplace where skilled people sell what they know. "Get paid for what you know. Upload. Share. Earn." Users upload digital products (guides, templates, courses, tools), share a link, and earn when people buy. Also features private gifting, payment link creation, and transaction tracking. Direct bank settlement via Paystack.
+
 ### Section 1 — Hero Case Study
 
 **Logo:** SkillPay logo (top left)
-**Hero image:** Dashboard showing multiple connected platforms / API code on screen (top right)
+**Hero image:** Creator uploading a digital product / laptop showing SkillPay storefront (top right)
 
-**Client name:** SkillPay Internal — Powering Algolog's Consumer Products
+**Client name:** Tunde Bakare — UX Designer & Course Creator
 
 **Big stat:**
-# 4 Live
-### Product Domains Running on a Single SkillPay Backend
+# ₦780,000
+### Earned in 4 Months Selling a Figma Template Pack — From One Link
 
 **Description:**
-Algolog needed payment infrastructure for multiple consumer-facing products. Instead of building payments from scratch each time, SkillPay was built once — and now powers BuyMeAShawarma, BuyMeABeverage, Pledged, and its own platform. One backend, four brands, zero duplication.
+Tunde spent 2 years building UX design templates for his own projects. He uploaded his "Nigerian Fintech UI Kit" to SkillPay, got a shareable link, and started posting it on Twitter and in WhatsApp design communities. Buyers pay, get instant access via email, and the money goes straight to Tunde's bank. No marketplace fees, no waiting for approval, no complex storefront setup.
 
 **Before SkillPay / After SkillPay:**
 
 | Before SkillPay (red X) | After SkillPay (green check) |
 |---|---|
-| Each new product required building payment infrastructure from scratch | One shared backend powers unlimited product frontends |
-| Duplicate code for payments, accounts, and settlements across products | Single codebase handles all payment logic for every brand |
-| Weeks of development time for each new product's payment layer | New products connect to SkillPay's API and launch in days |
-| Inconsistent payment experiences across different products | Unified, reliable payment processing with Paystack across all brands |
+| Shared templates for free on Twitter with no way to monetize | Upload once, share a link, earn every time someone buys |
+| Tried Gumroad but payouts didn't support Nigerian banks | Direct settlement to his Nigerian bank account via Paystack |
+| Manually sent files to buyers via email after bank transfer | Automatic delivery — buyers get instant access after payment |
+| No way to track sales, downloads, or revenue | Full transaction dashboard with buyer details and earnings |
 
 **Testimonial:**
-> "SkillPay means we never build payments twice. Every new consumer product we launch connects to the same proven backend. It's saved us months of development time."
-> — Michael Akin-Ademola, CEO/CTO, Algolog Limited
+> "I uploaded my template pack on a Saturday afternoon. By Monday I had 12 sales. The file delivers itself, the money hits my account, and I didn't build a website or anything. Just uploaded and shared."
+> — Tunde Bakare, UX Designer
 
-**Summary line:**
-SkillPay is the shared payment backbone powering Algolog's consumer products — one backend, multiple brands, proven at scale.
+**Summary line (colored bar):**
+Tunde uses SkillPay to sell his design templates with one shareable link — automatic delivery, direct bank settlement, zero complexity.
 
 ---
 
 ### Section 2 — Second Case Study
 
-**Photos:** Code editor showing API integration / Paystack dashboard
+**Photos:** Content creator on laptop / phone showing SkillPay product page
 
-**Client name:** Platforms Powered by SkillPay
+**Client name:** Aisha Mohammed — Business Plan Writer
 
 **Story (bold paragraph):**
-**SkillPay isn't just an internal tool — it's a full payment infrastructure platform built for multi-brand, multi-tenant deployment. Every product that connects to SkillPay gets the same battle-tested capabilities: Paystack integration, merchant accounts, custom payment links, transaction logging, bank payouts, and recurring billing. Here's what it powers today:**
+**Aisha writes business plans for startups and SMEs. She packaged her most-requested templates — a business plan template, financial projection spreadsheet, and pitch deck outline — as a digital bundle on SkillPay. She shares the link in her Instagram bio, LinkedIn posts, and client WhatsApp groups. Buyers pay ₦15,000, get all three files instantly via email, and Aisha earns without lifting a finger for each sale.**
 
-**Platforms running on SkillPay:**
-- ✅ **skillpay.link** — Primary platform
-- ✅ **buymeshawarma.com** — Food gifting with direct bank settlement
-- ✅ **buymeabeverage.com** — Beverage gifting with custom creator links
-- ✅ **autogiving.ng (Pledged)** — Church recurring giving with Paystack subaccounts
-
-**Each platform gets:**
-- ✅ Full Paystack payment processing (card, transfer, recurring)
-- ✅ User and merchant account management
-- ✅ Custom shareable payment links
-- ✅ Complete transaction logging and history
-- ✅ Direct bank payout settlement
-- ✅ Recurring subscription support (charge_authorization)
+**With SkillPay, Aisha now enjoys:**
+- ✅ A product page for her business plan bundle at skillpay.link — shareable everywhere
+- ✅ Automatic delivery — buyers get files via email immediately after payment
+- ✅ Direct bank settlement — no holding period, no third-party wallet
+- ✅ Payment link creation — she can also create one-off payment links for custom work
+- ✅ Transaction tracking — check the status of any payment with a reference number
+- ✅ Private gifting feature — clients can gift her bundle to others anonymously
 
 **Testimonial:**
-> "When we built SkillPay, we designed it to power not just one product but an entire ecosystem. Every new launch proves the architecture was right."
-> — Michael Akin-Ademola, CEO/CTO, Algolog Limited
+> "I used to spend 30 minutes per sale just sending files and confirming payment. Now it's completely automatic. I focus on creating, SkillPay handles the selling."
+> — Aisha Mohammed, Business Plan Writer
 
 ---
 
 ### Section 3 — Third Case Study
 
-**Photos:** Startup team whiteboarding / laptop showing payment flow
+**Photos:** Photographer editing on laptop / SkillPay payment confirmation screen
 
 **Headline:**
-## Why Build Payments From Scratch When You Can Plug Into SkillPay?
+## How a Photographer Turned His Lightroom Presets Into a Passive Income Stream
 
-**Subtitle:** Multi-brand payment infrastructure — built once, deployed everywhere.
+**Subtitle:** Upload. Share. Earn. — Get paid for what you know.
 
-**The SkillPay Advantage:**
+**Before SkillPay / After SkillPay:**
 
-| Building From Scratch (red X) | Using SkillPay (green check) |
+| Before SkillPay (red X) | After SkillPay (green check) |
 |---|---|
-| 4–8 weeks to build payment infrastructure per product | Connect to SkillPay API and go live in days |
-| Separate codebases for each product's payment logic | One backend, consistent logic, shared reliability |
-| Every new product = re-integrating Paystack from zero | Paystack integration already done — cards, transfers, recurring |
-| No multi-tenant support — each product is isolated | Multi-brand architecture supports unlimited frontends |
+| Gave away presets for free to build audience — no monetization | Upload once, sell unlimited times from one link |
+| Tried selling via DM — manually sending files after bank transfer | Automatic delivery to buyer's email after payment |
+| No storefront, no checkout, no payment processing | SkillPay handles product page, checkout, payment, and delivery |
+| International platforms (Gumroad, Payhip) didn't settle to Nigerian banks | Direct to bank — Paystack processes, money hits his account |
 
-**Bottom line:**
-> SkillPay exists so that every new product Algolog (or any platform builder) launches doesn't start from zero on payments. It's proven, it's running, and it's ready.
+**Key SkillPay features shown:**
+- **Sell Instantly** — Upload your digital product and start earning in minutes
+- **Automatic Delivery** — Buyers get instant access via email after purchase
+- **Direct to Bank** — Payments go straight to your bank account
+- **Gift Privately** — Gift money without sharing your details
+- **Create Payment Link** — Receive payments without sharing bank details
+- **Track Your Transaction** — Check the status of any payment anytime
+
+**Testimonial:**
+> "I sell Lightroom presets while I sleep. Someone in Kano bought my portrait pack at 3 AM — they got the files instantly, I got the money. That's SkillPay."
+> — Emeka Obi, Photographer
 
 **Summary line:**
-SkillPay is payment infrastructure for platform builders — multi-tenant, Paystack-integrated, and already powering 4 live product domains.
+SkillPay is where skilled Nigerians sell what they know — upload your digital product, share a link, and earn. Direct to bank, automatic delivery, zero hassle.
 
 ---
 ---
@@ -818,14 +827,14 @@ Algolog Limited is a Nigerian technology company that builds software for busine
 | Product | Description | URL |
 |---|---|---|
 | **DeepThread** | AI cross-platform context engine. Instant standups and handoffs from GitHub, Slack, Jira, and 4 more tools. | deepthread.ai |
-| **Visora** | AI-powered data analytics. Custom dashboards, pattern recognition, and actionable recommendations from your business data. | visora.ai |
+| **Visora** | AI-powered document querying and knowledge management. Upload documents, ask questions, get instant AI answers with page references. | visora.ai |
 
 **FINANCE & PAYMENTS**
 
 | Product | Description | URL |
 |---|---|---|
-| **PrivateTransfer** | Secure, encrypted transfer platform for sensitive files and financial data. | privatetransfer.ng |
-| **SkillPay** | Shared payment backend powering multiple consumer products. Paystack-integrated, multi-tenant. | skillpay.link |
+| **PrivateTransfer** | Anonymous money transfer. Create shareable links to receive money privately — no bank details exposed. | privatetransfer.ng |
+| **SkillPay** | Digital product marketplace. Upload your skill, share a link, get paid. Automatic delivery, direct bank settlement. | skillpay.link |
 | **BDC System** | FX rate display and digital settlement platform for Bureau De Change operators. | — |
 | **Pledged** | Church-branded recurring giving. Churchgoers set it up themselves. Funds settle directly to church bank. | autogiving.ng |
 
