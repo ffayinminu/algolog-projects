@@ -1,7 +1,7 @@
 # Fast Commitment Plan
-## How to Get Businesses to Commit Quickly
+## How to Get Nigerian Businesses to Commit Quickly
 
-*Based on: $100M Offers (Hormozi), Psychology of Selling (Tracy), Sell or Be Sold (Cardone), and Algolog's actual deal experience.*
+*Based on: $100M Offers (Hormozi), Psychology of Selling (Tracy), Sell or Be Sold (Cardone), How to Sell to Nigerians (Akin Alabi), and Algolog's actual deal experience.*
 
 ---
 
@@ -16,7 +16,14 @@ From the March 2026 closing methodology review: 5 meetings, 0 closed. The bottle
 4. No urgency mechanism — client has no reason to commit NOW vs. next month
 5. No structured close — the ask for the order isn't happening enough
 
-**The goal:** Compress the timeline from first meeting to signed agreement from weeks/months to days.
+**The Nigerian context (Akin Alabi):**
+6. Trust deficit — Nigerians have been burned by vendors who disappear after payment. Every prospect assumes you might be one of them until you PROVE otherwise.
+7. The Nigerian buyer needs to feel like they're winning — "Nigerians would rather pay MORE when they feel they are ripping you off than pay less when they feel you are ripping them off." If the value stack doesn't feel overwhelming, they won't commit.
+8. Stories close more than features — captivating stories of transformation hook Nigerian customers in ways that feature lists never will.
+9. Patience is required — Nigerian buyers ask many questions, don't read details, want personal explanations. The seller who exercises "superhuman patience" wins.
+10. Customer service IS the differentiator — in a market where most businesses give terrible service, being responsive, prepared, and respectful is itself a closing tool.
+
+**The goal:** Compress the timeline from first meeting to signed agreement from weeks/months to days — while building the trust and perceived value that Nigerian buyers specifically require.
 
 ---
 
@@ -310,12 +317,105 @@ Use before and during every meeting:
 
 ---
 
+## The Nigerian Commitment Accelerators (Akin Alabi)
+
+These are specific to selling in Nigeria and should be layered on top of the universal principles above.
+
+### A. Build Trust BEFORE You Sell
+
+Nigerian buyers don't trust easily — and they shouldn't. They've been burned. Your job is to prove you're different before you ever mention price.
+
+**Trust builders specific to Nigeria:**
+
+| Action | Why It Works |
+|--------|-------------|
+| **Meet at YOUR office** | Having a physical office in Abuja that they can visit proves you're real. Many Nigerian tech vendors operate from WhatsApp and disappear. An office = permanence. |
+| **Show a LIVE system on your phone** | Not a mockup, not a PDF, not a PowerPoint. Pull up a real Spacer property and let them see bookings happening in real time. Alabi: "People believe what they see, not what they hear." |
+| **Name your existing clients** (with permission) | "We deployed this at Qas Luxury Apartments in Abuja. We deployed at Alegre Farms in Bwari." Named clients with verifiable locations build instant credibility. |
+| **Offer an office visit to a deployed property** | "Would you like to visit one of our properties and see it running live?" This offer alone builds trust — even if they don't take you up on it. The willingness to show is proof. |
+| **Dress professionally** | In Nigeria, appearance matters enormously. Alabi + Tracy + Cardone all agree: dress like the most successful person in the room. Nigerian business owners judge competence by presentation. |
+| **Printed materials** | Bring a physical proposal, printed company profile, printed one-pager. In Nigeria, digital-only feels temporary. Something they can hold feels real. |
+| **Follow through on small promises** | If you say "I'll send the proposal by 4pm" — send it by 3pm. Every kept promise builds the trust account. Nigerian buyers are watching whether you do what you say before they commit money. |
+
+### B. Make the Offer Feel Like a Steal
+
+Alabi's core insight: **Nigerians want to feel like they're winning the deal.** Not that you're giving them a discount — that you're giving them so much value that the price feels like robbery (in their favour).
+
+**How to apply:**
+
+1. **Stack the value visually.** List everything included. Make the list LONG. When they see 15 items included for one price, the price feels small. When they see 3 items, they calculate per-item and feel ripped off.
+
+2. **Never show individual line-item costs.** Show the bundled total with "Included" next to every item. This makes them feel like they're getting extras for free. If you show "Dashboard: NGN 500,000, Portal: NGN 300,000" — they'll negotiate each line. If you show "Dashboard: Included, Portal: Included, Total: NGN X" — they feel like the dashboard and portal are bonuses.
+
+3. **Anchor against the cost of NOT buying.** Before you state your price, state the cost of their current problem. "You're losing NGN 1.08M/year to Airbnb commissions. You're spending NGN 250,000/month on reconciliation staff time. You've had 3 disputed balances this year at NGN 500,000 each." THEN state your price. It feels tiny against the loss.
+
+4. **Use the "second money" principle.** Once they say yes to the main system, add bonuses: "And because we're doing the full deployment, I'll include the staff training and the user manual at no extra charge. And the first 30 days of support are included." They feel like they're getting more and more. Cardone: "Second money is easier than first money."
+
+### C. Tell Stories, Not Features
+
+Alabi: "Captivating stories hook potential customers." In Nigeria especially, a story of someone like them who solved the same problem carries 10x the weight of a feature list.
+
+**The story formula for Nigerian buyers:**
+
+1. "A [business type] in [Nigerian city] was doing [manual process]..."
+2. "They were dealing with [specific pain — use emotional language]..."
+3. "We built [solution] for them..."
+4. "Within [timeframe], [specific measurable result]..."
+5. "They told us: '[quote that captures the emotional transformation]'"
+
+**Have 3-4 stories ready at all times:**
+- Saadatu's Apartment (Kaduna) — for hospitality prospects
+- Starbuck Oil & Gas (Abuja) — for oil & gas prospects
+- Church deployment — for religious organisation prospects
+- Court 474 — for property management prospects
+
+### D. Exercise Superhuman Patience
+
+Alabi: "A lot of Nigerians are impatient and do not pay attention to details. The trick is to exercise superhuman patience when dealing with Nigerian customers and tolerate questions by taking time to explain."
+
+**What this means in practice:**
+
+- They will ask the same question 3 different ways. Answer all 3 without showing frustration.
+- They will not read your proposal before the meeting. Be prepared to walk through it verbally.
+- They will bring up concerns you already addressed. Address them again, calmly, as if for the first time.
+- They will want to negotiate even when the price is fair. Use the Agree → Redirect → Close method.
+- They may show up late to meetings, reschedule last-minute, or ghost for days then reappear. None of this means "no." It means they're Nigerian and busy. Follow up without making them wrong.
+
+**The patience advantage:** Most of your competitors lose their patience at step 3. If you're still there at step 7, calm and helpful, you win by default. Alabi: "If you treat a customer right like a king or a queen, you already won their heart and their money."
+
+### E. Don't Sell to Friends and Family
+
+Alabi specifically warns against relying on personal networks: "Few things ruin relationships more than money." This is important for Algolog because Faridah's leads are personal contacts.
+
+**The rule:** Treat warm leads with the SAME professionalism as cold leads. Don't assume the friendship means the sale is easy. If anything, personal contacts require MORE formality — printed proposals, clear terms, written agreements — because informality breeds misunderstandings that destroy both the deal and the relationship.
+
+### F. Service After the Sale = The Next Sale
+
+In Nigeria, the relationship doesn't end at payment — it begins. How you deliver, how you support, how you respond to issues AFTER the sale determines:
+- Whether they refer you to others (word-of-mouth is king in Nigeria)
+- Whether they buy the next product from you
+- Whether they become a testimonial you can use
+
+**Post-sale commitment:**
+- Check in within 48 hours of deployment: "How is everything running?"
+- Check in at 1 week: "Any questions from your team?"
+- Check in at 1 month: "Here's a summary of your first month's data. How do you feel about it?"
+- Each check-in is also a chance to ask: "Do you know anyone else who could benefit from this?"
+
+Alabi: "Customer service is at the heart of every business."
+
+---
+
 ## The One Rule
 
 > **If you leave a meeting without asking for the order, you didn't have a meeting — you had a conversation.**
 
 Every meeting is a closing opportunity. Every conversation is a chance to advance toward commitment. The client is waiting for you to lead. If you don't ask, someone else will.
 
+In Nigeria specifically: the client may WANT to buy but is waiting for you to make it easy. They need to feel the value is overwhelming, the trust is established, and the risk is zero. Stack the value. Show the proof. State the guarantee. Then ask for the order. And ask again.
+
 ---
 
 *"I want us to be so versed that we don't have to think about it."* — Mike, April 6, 2026
+
+*References: $100M Offers (Alex Hormozi), Psychology of Selling (Brian Tracy), Sell or Be Sold (Grant Cardone), How to Sell to Nigerians (Akin Alabi)*
