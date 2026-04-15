@@ -4,8 +4,8 @@
 - **Company:** Dalema Supermarket
 - **Locations:** 45 Gana Street, Maitama, Abuja + Kaduna branch
 - **Industry:** Retail / Supermarket (boutique/premium segment)
-- **Source:** Yasmin Umar (SDS lead)
-- **Status:** Called, not sent proposal yet
+- **Source:** Yasmin Umar (Algolog contact for this lead)
+- **Status:** Called, not yet sent proposal
 
 ## About the Business
 Dalema is a boutique-style supermarket in Maitama, Abuja — one of the most affluent neighbourhoods in Nigeria. Known for carrying foreign brands, specialty items (organic, gluten-free, vegan), and a premium bakery/deli section with freshly baked goods prepared daily by in-house chefs.
@@ -54,10 +54,11 @@ The system for Dalema should feel premium:
 - Dashboard should emphasise margin per product and customer lifetime value, not just volume
 
 ## Contact
-- **Phone:** 0806 674 4234
+- **Client Phone:** 0806 674 4234
 - **Instagram:** @dalema_ng
 - **Address:** 45 Gana Street, Maitama, Abuja
 - **Email:** Not found — try DM on Instagram or call
+- **Algolog Contact:** Yasmin Umar (yasmin@algolog.co, +234 706 905 7925)
 - **Status:** Called, proposal not yet sent
 
 ## Next Steps

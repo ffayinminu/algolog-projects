@@ -4,8 +4,8 @@
 - **Company:** Kanti Plus Supermarket
 - **Location:** Kaduna, Nigeria
 - **Industry:** Retail / Supermarket
-- **Source:** Yasmin Umar (SDS lead)
-- **Status:** Proposal sent, called
+- **Source:** Yasmin Umar (Algolog contact for this lead)
+- **Status:** Owner interested — wants to speak with his management before proceeding
 
 ## About the Business
 Kanti Plus is one of Kaduna's most recognizable retail destinations. They serve a broad customer base — families, working professionals, students, and small business owners. Built on competitive pricing, product diversity, and community trust.
@@ -77,9 +77,10 @@ All installation happens after trading hours. Store never closes during implemen
 - **Motion Graphic Brief:** `claude.ai contex/Kanti-Plus-Motion-Graphic-Remotion-Brief.md`
 
 ## Contact
-- **Phone:** 09075555423
-- **Status:** Called
-- **Next step:** Follow up — book a meeting to discuss implementation and pricing
+- **Client Phone:** 09075555423
+- **Algolog Contact:** Yasmin Umar (yasmin@algolog.co, +234 706 905 7925)
+- **Status:** Owner interested — wants to discuss with his management team
+- **Next step:** Follow up with owner — get the date of management meeting, offer to join or send a one-pager for the management team
 
 ---
 *Last updated: April 15, 2026*
