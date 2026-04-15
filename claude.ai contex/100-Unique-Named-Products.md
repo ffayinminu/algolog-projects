@@ -9,34 +9,134 @@ Each product is a genuinely distinct tool with its own name, its own problem, an
 *Downstream Operators, Filling Stations, Fuel Dealers*
 
 ### 1. LedgerLock — "Every Naira Traceable. Every Balance Dispute-Proof."
-A depositor intelligence platform. Live balances per customer, digital vouchers replacing paper, automated statements, customer self-service portal, immutable audit trail. When a depositor disputes their balance, you pull up the timestamped record and the conversation ends in 30 seconds.
+**The problem:** You're processing 20-30 paper vouchers a day with a calculator. Your staff send photos to WhatsApp. You recheck every calculation. When a depositor says "my balance should be 5 million, not 2 million" — you have no timestamped proof. You have to be on-site because you don't trust anyone else's numbers.
+
+**Giant promise:** "Every deposit, every purchase, every balance — tracked in real time. Timestamped and immutable. Your depositors see their own balance 24/7. Disputes end in 30 seconds."
+
+**What's inside:** Digital depositor ledger with live balances, digital voucher system (zero paper), customer self-service portal, automated weekly/monthly statements via email + WhatsApp, deposit approval workflow, immutable audit trail, role-based access, daily remittance calculator, multi-station support, customer analytics.
+
+**Story:** "A dealer in Abuja managing 2 AP stations processed 25 paper vouchers daily with a calculator. His biggest fear was a depositor disputing a balance he couldn't prove. After deploying LedgerLock, every transaction is digital and timestamped. Depositors check their own balance from their phone. He told us: 'For the first time, I don't have to be at the station to know what's happening.'"
+
+**Kicker:** "One disputed balance can cost NGN 2-5 million. You carry that risk with every depositor, every day. LedgerLock costs a fraction of one dispute — and prevents ALL of them."
+
+**Guarantee:** "If the system ever calculates a balance incorrectly, we fix it at our cost."
 
 ### 2. TankSight — "Know What's in Every Tank Without Leaving Your House"
-A fuel inventory and tank monitoring system. Real-time stock levels per product (PMS, AGO, DPK), delivery tracking, dispensing vs. sales reconciliation, shrinkage detection, and restock alerts. If you're losing even 1% of stock to shrinkage on 50,000 litres/month, that's NGN 300,000/month you can't account for.
+**The problem:** You don't know your true stock position until someone physically checks the tanks. The gap between what you received and what you sold — is it evaporation, spillage, miscalibrated pumps, or theft? Daily stock reconciliation is manual and unreliable.
 
-### 3. ShiftGuard — "Every Trade Tied to the Staff Member Who Handled It"
-A staff accountability and shift management tool. Every transaction attributed to the cashier, shift-level reconciliation, discrepancy alerts, performance rankings, cash handover workflows. When cash is short at end of day, you know exactly who, when, and how much.
+**Giant promise:** "Real-time fuel stock levels across all tanks, all products. Every delivery recorded. Every litre dispensed tracked. Every variance flagged. Know your true stock position from your phone."
+
+**What's inside:** Tank-level tracking per product (PMS, AGO, DPK), delivery recording (quantity received per tank), dispensing tracking (litres sold per pump cross-referenced with sales), variance detection, shrinkage analysis (daily/weekly/monthly), reorder alerts, delivery vs. invoice reconciliation, multi-station view, historical consumption patterns, regulatory export.
+
+**Story:** "A station operator discovered through TankSight that he was losing 800 litres/month — roughly 1.5% of throughput. At NGN 600/litre, that's NGN 480,000/month walking away undetected. The variance was traced to a miscalibrated pump dispensing slightly more than recorded. One calibration fix — savings of NGN 5.7M/year."
+
+**Kicker:** "If you're moving 50,000 litres/month and losing even 1% to shrinkage, that's 500 litres × NGN 600 = NGN 300,000/month. NGN 3.6M/year. Can you prove that's NOT happening right now?"
+
+**Guarantee:** "Full tank visibility within 2 weeks of deployment."
+
+### 3. ShiftGuard — "Every Transaction Tied to the Staff Member Who Handled It"
+**The problem:** Cash is short at end of day. Who's responsible? Which cashier processed which transaction? Without individual accountability, you can't address the problem — you can only suspect.
+
+**Giant promise:** "Every sale logged with the cashier's name, the exact time, and the device. Shift reconciliation per individual. When numbers don't add up, you know exactly who, when, and how much."
+
+**What's inside:** Staff login/logout per shift with timestamps, individual transaction attribution, shift summary reports (expected vs. actual), discrepancy alerts, performance rankings, attendance tracking, cash handover workflow (outgoing counts, incoming verifies, both sign digitally), exception reporting (voids, refunds, overrides with reason), manager override log, historical performance per staff.
+
+**Story:** "A station owner with 8 staff across 2 shifts had a recurring NGN 50,000-80,000 weekly shortage. Nobody could pin it down. After ShiftGuard, every transaction was attributed. Within 2 weeks, the pattern was clear — one cashier's shift consistently showed variances. Confronted with timestamped data, the issue was resolved. Shortages dropped to near zero."
+
+**Kicker:** "You can't fix what you can't see. Right now, a shortage is a shared mystery. ShiftGuard turns it into an individual accountability question — and that alone changes behaviour."
+
+**Guarantee:** "Full staff accountability from the first day of deployment."
 
 ### 4. RemitCalc — "Your Daily AP Remittance in 2 Minutes, Not 2 Hours"
-An AP remittance automation tool. Daily remittance auto-calculated from actual sales volume per product. Broken down by customer and product. Payment tracking. Remittance vs. obligation reconciliation. One-click report. What takes 2-3 hours manually takes 2 minutes.
+**The problem:** Every day, you calculate how much to remit to the brand (AP, Total, NNPC Retail) based on litres sold per product at agreed margins. It's done manually — often with a calculator. Errors mean you over-remit (your loss) or under-remit (compliance risk). Tracking past remittances is its own nightmare.
+
+**Giant promise:** "One-click daily remittance calculation. Broken down by product, by customer, by amount. Always correct. What takes 2-3 hours manually takes 2 minutes."
+
+**What's inside:** Automated daily remittance from actual sales volume per product, margin calculation per product tier, one-click summary, payment tracking (when remittance was sent, bank confirmation), remittance vs. obligation reconciliation (running balance), multi-product support (PMS, AGO, DPK), historical records, discrepancy alerts, export for brand audits, multi-station support.
+
+**Story:** "A dealer managing 3 stations spent 2-3 hours every evening on remittance calculations. On one occasion, a calculation error led to under-remitting NGN 1.2M — discovered during a quarterly brand audit. After RemitCalc, daily remittance is automatic. The number is always right. The audit trail is complete."
+
+**Kicker:** "2-3 hours/day × 300 working days = 600-900 hours/year on manual calculation. That's 5 months of full-time work on something a system does in 2 minutes. And one error in either direction costs real money."
+
+**Guarantee:** "Your daily remittance calculation will never take more than 5 minutes again."
 
 ### 5. FuelLoyal — "Your Customers Choose YOUR Station Over Every Other One"
-A customer loyalty and retention platform for filling stations. Points per litre. Tiered rewards. SMS promotions. Referral bonuses. Customer analytics. In a commodity market where every station sells the same fuel, loyalty is the only differentiator. One retained fleet customer is worth NGN 1.56M/year.
+**The problem:** Fuel is a commodity. Your price is the same as the station 500 metres away. Customers have zero reason to choose you over them. No loyalty, no retention, no relationship. They fill up wherever is convenient that day.
+
+**Giant promise:** "A loyalty program that makes your station the obvious choice. Points on every litre. Tiered rewards. Targeted promotions. Your customers choose YOU — because they're earning something every time."
+
+**What's inside:** Customer registration (phone number = loyalty ID), points earned per litre, tiered rewards (bronze/silver/gold), reward redemption (discounts, free services), SMS/WhatsApp promotions ("Double points this weekend"), customer dashboard, customer analytics (top customers, frequency, spend), referral program, re-engagement for lapsed customers, campaign performance tracking.
+
+**Story:** "A station in Abuja launched FuelLoyal targeting their 200 regular customers. Within 3 months, 85 enrolled in the loyalty program. Average visit frequency increased from 2.1 to 3.4 times per month. Monthly revenue from loyalty members grew 62%. The station next door — same brand, same price — started losing customers to the one that rewarded them."
+
+**Kicker:** "A customer who buys 50 litres/week at NGN 600/litre spends NGN 1.56M/year with you. If loyalty retains just 20 customers who'd have drifted to a competitor, that's NGN 31.2M/year in retained revenue."
+
+**Guarantee:** "If loyalty member visit frequency doesn't increase within 90 days, we reconfigure the program at no charge."
 
 ### 6. FleetFuel — "Every Litre of Fleet Fuel Tracked to the Vehicle and Driver"
-A fleet fuel management system for stations servicing corporate/logistics customers. Per-vehicle tracking, driver authorisation, fuel allocation limits, anomaly detection, and automated monthly invoicing itemised by vehicle. No more disputed fleet invoices. No more unauthorised fuelling.
+**The problem:** A logistics company has 30 trucks fuelling at your station on a single account. Drivers come in, give the company name, fuel up. At month-end, you invoice. But did all drivers fuel the right amounts? Is anyone fuelling personal vehicles on the company account? The invoice gets disputed because your numbers don't match theirs.
+
+**Giant promise:** "Every litre tracked to the specific vehicle and driver. Only authorised drivers fuel on the account. Automated monthly invoices itemised by vehicle. No disputes. No unauthorised fuelling."
+
+**What's inside:** Fleet account management (one account per fleet customer, multiple vehicles), driver authorisation, per-vehicle tracking (litres, dates, driver ID), fuel allocation limits ("Truck ABC gets max 200 litres/week"), automated monthly invoicing itemised by vehicle, fleet customer portal, anomaly detection (unusual patterns), multi-station fleet support, statement generation.
+
+**Story:** "A station servicing a logistics fleet of 40 trucks discovered through FleetFuel that 3 drivers were consistently fuelling 15-20% above their allocated amounts. Investigation revealed they were filling personal vehicles on the company account. The fleet company was grateful — the system caught what manual tracking missed. They increased their monthly volume by 25% as a result of the trust."
+
+**Kicker:** "Fleet customers are your highest-volume, most valuable accounts. Losing one fleet customer to a billing dispute costs more than the entire system. And attracting new fleet customers WITH this tracking is a competitive advantage no other station offers."
+
+**Guarantee:** "Full fleet accountability from the first month."
 
 ### 7. ComplianceStation — "Pass Every Inspection. Every Time. Without Scrambling."
-A regulatory compliance and safety dashboard for filling stations. Safety checklists, equipment maintenance schedules, automated reminders for expiring certificates, staff training tracking, inspection-ready reports. When DPR walks in, you pull up documented compliance — not panic.
+**The problem:** Filling stations have safety and regulatory obligations — fire equipment, tank testing, staff certification, environmental compliance. Most track none of this systematically. When regulators visit, it's a scramble.
+
+**Giant promise:** "When DPR walks in, you pull up a dashboard showing documented compliance across every category. No scrambling. No missing documents. No surprises."
+
+**What's inside:** Safety checklist system (fire extinguishers, spill kits, signage, PPE, exits), equipment maintenance schedule (tanks, pumps, generators, calibration), automated reminders ("Fire extinguisher inspection due in 7 days"), document storage (certificates, reports, training records), compliance score (real-time % met), regulatory visit log, staff training tracker (certifications, expiry dates), environmental compliance, audit-ready reports, historical compliance trends.
+
+**Story:** "A station operator passed 3 consecutive DPR inspections without a single finding — the first time in the station's history. The secret: ComplianceStation ran internal checks monthly. Every issue was caught and fixed before the regulators arrived. The station manager said: 'Inspections used to terrify me. Now I welcome them.'"
+
+**Kicker:** "One DPR fine can cost millions. One day of forced closure costs your daily revenue. ComplianceStation costs less than either — and prevents both."
+
+**Guarantee:** "If our system misses something an inspector later flags, we re-configure at no cost."
 
 ### 8. ProcureTrack — "Know Exactly What You're Spending and With Whom"
-A procurement and vendor management system. Track every purchase order, verify deliveries against orders, compare vendor pricing, monitor spending by category, and flag procurement waste. If 10% of your NGN 500K/month procurement is wasted, that's NGN 600K/year from visibility alone.
+**The problem:** You buy from multiple vendors — lubricants, car wash supplies, office materials, maintenance parts. Each order is a phone call or WhatsApp. You don't compare prices. You don't verify deliveries match orders. At month-end, you can't tell total procurement spend.
+
+**Giant promise:** "Every purchase order tracked. Every delivery verified. Every vendor compared. Every naira visible. Know exactly what you're spending, with whom, and whether you're getting value."
+
+**What's inside:** Vendor registry (suppliers, products, pricing), purchase order creation, delivery confirmation (received vs. ordered), cost tracking per category, price comparison per vendor, monthly procurement reports, reorder alerts, payment tracking, procurement history (searchable), budget vs. actual.
+
+**Story:** "A station operator discovered through ProcureTrack that he was paying 18% more for lubricants from one vendor compared to another — for the identical product. He'd been using the more expensive vendor for 2 years out of habit. Switching saved NGN 840,000/year on lubricants alone."
+
+**Kicker:** "If 10% of your NGN 500K/month procurement is wasted on overpriced vendors, duplicate orders, or items not needed — that's NGN 600K/year from visibility alone."
+
+**Guarantee:** "Complete procurement visibility within the first month."
 
 ### 9. StationRank — "Know Which Station Is Your Star and Which Is Dragging"
-A multi-station performance analytics and benchmarking platform. Per-station revenue, margins, customer traffic, staff productivity, and operational costs — side by side. When Station B's numbers drop, you know immediately — not next month.
+**The problem:** You have 3 stations. One "feels" busier. But is it more profitable? Or does it move more volume at a thinner margin? Without comparative analytics, you can't diagnose problems — only guess.
+
+**Giant promise:** "Every station ranked by every metric — volume, revenue, margin, customer traffic, staff productivity, operational cost. You'll know your star and your drag — and WHY."
+
+**What's inside:** Per-station performance dashboard, cross-station benchmarking, customer traffic analysis (per day, per hour), product mix analysis per station, staff productivity per station, operational cost comparison, trend analysis (improving or declining), anomaly detection ("Station C's margin dropped 20% this week"), executive summary reports.
+
+**Story:** "An operator with 4 stations always invested equally across all locations. StationRank revealed that Station A generated 45% of total profit despite being his smallest by volume — because it had the highest margin per litre and lowest operational costs. Station D, his largest by volume, was actually his least profitable. He redirected marketing spend to acquire more customers for Station A's high-margin profile. Total profit increased 22% without adding a single new station."
+
+**Kicker:** "You're making equal investment in unequal stations. What if you could redirect resources from your strongest to lift your weakest? One better-informed decision can exceed the system cost many times over."
+
+**Guarantee:** "Full multi-station analytics within 30 days."
 
 ### 10. StationOS — "Your Entire Operation on One Screen"
-The complete integrated station operations suite. Depositors, inventory, staff, remittance, loyalty, fleet, compliance, procurement, and analytics — all connected. Fuel stock informs depositor balances. Staff accountability connects to sales data. Everything in one system. One login. The full picture.
+**The problem:** Depositors in one system, inventory in another, staff in WhatsApp, remittance in Excel. Nothing connects. Your depositor system doesn't know your fuel stock. Your accountability system doesn't connect to sales data. Nobody sees the full picture.
+
+**Giant promise:** "LedgerLock + TankSight + ShiftGuard + RemitCalc + FuelLoyal + FleetFuel + ComplianceStation + ProcureTrack + StationRank — all connected. Your entire station operation on one dashboard."
+
+**What's inside:** Everything from products 1-9, integrated. Fuel stock informs depositor balances. Staff accountability connects to sales data. Procurement connects to inventory. Single login, unified data, cross-module intelligence.
+
+**Story:** "Before StationOS, the operator had 5 WhatsApp groups, 3 Excel files, and 2 notebooks running his 3 stations. After deployment, he opens one dashboard every morning. He told us: 'I used to spend my first 2 hours calling each station for updates. Now I know everything before I leave my house.'"
+
+**Kicker:** "You're already paying for the problems this system solves — in disputes, shrinkage, staff discrepancies, compliance risk, lost customers. The question isn't whether you can afford StationOS. It's how many more months you can afford to operate without it."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
@@ -269,68 +369,248 @@ The complete integrated station operations suite. Depositors, inventory, staff, 
 *Developers, Agents, Property Managers, Landlords*
 
 ### 1. ShowHouse — "Your Properties Sell While You Sleep — Online, 24/7"
-Premium property showcase website with galleries, floor plans, pricing, inquiry forms, and online deposit collection. Buyers find you on Google, browse at midnight, and submit inquiries before they forget.
+**The problem:** When someone searches "apartments in [your area]" on Google, your competitors show up and you don't. Your best properties are invisible to anyone outside your WhatsApp contacts. You lose leads every evening and weekend because no one answers the phone.
+
+**Giant promise:** "Buyers find you on Google, browse your listings at midnight, and submit inquiries before they forget. Your properties sell while you sleep."
+
+**What's inside:** Professional property website, individual listing pages with galleries/floor plans/pricing, one-click inquiry system with instant WhatsApp notification, online deposit collection via Paystack, SEO optimisation, Google Business Profile setup, content management (add properties yourself), mobile responsive.
+
+**Story:** "A real estate company in Abuja had 15 properties but no website. Their entire sales process was WhatsApp. Within the first month of ShowHouse, they received 3-4 online inquiries per week from people who found them on Google — buyers they would never have reached through WhatsApp alone."
+
+**Kicker:** "What's one property sale worth? NGN 20M? 50M? The cost of ShowHouse is less than the commission on a single sale you're losing to competitors who are visible online."
+
+**Guarantee:** "Your property website live within 4 weeks."
 
 ### 2. LeadTrail — "Never Lose a Lead Again — From First Click to Closed Sale"
-A real estate CRM that tracks every prospect from inquiry to purchase. Lead source, contact history, viewings scheduled, offers made, follow-ups due. When a lead goes 3 days without contact, you're alerted.
+**The problem:** Leads come in from calls, WhatsApp, walk-ins, referrals. They go into your phone or a notebook. Some get followed up. Some get forgotten. You can't tell which leads are hot, cold, or dead. Agents cherry-pick the easy ones and ignore the rest.
+
+**Giant promise:** "Every lead tracked from first inquiry to closed sale. Every follow-up scheduled. Every agent accountable. When a lead goes 3 days without contact, you know — before it goes cold."
+
+**What's inside:** Lead database with source tracking, contact history per lead, viewing scheduling, offer tracking, follow-up reminders, lead scoring (hot/warm/cold), agent assignment, pipeline dashboard (how many leads at each stage), conversion analytics, automated follow-up alerts, export for management reporting.
+
+**Story:** "A property developer discovered that 40% of their leads from the past 6 months had never received a second follow-up. Not because the leads were bad — because nobody tracked them. After LeadTrail, every inquiry enters a pipeline. The team's conversion rate doubled in 3 months — not from more leads, but from actually following up on the ones they already had."
+
+**Kicker:** "You're spending money generating leads. But if 40% never get followed up, you're paying to generate leads you then throw away. LeadTrail ensures every lead gets worked."
+
+**Guarantee:** "Zero leads fall through the cracks from day one."
 
 ### 3. TenantHub — "Every Tenant. Every Lease. Every Request. One System."
-A tenant management platform for rental properties. Tenant profiles, lease tracking, maintenance request submission and tracking, communication history, document storage. Tenants submit issues through the system instead of calling your personal WhatsApp.
+**The problem:** Tenant issues come through WhatsApp, calls, and sometimes the security guard. Lease expiry dates are tracked in your head. Maintenance requests get buried in chat history. When a tenant leaves, you can't find their original agreement.
+
+**Giant promise:** "Every tenant, every lease, every maintenance request — in one system. Tenants submit requests digitally. You track everything from your dashboard. Lease renewals never catch you off guard."
+
+**What's inside:** Tenant profiles (contact, lease terms, payment history), lease tracking with renewal alerts, digital maintenance request submission, request tracking (submitted → assigned → resolved), communication history per tenant, document storage per unit, move-in/move-out checklists, tenant satisfaction tracking.
+
+**Story:** "A property manager with 35 rental units was managing tenants on WhatsApp and a notebook. A lease expired without renewal because he forgot the date — the tenant moved out, and the unit sat empty for 2 months. After TenantHub, every lease has a 60-day renewal alert. He hasn't missed one since."
+
+**Kicker:** "One missed lease renewal = one empty unit. At NGN 200,000/month rent, 2 months empty = NGN 400,000 lost. TenantHub costs a fraction of that."
+
+**Guarantee:** "Every lease tracked. Every renewal alerted. From day one."
 
 ### 4. RentFlow — "Rent Collected On Time. Every Month. Automatically."
-Online rent collection via Paystack. Automated reminders for due and overdue rent. Payment history per tenant. Receipt generation. Delinquency reporting. Parents pay school fees online — why shouldn't tenants pay rent online?
+**The problem:** Tenants pay cash or bank transfer. You check your account manually. Receipts are handwritten. 30% of tenants pay late every month because there's no easy option and no systematic follow-up. Chasing rent is awkward and time-consuming.
+
+**Giant promise:** "Tenants pay rent online — card, transfer, USSD. Automated reminders for due and overdue rent. Receipts generated instantly. You stop chasing. They stop being late."
+
+**What's inside:** Online rent payment via Paystack, automated reminders (7 days before due, on due date, 7 days overdue, 14 days overdue), payment history per tenant, automatic receipt generation, delinquency dashboard, partial payment tracking, payment link in every reminder, export for accountant.
+
+**Story:** "A landlord with 20 units was collecting rent via bank transfer and manual confirmation. Every month, 6-8 tenants paid late — some by 2-3 weeks. After RentFlow, tenants get a payment link by SMS on the 25th. 80% now pay before the 1st. The landlord told us: 'I used to spend the first week of every month chasing rent. Now I spend it planning improvements.'"
+
+**Kicker:** "If 30% of tenants pay 2 weeks late on a 20-unit building at NGN 200K/month, that's NGN 1.2M in delayed cash flow every month — exactly when you need it for maintenance and staff."
+
+**Guarantee:** "Online rent collection live within 2 weeks."
 
 ### 5. PropertyCheck — "Track Every Inspection. Every Repair. Every Cost."
-A property inspection and maintenance tool. Scheduled inspections with photo documentation, issue logging, contractor assignment, repair cost tracking, property condition history over time. Know the true cost of maintaining each property.
+**The problem:** When something breaks — leaking roof, faulty wiring, cracked wall — it enters a WhatsApp chat and might get fixed this week or next month. There's no record of what was repaired, by whom, at what cost. You can't tell which properties cost the most to maintain or which contractors deliver.
+
+**Giant promise:** "Every inspection documented with photos. Every issue tracked from report to resolution. Every repair cost recorded. Know the true cost of maintaining each property."
+
+**What's inside:** Scheduled inspections with digital checklists, photo documentation with timestamps, issue logging by category (plumbing, electrical, structural), contractor assignment, resolution tracking, repair cost recording, property condition history, recurring issue detection, maintenance cost per property, contractor performance tracking.
+
+**Story:** "A property manager spent NGN 4.2M on maintenance across 15 properties in one year but couldn't tell which properties consumed the most. PropertyCheck revealed that 3 properties accounted for 65% of all maintenance spend — all due to the same plumbing contractor doing patch jobs instead of proper fixes. Switching contractors cut annual maintenance by 30%."
+
+**Kicker:** "If you can't see maintenance costs per property, you can't make informed decisions about pricing, renovations, or whether to keep a property. PropertyCheck gives you that visibility."
+
+**Guarantee:** "Full maintenance tracking from the first logged issue."
 
 ### 6. AgentBoard — "Know Which Agents Perform and Which Coast"
-An agent performance dashboard. Listings managed, viewings conducted, inquiries handled, deals closed, revenue generated — per agent. Performance visibility drives accountability. Reward your top performers. Coach the ones who need it.
+**The problem:** You have 5-10 agents. Some close deals. Some just show up. You can't tell who's doing viewings, who's following up, and who's just collecting a salary. Performance reviews are based on feelings, not data.
+
+**Giant promise:** "Every agent's activity visible — listings managed, viewings conducted, inquiries handled, deals closed, revenue generated. Performance drives compensation. Data replaces gut feel."
+
+**What's inside:** Per-agent activity tracking, listings managed, viewings scheduled and completed, inquiries handled, deals closed, revenue generated, conversion rate per agent, response time to inquiries, lead-to-sale timeline, performance rankings, commission calculation, monthly reports.
+
+**Story:** "A real estate firm with 8 agents assumed their top earner was their best performer. AgentBoard showed that he was actually the slowest to respond to inquiries — his deals came from personal referrals, not work ethic. Meanwhile, a junior agent who responded to every inquiry within 30 minutes had the highest conversion rate. The firm restructured lead assignment based on data. Total closings increased 35%."
+
+**Kicker:** "Your best-paid agent might not be your best agent. AgentBoard shows who actually performs — with data, not reputation."
+
+**Guarantee:** "Full agent visibility from the first week."
 
 ### 7. DeedVault — "Every Title. Every Agreement. Every Receipt. Secure and Searchable."
-A document management system for real estate. Titles, sale agreements, tenant contracts, inspection reports, receipts — all stored digitally, organised by property, searchable by keyword, secure and backed up. Never hunt for a document again.
+**The problem:** Property documents are scattered — some in files, some in email, some on someone's phone, some nowhere. When a buyer asks for the title, you hunt for 20 minutes. When a dispute arises, you can't find the original agreement.
+
+**Giant promise:** "Every document for every property — stored digitally, organised, searchable, secure, backed up. Find any document in 5 seconds."
+
+**What's inside:** Digital document storage per property, categorisation (titles, agreements, receipts, inspection reports, certificates), keyword search, version tracking, role-based access, secure cloud backup, upload from phone or computer, shareable links, audit trail (who accessed what, when).
+
+**Story:** "During a land dispute, a property developer needed the original C of O from 4 years ago. Without DeedVault, it would have been a week of searching filing cabinets. With DeedVault, it took 8 seconds — searched 'C of O + [property name]' and the document appeared with its upload date and source."
+
+**Kicker:** "One lost document during a dispute can cost you the property. DeedVault costs less than one hour of a lawyer's time."
+
+**Guarantee:** "All existing documents migrated and searchable within the first month."
 
 ### 8. ValueScope — "Track Property Values. Spot Opportunities. Make Better Decisions."
-Property valuation and market analytics. Track your portfolio's value over time, compare against market rates, generate valuation reports, identify underperforming assets, spot investment opportunities.
+**The problem:** You know what you paid for each property. But do you know what it's worth today? Are some properties appreciating faster than others? Are you holding underperformers? Could you sell one and buy two better ones? Without valuation data, you can't optimise your portfolio.
+
+**Giant promise:** "Track your portfolio's value over time. Compare against market rates. Identify underperformers. Spot opportunities. Make data-driven decisions about buying, holding, and selling."
+
+**What's inside:** Property valuation tracking (purchase price, current estimated value, appreciation rate), market comparison data, portfolio-level value dashboard, individual property performance, appreciation trends, investment return calculations, opportunity flagging, valuation reports for banks/investors, scenario modelling ("if I sell Property A and buy Property B...").
+
+**Kicker:** "You might be sitting on a property that's appreciated 200% in 5 years — and not know it. Or holding one that's depreciated while you pay maintenance. ValueScope shows you the truth about every asset."
+
+**Guarantee:** "Portfolio valuation dashboard live within 30 days."
 
 ### 9. NurtureAgent — "Every Lead Gets Follow-Up — Even the Ones You Forgot"
-Automated client communication platform. Property recommendations based on buyer preferences, viewing reminders, post-viewing follow-ups, "new listing matches your criteria" alerts. Leads stay warm without you manually chasing.
+**The problem:** You follow up with hot leads. Warm leads get a second call. Cold leads are forgotten entirely. But cold leads aren't dead — they're just not ready yet. Without nurturing, they buy from whoever contacts them when they ARE ready.
+
+**Giant promise:** "Automated follow-ups for every lead at every stage. Property recommendations based on preferences. Viewing reminders. 'New listing matches your criteria' alerts. Leads stay warm without you manually chasing."
+
+**What's inside:** Automated email/SMS nurture sequences, property matching (buyer preferences → matching listings), viewing reminders, post-viewing follow-ups, "new listing" alerts for saved preferences, re-engagement for cold leads, drip campaigns, lead activity tracking, unsubscribe management.
+
+**Story:** "A developer had 200 leads from a previous project launch — people who inquired but didn't buy. They were sitting in an Excel file doing nothing. After NurtureAgent, those 200 leads received monthly updates on new projects. Within 6 months, 12 of them bought — NGN 180M in sales from a list everyone had written off."
+
+**Kicker:** "Your old leads aren't dead. They're just not being talked to. NurtureAgent talks to them for you — until they're ready."
+
+**Guarantee:** "Nurture sequences running within 2 weeks of setup."
 
 ### 10. PortfolioView — "All Your Properties. All Your Numbers. One Screen."
-Unified portfolio dashboard. Occupancy, revenue, maintenance costs, tenant status, and financial performance across every property you own or manage. Know which property is making money and which is draining it.
+**The problem:** You own or manage 10+ properties. Each one is tracked separately — different spreadsheets, different bank accounts, different maintenance logs. You can't see the total picture. Which property makes money? Which one bleeds? What's the total portfolio revenue?
+
+**Giant promise:** "ShowHouse + LeadTrail + TenantHub + RentFlow + PropertyCheck + AgentBoard + DeedVault + ValueScope + NurtureAgent — all connected. Every property, every tenant, every naira — on one dashboard."
+
+**What's inside:** Everything from products 1-9 integrated. Unified portfolio dashboard. Occupancy across all properties. Revenue comparison. Maintenance cost comparison. Tenant status summary. Agent performance. Document access. Lead pipeline. One login. One source of truth.
+
+**Kicker:** "You're managing 10 properties in 10 different systems. What if one screen showed you everything — which properties make money, which tenants are late, which agents are performing, and which leads need follow-up? That's PortfolioView."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
 # INDUSTRY 4: RETAIL & SUPERMARKETS
 
 ### 1. LoopBack — "Turn Every Customer Into a Repeat Customer"
-Customer loyalty and rewards platform. Points on every purchase, tiered rewards, targeted SMS promotions based on purchase history. If 10% of one-time buyers return because of the loyalty program, that's NGN 6M/year in recovered revenue.
+**The problem:** 1,000 customers walk through your doors this month. 60% will never come back — not because they were unhappy, but because they have zero reason to choose you over the store closer to their house.
+
+**Giant promise:** "A loyalty program that captures every customer and gives them a reason to come back. Points, rewards, targeted offers. The store down the road doesn't do this. You will."
+
+**What's inside:** Customer loyalty program (points on every purchase, tiered rewards), customer database (name, phone, purchase history), targeted SMS/WhatsApp promotions, lapsed customer detection, referral program, campaign tracking, daily/weekly reports.
+
+**Story:** "A supermarket in Kaduna launched LoopBack. Within 3 months, 400 of their 1,000 monthly customers enrolled. Average visit frequency increased from 1.8 to 2.9 times/month among members. Monthly revenue from loyalty members grew 55%."
+
+**Kicker:** "If 10% of one-time buyers return because of the program — 100 customers at NGN 5K basket — that's NGN 500K/month. NGN 6M/year. From customers you already had."
+
+**Guarantee:** "If repeat rate doesn't increase within 90 days, we reconfigure at no charge."
 
 ### 2. ShelfSmart — "Know What Sells, What Sits, and What Makes You Money"
-Product performance analytics. Revenue, margin, and velocity per product. Know your top 20 by profit (not just sales). Identify slow movers tying up capital. Discover which products you're selling at a loss after factoring shelf space.
+**The problem:** You know what sells the most by volume. But do you know what makes the most money? Your bestseller might have the lowest margin. Your 10th product might be your profit driver. Without margin data, you're optimising for the wrong thing.
+
+**Giant promise:** "Revenue, margin, and velocity per product. Know your top 20 by PROFIT, not just sales. Discover what makes money and what ties up capital."
+
+**What's inside:** Product performance analytics (revenue, margin, velocity), profitability ranking, slow mover identification, dead stock flagging, category-level analysis, seasonal trend detection, cost of shelf space analysis, export for management decisions.
+
+**Story:** "A supermarket discovered through ShelfSmart that their bestselling product (by volume) was actually their 3rd lowest by margin — they were essentially paying for shelf space to move low-profit items. They reallocated prime shelf space to high-margin products. Gross profit increased 18% without changing total revenue."
+
+**Kicker:** "You might be dedicating your best shelf space to your lowest-margin product. ShelfSmart shows you the truth."
+
+**Guarantee:** "Product profitability ranking within the first week of data."
 
 ### 3. StockPulse — "Never Run Out of Bestsellers. Never Overstock Slow Movers."
-Inventory management and auto-restock system. Real-time stock levels, restock alerts before you run out, consumption patterns, supplier integration, dead stock identification, shelf-life tracking. One stockout on a bestseller costs more than the system.
+**The problem:** You run out of bestsellers and lose sales. You overstock slow movers and tie up capital. Restock decisions are based on gut feel, not data. Expired products are discovered too late.
+
+**Giant promise:** "Real-time stock levels. Automatic restock alerts before you run out. Shelf-life tracking so nothing expires unnoticed. Know exactly what to order and when."
+
+**What's inside:** Real-time inventory tracking, restock alerts (configurable thresholds per product), consumption pattern analysis, supplier integration, dead stock identification, shelf-life/expiry tracking, reorder quantity suggestions based on velocity, stockout cost estimation, multi-location inventory comparison.
+
+**Kicker:** "One day out of stock on your top 5 products costs you more than this system costs for a year."
+
+**Guarantee:** "Zero stockouts on monitored products within 60 days."
 
 ### 4. QuickQueue — "Shorter Lines. Fewer Walkouts. More Revenue."
-POS and checkout optimisation. Faster transaction processing, integrated loyalty capture at point of sale, queue management. Every customer who sees a long line and walks out is NGN 8,000 lost. 5 fewer walkouts/day = NGN 1.2M/month.
+**The problem:** Checkout queues. Customers see 10 people in line and walk out with their basket unpurchased. You never know it happened because walkouts are invisible. During peak hours, your revenue is capped by checkout speed, not demand.
+
+**Giant promise:** "Faster checkout, shorter queues, fewer walkouts. Every customer who stays in line instead of leaving is NGN 8,000 you didn't lose."
+
+**What's inside:** POS optimisation (faster transaction flow), integrated loyalty capture at checkout, queue analytics (wait time, peak periods), express checkout configuration, walkout estimation (based on peak-hour transaction drop-off), cashier speed benchmarking.
+
+**Kicker:** "5 walkouts/day × NGN 8K average basket = NGN 40K/day = NGN 1.2M/month in lost revenue from queues alone."
+
+**Guarantee:** "Average checkout time reduced within the first month."
 
 ### 5. CustomerPing — "Talk to Your Customers After They Leave Your Store"
-Customer communication platform. Capture phone numbers through the loyalty program. Send targeted SMS/WhatsApp: "Your favourite rice brand is 10% off this weekend." Bring them back for the deal — they buy 5 other things while they're there.
+**The problem:** A customer buys from you and leaves. You have no way to reach them. No phone number. No purchase history. No mechanism to say "the thing you buy every month is on sale this weekend — come back."
+
+**Giant promise:** "Capture every customer's phone through the loyalty program. Send targeted promotions. Bring them back with offers they actually care about."
+
+**What's inside:** Customer database with purchase history, segmented SMS/WhatsApp campaigns, product-based targeting ("bought rice last month → rice on sale"), seasonal promotions, birthday offers, new product announcements, campaign performance tracking, opt-in/out management.
+
+**Kicker:** "One targeted SMS to 500 customers about a weekend sale costs almost nothing to send. If 50 come back and spend NGN 8K each, that's NGN 400K from a single message."
+
+**Guarantee:** "First campaign sent within 2 weeks of launch."
 
 ### 6. TeamTrack — "Know Which Cashier Is Fastest and Which Needs Help"
-Staff scheduling and performance tracker. Per-cashier analytics — transaction count, speed, void rate, revenue per shift. Shift management. Attendance. Performance visibility drives accountability without confrontation.
+**The problem:** Some cashiers process 200 transactions per shift. Some process 80. Some have high void rates. You can't see this without per-cashier data. Staff scheduling is guesswork — same number of people regardless of whether it's Monday or Saturday.
+
+**Giant promise:** "Per-cashier performance data. Transaction speed, void rate, revenue per shift. Schedule the right people on the right days."
+
+**What's inside:** Per-cashier analytics (transaction count, speed, void rate, revenue), shift management and scheduling, attendance tracking, peak-period staffing suggestions, performance comparisons, void and exception tracking with reasons.
+
+**Kicker:** "A slow cashier during peak hours costs you walkouts. TeamTrack shows you who should work Saturday and who should work Tuesday."
+
+**Guarantee:** "Staff performance data from the first week of tracking."
 
 ### 7. SupplyLine — "Know What You're Buying, From Whom, and Whether It's Fair"
-Supplier and procurement management. Vendor tracking, purchase orders, delivery verification, price comparison across suppliers, payment tracking. If you're overpaying one vendor by 5% because you never compared, this finds it.
+**The problem:** You order from 10+ vendors. Each is a phone call. You never compare prices across vendors. You can't tell if what was delivered matches what was ordered. Monthly procurement spend is a guess.
+
+**Giant promise:** "Every vendor, every order, every delivery, every price — tracked and comparable. Know if you're getting the best deal. Know if deliveries match orders."
+
+**What's inside:** Vendor registry with products and pricing, purchase order management, delivery verification (ordered vs. received), price comparison across vendors, spending by category, monthly reports, payment tracking, procurement history.
+
+**Kicker:** "If you're overpaying one vendor by 5% because you never compared, on NGN 2M/month in purchases, that's NGN 100K/month wasted. NGN 1.2M/year."
+
+**Guarantee:** "Complete procurement visibility within the first month."
 
 ### 8. PromoEngine — "Run Promotions That Actually Work — and Prove It"
-Promotional campaign manager. Create BOGO, discounts, bundles, seasonal offers. Deploy via SMS to your customer database. Track redemption. Measure actual revenue lift. Know which promotions bring customers and which waste money.
+**The problem:** You run promotions — BOGO, discounts, bundles. But you can't measure if they actually drove incremental sales or just gave a discount to customers who would have bought anyway. You repeat what "feels" like it worked.
+
+**Giant promise:** "Create, deploy, and measure every promotion. Know exactly how much incremental revenue each one generated. Stop repeating what doesn't work."
+
+**What's inside:** Promotion creation (BOGO, percentage off, bundle deals, loyalty-exclusive), SMS deployment to customer database, redemption tracking, baseline comparison (sales before vs. during vs. after), incremental revenue calculation, ROI per promotion, A/B comparison, seasonal templates.
+
+**Kicker:** "If you run 10 promotions a year and can't prove which ones work, you're potentially wasting 40-60% of your promotional budget. PromoEngine pays for itself by killing one bad promotion."
+
+**Guarantee:** "Full ROI report for your next campaign."
 
 ### 9. BranchView — "All Locations. One Dashboard. Compare Everything."
-Multi-branch retail dashboard. Every store's sales, inventory, staff performance, and customer data — side by side. Identify which branch is underperforming and why. Allocate resources where they'll have the most impact.
+**The problem:** You have 3 stores. Each managed separately — different reports, different timing, different formats. You can't compare performance side by side. You can't tell which branch needs help until it's obvious.
+
+**Giant promise:** "Every store's sales, inventory, staff, and customers — side by side. Know which branch is your star and which needs attention."
+
+**What's inside:** Multi-branch dashboard, per-store revenue/margin/traffic comparison, inventory levels across locations, staff performance per branch, customer data per location, trend analysis, anomaly detection, resource allocation suggestions.
+
+**Kicker:** "You're investing equally in unequal branches. BranchView shows you where to focus for maximum return."
+
+**Guarantee:** "Full multi-branch visibility within 30 days."
 
 ### 10. ShopOnline — "Your Store, On Your Customer's Phone"
-E-commerce and online ordering platform. Extend your physical store to customers' phones. Browse products, order online, pay via Paystack, delivery or pickup. The customers who can't drive to your store can still buy from you.
+**The problem:** Your customers can only buy when they physically visit. But they're busy. They're stuck in traffic. It's raining. They'd buy from you if they could order from their phone. Instead, they order from whoever delivers.
+
+**Giant promise:** "Your store goes online. Customers browse products, order, pay, and choose delivery or pickup — from their phone. Your physical store now has unlimited opening hours."
+
+**What's inside:** E-commerce storefront (your branding), product catalogue with photos and prices, shopping cart, online payment via Paystack, delivery management, pickup scheduling, order tracking, inventory sync with physical store, customer accounts, promotional banners.
+
+**Kicker:** "Your store is open 10 hours a day. ShopOnline makes it open 24. The customer who would have gone to a competitor because they couldn't visit your store — now orders from their couch."
+
+**Guarantee:** "Online store live within 4 weeks."
 
 ---
 
@@ -338,68 +618,242 @@ E-commerce and online ordering platform. Extend your physical store to customers
 *Clinics, Hospitals, Dental Practices, Pharmacies*
 
 ### 1. CareCheck — "Inspect Yourself Before the Regulators Do"
-316-checkpoint facility inspection. Scored, colour-coded, with repair estimates and prioritised action lists. Know your compliance status before any inspector does. One failed inspection costs more than the system.
+**The problem:** Regulatory inspections are unpredictable. When an inspector arrives, you scramble — hunting for certificates, checking fire extinguishers, looking for maintenance logs. You don't fail because you're a bad facility — you fail because nobody was systematically checking.
+
+**Giant promise:** "316 checkpoints across 11 categories. Scored, colour-coded, with repair cost estimates. Know exactly where you stand BEFORE anyone else checks."
+
+**What's inside:** 316-checkpoint inspection (safety, infection control, equipment, documentation, emergency, waste), 480-point scoring, colour-coded reports (green/yellow/red), repair cost estimates, prioritised action list, compliance tracking dashboard, document storage, audit-ready reports, re-inspection scheduling.
+
+**Story:** "A clinic in Abuja thought everything was fine. CareCheck scored them 62/100. Issues: expired fire extinguishers, undocumented infection control, missing exit signage. They fixed critical items in 2 weeks. When the real inspection came, they passed without a single finding."
+
+**Kicker:** "One failed inspection = fines + closure + reputation damage. CareCheck costs less than one day of forced closure."
+
+**Guarantee:** "If our assessment misses something an inspector flags, we re-assess at no cost."
 
 ### 2. BookCare — "Patients Book Online. Your Receptionist Stops Being a Call Centre."
-Online appointment scheduling. Patients book from their phone, see available slots in real time, get SMS confirmation and reminders. No-show tracking. Follow-up scheduling. Your receptionist handles patients, not phone queues.
+**The problem:** Your receptionist spends 3 hours/day on appointment calls. Patients who can't get through go to another clinic. No-shows waste slots. Follow-up appointments are forgotten.
+
+**Giant promise:** "Patients book from their phone. See available slots in real time. Get SMS confirmations and reminders. No-shows tracked. Follow-ups scheduled automatically."
+
+**What's inside:** Online appointment scheduling, real-time slot availability, SMS/email confirmation, automated reminders (24hr and 2hr before), no-show tracking, follow-up scheduling, doctor-specific calendars, patient communication, rescheduling management, waitlist for cancelled slots.
+
+**Story:** "A dental clinic reduced receptionist phone time by 60% within the first month. No-show rate dropped from 22% to 8% because of automated reminders. The receptionist now greets patients instead of answering phones."
+
+**Kicker:** "Every no-show is a wasted slot worth NGN 10-50K depending on the procedure. At 10 no-shows/week, that's NGN 100-500K/week lost. Reminders cut that by 60%."
+
+**Guarantee:** "Online booking live within 2 weeks."
 
 ### 3. MedRecord — "Find Any Patient's Full History in 5 Seconds"
-Electronic medical records. Every visit, diagnosis, prescription, lab result — digital, searchable, secure. Role-based access for doctors, nurses, and admin. Accessible from any device. Replace paper files that get lost, misfiled, or destroyed.
+**The problem:** Paper files get lost, misfiled, or destroyed. A patient comes in and you can't find their last visit notes. A doctor needs allergy history and nobody can locate the file. When a patient asks for their records, it takes 3 days to compile.
+
+**Giant promise:** "Every visit, diagnosis, prescription, lab result — digital, searchable, accessible in seconds. From any device. Secure and backed up."
+
+**What's inside:** Digital patient records, visit history per patient, diagnosis and treatment logs, prescription history, lab result storage, role-based access (doctor, nurse, admin), search by name/date/condition, referral tracking, medical history summary, export/print for patient or referral.
+
+**Story:** "During an emergency, a doctor needed a patient's drug allergy history. The paper file was in storage from 2 years ago. With MedRecord, it would have been one search — 5 seconds. That incident convinced the clinic to go digital."
+
+**Kicker:** "A wrong prescription because of missing allergy data isn't just a medical risk — it's a liability risk. MedRecord makes every patient's full history accessible instantly."
+
+**Guarantee:** "All existing patient records migrated within the first month."
 
 ### 4. PharmaTrack — "Never Run Out of Critical Medication"
-Pharmacy inventory and dispensing system. Stock levels per medication, expiry date tracking and alerts, restock automation, dispensing records, cost per medication. A patient who arrives and you're out of their prescription goes to your competitor.
+**The problem:** You run out of a common medication. The patient walks to the pharmacy next door. You don't notice until someone asks. Expired drugs are discovered during a clear-out, not before. You can't tell which medications cost you the most or move the fastest.
+
+**Giant promise:** "Stock levels per medication. Expiry alerts before drugs expire. Restock alerts before you run out. Dispensing records for every item. Never lose a patient to an out-of-stock again."
+
+**What's inside:** Medication inventory tracking, expiry date monitoring with alerts (30/60/90 day), restock alerts, dispensing records per prescription, cost per medication, supplier management, usage analytics, batch tracking, controlled substance logging, procurement reports.
+
+**Story:** "A pharmacy discovered 12% of their stock was within 60 days of expiry — worth NGN 2.8M. Without PharmaTrack, most would have expired on the shelf. They ran targeted discounts on near-expiry items and recovered 80% of the value."
+
+**Kicker:** "Expired medication is money thrown away. Out-of-stock medication is patients thrown away. PharmaTrack prevents both."
+
+**Guarantee:** "Zero expired stock discoveries after the first quarter of use."
 
 ### 5. RevenuePulse — "Know Which Department Makes Money and Which Bleeds"
-Hospital revenue and department analytics. Revenue by department (lab, pharmacy, outpatient, inpatient), cost allocation, profitability analysis. Discover that your lab generates 40% of revenue but pharmacy generates 60% of profit. Make informed decisions.
+**The problem:** You know total revenue. But is the lab profitable? Is pharmacy carrying the inpatient ward? Are consultation fees covering their costs? Without department-level data, you can't allocate resources, price services, or make investment decisions.
 
-### 6. StaffSync — "Schedule the Right Number of Nurses for the Right Day"
-Workforce scheduling based on patient volume patterns. Monday is slow — schedule fewer nurses. Saturday is packed — call in extras. Overtime tracking, leave management, credential monitoring. Stop paying for idle hands on slow days.
+**Giant promise:** "Revenue and cost per department. Profitability per service line. The data that tells you where to invest and where to cut."
+
+**What's inside:** Department-level revenue tracking (lab, pharmacy, outpatient, inpatient, radiology, dental), cost allocation per department, profitability analysis, service-level pricing analytics, trend reports (monthly/quarterly), revenue per doctor, comparison periods, export for board reports.
+
+**Kicker:** "Your lab might generate 40% of revenue but only 15% of profit. Your pharmacy might generate 20% of revenue but 50% of profit. Without this data, you're making blind decisions about where to invest."
+
+**Guarantee:** "Department-level financial visibility within 30 days."
+
+### 6. StaffSync — "Schedule the Right Number of Staff for the Right Day"
+**The problem:** Same number of nurses every day — whether it's a slow Monday or a packed Saturday. Overtime bills pile up on busy days. Staff are idle on slow days. You're paying for inefficiency in both directions.
+
+**Giant promise:** "Staff scheduling based on actual patient volume patterns. Right people, right day, right shift. Overtime controlled. Idle time minimised."
+
+**What's inside:** Patient volume pattern analysis, shift scheduling suggestions, nurse/doctor/admin scheduling, overtime tracking, leave management, credential and certification monitoring, shift swap management, under/overstaffing alerts, cost per shift, attendance tracking.
+
+**Kicker:** "If you overstaffed slow days by 2 nurses at NGN 5,000/shift, that's NGN 10K/day × 100 slow days/year = NGN 1M wasted. StaffSync matches staffing to demand."
+
+**Guarantee:** "Optimised schedule recommendations within the first month of patient data."
 
 ### 7. PatientVoice — "Know How Patients Feel Before They Post on Google"
-Post-visit feedback system. SMS survey: "Rate your visit 1-5." Low scores trigger immediate management alerts. Fix the issue before it becomes a Google review. Track satisfaction trends. Identify which staff or processes need improvement.
+**The problem:** A patient has a bad experience. They leave angry. You never know. They post a 1-star review on Google. Prospective patients see it. You lose them before they ever walk in. The issue that caused the bad review was fixable — if only you'd known.
+
+**Giant promise:** "Post-visit SMS: 'Rate your experience 1-5.' Low scores trigger immediate management alerts. Fix the issue before it becomes a public review."
+
+**What's inside:** Automated post-visit survey (SMS), NPS tracking, real-time alerts on low scores (≤3), response management workflow, satisfaction trends over time, per-doctor/per-department scores, positive review prompting (high scorers asked to review on Google), complaint tracking and resolution.
+
+**Kicker:** "One 1-star Google review is seen by hundreds of potential patients. Catching the complaint internally — before it goes public — is worth more than any marketing spend."
+
+**Guarantee:** "Feedback system live within 1 week."
 
 ### 8. ComplyShield — "Documented Compliance. Audit-Ready. Always."
-Regulatory compliance documentation system. Protocol tracking, certification management, maintenance logs, inspection history, staff training records. When a regulator asks "show me proof," you pull up a dashboard — not a filing cabinet.
+**The problem:** Regulators don't accept "we do this." They want proof. Documented protocols, timestamped maintenance logs, staff training certificates, equipment calibration records. Most facilities can't produce this on demand.
+
+**Giant promise:** "Every protocol documented. Every maintenance logged. Every certificate tracked. When a regulator says 'show me proof' — you pull up a dashboard, not a filing cabinet."
+
+**What's inside:** Protocol documentation and tracking, maintenance log management, staff certification tracking with expiry alerts, equipment calibration schedules, inspection history, compliance score (% of requirements met), audit-ready report generation, document upload and storage, regulatory visit logging.
+
+**Kicker:** "The difference between a facility that passes an inspection and one that doesn't is usually documentation — not quality of care. ComplyShield makes your documentation bulletproof."
+
+**Guarantee:** "Audit-ready compliance reports from the first month."
 
 ### 9. TeleDoc — "See Patients Without Them Coming In"
-Telemedicine and virtual consultation platform. Video consultations, prescription management, follow-up scheduling, secure patient communication. Patients in remote areas or with mobility issues access your expertise from their phone.
+**The problem:** Patients in remote areas can't reach your clinic. Elderly patients can't travel easily. Working professionals can't take time off for a consultation. Follow-up visits that should happen don't — because the patient can't come back physically.
 
-### 10. ClinicOS — "Your Entire Hospital on One Dashboard"
-Complete hospital management system. Records, scheduling, pharmacy, billing, compliance, analytics, staffing, and feedback — integrated. One login. One source of truth. Every department connected. The system a modern healthcare facility needs.
+**Giant promise:** "Video consultations from any phone. Prescription management. Follow-up scheduling. Your expertise reaches patients wherever they are."
+
+**What's inside:** Video consultation platform (works on any smartphone), appointment scheduling for virtual visits, digital prescription generation, patient communication (pre and post consultation), follow-up scheduling, consultation notes and recording, payment collection for virtual visits, integration with MedRecord for patient history.
+
+**Kicker:** "Every patient who can't visit physically is either going to a closer (possibly worse) clinic or not getting care at all. TeleDoc makes distance irrelevant."
+
+**Guarantee:** "Virtual consultations available within 2 weeks."
+
+### 10. ClinicOS — "Your Entire Facility on One Dashboard"
+**The problem:** Records in files. Appointments on paper. Pharmacy in a notebook. Billing in Excel. Compliance in your head. Nothing connects. Your patient data doesn't talk to your financial data. Your staffing doesn't respond to your patient volume.
+
+**Giant promise:** "CareCheck + BookCare + MedRecord + PharmaTrack + RevenuePulse + StaffSync + PatientVoice + ComplyShield + TeleDoc — all connected. One system. One dashboard. One source of truth."
+
+**What's inside:** Everything from products 1-9 integrated. Patient records feed billing. Appointments inform staffing. Pharmacy connects to prescriptions. Compliance tracks across all departments. One login.
+
+**Kicker:** "A modern healthcare facility shouldn't run on paper and memory. ClinicOS is the operating system that connects every department, every patient, and every naira."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
 # INDUSTRY 6: BDC / FOREIGN EXCHANGE
 
 ### 1. SwiftSettle — "Reconcile in Minutes. Trade Without Paper."
-Real-time trade and settlement platform. Every trade timestamped, every receipt instant, rates update from your phone, end-of-day reconciliation calculates itself. 3 hours becomes 15 minutes.
+**The problem:** End-of-day reconciliation takes 2-3 hours. Matching paper receipts to bank transfers. Recalculating customer balances. Checking for discrepancies. Every day. 300 days a year.
+
+**Giant promise:** "Your reconciliation calculates itself. Buy volume, sell volume, cash position, bank position, customer balances — all automatic. 3 hours becomes 15 minutes."
+
+**What's inside:** Automated end-of-day reconciliation, buy/sell volume summary, cash vs. bank position, customer balance summary, discrepancy alerts, trade-level detail drill-down, one-click report export, historical reconciliation records, multi-branch settlement.
+
+**Story:** "A BDC operator spent 2.5 hours every evening on reconciliation. After SwiftSettle, he opens the dashboard at 5pm, verifies the auto-calculated numbers, and is done by 5:20. He told us: 'I got my evenings back. And the numbers are more accurate than when I did them manually.'"
+
+**Kicker:** "2.5 hours/day × 300 days = 750 hours/year. That's over 90 working days spent on something the system does in 15 minutes."
+
+**Guarantee:** "Your reconciliation will never take more than 20 minutes again."
 
 ### 2. RateFlash — "Update Rates Across All Branches in 2 Seconds"
-Live rate management. Change buy/sell rates from your phone. Every branch sees the new rate instantly. Customers see it on their portal. Timestamped rate history for audit. No more whiteboards. No more wrong-rate trades.
+**The problem:** Rates change multiple times a day. You update a whiteboard, then call each branch, then hope they heard you correctly. A customer trades at the wrong rate because the branch didn't update fast enough. That spread difference comes out of your pocket.
+
+**Giant promise:** "Change rates from your phone. Every branch sees the new rate in seconds. Customers see it on their portal. Timestamped history for audit."
+
+**What's inside:** Digital rate management, instant multi-branch sync, customer-facing rate display, timestamped rate change history, rate alerts to staff, rate comparison dashboard, multi-currency support.
+
+**Story:** "A BDC operator with 3 branches lost NGN 800K in one month from wrong-rate trades — branches using outdated rates after a market move. After RateFlash, rates propagate instantly. Wrong-rate losses dropped to zero."
+
+**Kicker:** "One wrong-rate trade on $10,000 at NGN 50 spread difference = NGN 500,000. RateFlash prevents that from ever happening."
+
+**Guarantee:** "Rate updates propagate to all branches within 5 seconds."
 
 ### 3. TraderPortal — "Your Customers Check Their Own Balance at 2AM"
-Customer self-service portal. Individual logins, real-time balance, trade history, statement downloads. "What's my balance?" calls drop by 70%+ within the first month. Customers trust you more because there's full transparency.
+**The problem:** You get 15+ calls a day asking "what's my balance?" Each takes 5 minutes to look up. Your staff spend over an hour daily on balance inquiries. Customers can't trust balances they can't see.
+
+**Giant promise:** "Customers login and see their own balance, trade history, and statements — 24/7. Balance calls drop by 70%. Trust goes up."
+
+**What's inside:** Customer self-service portal, individual logins, real-time balance, trade history, statement downloads, mobile responsive, customer registration management.
+
+**Story:** "A BDC operator's top 50 customers generated 15-20 balance inquiry calls per day. After TraderPortal, calls dropped to 3-4 per day within the first month. Customers told him they felt more confident because they could verify everything themselves."
+
+**Kicker:** "15 calls/day × 5 min = 75 min/day = 375 hours/year answering a question a portal answers automatically."
+
+**Guarantee:** "Balance inquiry calls drop by at least 60% within 30 days."
 
 ### 4. CashierLock — "Every Trade Tied to the Cashier. No Edits. No Exceptions."
-Per-cashier transaction accountability. Every trade logged with staff ID, timestamp, device. Shift reconciliation per individual. Discrepancy flagging. When cash is short, the system shows exactly where.
+**The problem:** Cash is short. Who's responsible? Which cashier handled which trade? Without per-individual tracking, you suspect everyone and can prove nothing.
+
+**Giant promise:** "Every trade logged with the cashier's name, timestamp, and device. Immutable. No edits. When numbers don't add up, you know exactly who."
+
+**What's inside:** Per-cashier trade logging, shift-level reconciliation, discrepancy attribution, performance analytics, login tracking, exception reporting (voids, corrections), manager override audit, historical patterns per cashier.
+
+**Kicker:** "Right now, a cash shortage is a shared mystery. CashierLock turns it into an individual question — and that alone changes behaviour."
+
+**Guarantee:** "Full cashier accountability from day one."
 
 ### 5. BranchSync — "All Branches. All Trades. All Rates. One Screen."
-Multi-branch operations dashboard. Cash positions, volumes, staff activity, rates — across every location simultaneously. Know which branch is busy, which is idle, which has a discrepancy — without calling anyone.
+**The problem:** You call each branch for updates. You rely on numbers you can't verify. One branch might have a discrepancy you won't discover until month-end.
+
+**Giant promise:** "Every branch — cash positions, volumes, rates, staff activity — on one screen. Real-time. From your phone."
+
+**What's inside:** Multi-branch dashboard, per-branch performance, cash position per branch, cross-branch comparison, alerts, daily summary reports, branch-level drill-down.
+
+**Kicker:** "You're relying on branch managers telling you things are fine. BranchSync shows you verified data — and flags problems before they become expensive."
+
+**Guarantee:** "Full multi-branch visibility from day one."
 
 ### 6. TraderRank — "Know Your Top 20 Traders Before You Lose One"
-Customer analytics and retention platform. Rank customers by volume, frequency, value. VIP alerts. Churn detection — "This top trader hasn't come in 2 weeks." If your top 20 traders generate 80% of volume, can you afford to not know who they are?
+**The problem:** All customers treated the same. But your top 20 probably generate 80% of volume. If one leaves, you might not notice for weeks. You can't retain what you can't identify.
+
+**Giant promise:** "Customers ranked by volume, frequency, value. VIP alerts. Churn detection. When a top trader goes quiet, you know immediately."
+
+**What's inside:** Customer ranking dashboard, lifetime value calculation, visit frequency tracking, VIP tagging, churn alerts ("Top trader inactive 2 weeks"), spending trends, segmentation.
+
+**Kicker:** "Losing one VIP who trades $50K/week costs you more than gaining 20 walk-ins. Do you know who your VIPs are?"
+
+**Guarantee:** "Customer intelligence from the first week of data."
 
 ### 7. ReceiptNow — "Digital Receipts. Instant. Professional. Dispute-Proof."
-Digital receipt generation per trade. Delivered by WhatsApp and email. Company branded, timestamped, archived. A paper receipt can be lost or forged. A digital receipt is your legal protection.
+**The problem:** Paper receipts can be lost, altered, or forged. When a customer disputes a trade, your paper receipt vs. their word. No timestamps. No digital proof.
+
+**Giant promise:** "Every trade = instant digital receipt. Delivered by WhatsApp. Timestamped, branded, archived. Your legal protection."
+
+**What's inside:** Auto-generated receipts per trade, WhatsApp + email delivery, company branding, timestamp and trade details, receipt archive (searchable), reprint/resend in one click.
+
+**Kicker:** "One forged receipt dispute can cost millions. ReceiptNow makes every receipt timestamped, digital, and dispute-proof."
+
+**Guarantee:** "Every trade, every receipt — instant and automatic."
 
 ### 8. AuditWall — "Full Compliance. Full Audit Trail. CBN-Ready."
-Compliance and audit trail management. CBN regulatory requirements, transaction reporting, KYC documentation, suspicious activity flagging. Every trade, every rate change, every user action — logged permanently and immutably.
+**The problem:** CBN requirements are tightening. Transaction reporting, KYC documentation, suspicious activity flagging. Most BDCs track none of this systematically.
+
+**Giant promise:** "Every trade, every rate change, every user action — logged permanently. KYC documented. Suspicious activity flagged. CBN-ready at all times."
+
+**What's inside:** Immutable transaction log, KYC documentation per customer, suspicious activity flagging and reporting, regulatory report generation, rate change audit trail, user action logging, compliance dashboard, export for regulators.
+
+**Kicker:** "CBN compliance isn't optional. The question is whether you document it now on your terms, or scramble later on theirs."
+
+**Guarantee:** "Audit-ready compliance from the first month."
 
 ### 9. TreasuryView — "Know Your Cash Position Across All Currencies in Real Time"
-Cash position and treasury management. Real-time balances across USD, GBP, EUR, NGN. Optimal rebalancing suggestions. Liquidity forecasting. Know when you're overexposed in one currency before the market moves.
+**The problem:** You hold multiple currencies — USD, GBP, EUR, NGN. You don't know your exact position across all of them until you manually count and calculate. If you're overexposed in one currency when the market moves, the loss is immediate.
+
+**Giant promise:** "Real-time cash position across all currencies. Rebalancing suggestions. Liquidity forecasting. Know your exposure before the market moves."
+
+**What's inside:** Multi-currency position dashboard, real-time balance tracking, rebalancing alerts, liquidity forecasting, historical position trends, exposure analysis, currency-level P&L.
+
+**Kicker:** "If you're holding $100K in USD when the naira strengthens 5%, that's NGN 5M in unrealised loss you didn't see coming. TreasuryView shows you."
+
+**Guarantee:** "Real-time treasury visibility from the first week."
 
 ### 10. ExchangeOS — "Your Entire BDC on One System"
-Complete BDC operations suite. Trades, customers, settlements, cashiers, branches, compliance, analytics, treasury — all connected. Every module feeds every other. One login. Full picture.
+**The problem:** Trades in one place, rates on a whiteboard, receipts on paper, settlements in Excel. Nothing connects. Your trade data doesn't talk to your treasury. Your cashier data doesn't connect to settlements.
+
+**Giant promise:** "SwiftSettle + RateFlash + TraderPortal + CashierLock + BranchSync + TraderRank + ReceiptNow + AuditWall + TreasuryView — all connected. One system."
+
+**What's inside:** Everything from products 1-9 integrated. Every module feeds every other. One login. Full picture.
+
+**Kicker:** "One wrong figure can cost millions. One unresolved dispute costs trust. One compliance gap costs your licence. ExchangeOS makes every figure traceable, every trade accountable, and every naira visible."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
@@ -407,34 +861,118 @@ Complete BDC operations suite. Trades, customers, settlements, cashiers, branche
 *Mechanics, Service Centres, Dealerships, Auto Workshops*
 
 ### 1. AutoCare — "The Tool That Makes Your Customers Come Back"
-Automated service reminder system. Every vehicle tracked with its next service date. WhatsApp reminders at 7 days and 3 days before due. Lapsed customer recovery for those overdue. 10 returned customers/month at NGN 15K = NGN 1.8M/year recovered.
+**The problem:** You service 100 cars a month. Only 40-50 come back for the next service. The other 50-60 forget. They didn't leave because they were unhappy — because nobody reminded them.
+
+**Giant promise:** "WhatsApp reminders 7 days and 3 days before every service is due. Lapsed customer recovery for those overdue. Your customers never forget you again."
+
+**What's inside:** Vehicle registry (model, owner, service history, next due date), automated reminders (7-day + 3-day via WhatsApp + SMS), lapsed customer detection and re-engagement, customer database, analytics (return rate, top customers), referral program.
+
+**Story:** "A mechanic in Lagos deployed AutoCare. Within 3 months, repeat rate went from 40% to 65%. That's 25 extra returning customers/month at NGN 15K average = NGN 375K/month in recovered revenue."
+
+**Kicker:** "10 returned customers/month × NGN 15K = NGN 150K/month. NGN 1.8M/year. From customers you already served."
+
+**Guarantee:** "If repeat rate doesn't improve within 90 days, we reconfigure at no charge."
 
 ### 2. FaultFinder AI — "Diagnose the Problem in Minutes, Not Hours"
-An AI-powered diagnostic assistant. Mechanic inputs symptoms (noise location, when it occurs, driving conditions). The AI cross-references against thousands of known fault patterns and suggests the most likely causes ranked by probability. Cuts diagnostic time by 60%. Catches issues junior mechanics would miss.
+**The problem:** A car comes in with a noise. Your junior mechanic spends 2 hours guessing. Your senior mechanic could diagnose it in 10 minutes — but he's on another job. Misdiagnosis wastes parts, time, and customer trust.
+
+**Giant promise:** "Mechanic inputs symptoms. AI suggests the most likely causes ranked by probability. Cuts diagnostic time by 60%. Catches issues junior mechanics would miss."
+
+**What's inside:** AI diagnostic engine (symptom input → fault probability ranking), knowledge base of thousands of fault patterns by make/model, suggested repair actions, parts needed per diagnosis, diagnostic history per vehicle, learning system (improves with use), integration with CarFile for vehicle history context.
+
+**Story:** "A workshop's junior mechanic spent 3 hours diagnosing an intermittent engine stall on a Toyota. FaultFinder AI identified it in 4 minutes: a known issue with the crankshaft position sensor on that model year. The part was NGN 8,000. The 3 hours of labour the old way would have cost the customer NGN 15,000 on top of the part."
+
+**Kicker:** "A misdiagnosis costs you the wrong part (wasted), the labour to install it (wasted), and the customer's trust (gone). FaultFinder AI reduces misdiagnosis by 60% — saving parts, time, and relationships."
+
+**Guarantee:** "AI diagnostic database covers 90%+ of common Nigerian vehicle makes and models."
 
 ### 3. CarFile — "Complete Service History Per Vehicle — Forever"
-Digital vehicle service log. Every service, every part replaced, every cost, every date — searchable by plate number or owner. When a customer returns, you know their car better than they do. When they sell the car, the history transfers value.
+**The problem:** Customer returns after 6 months. "What did you do to my car last time?" You have no idea. No record. No history. You ask them to remind you. They feel forgotten.
+
+**Giant promise:** "Every vehicle has a digital file — every service, every part, every cost, every date. Searchable forever. When they come back, you know their car better than they do."
+
+**What's inside:** Vehicle profiles (make, model, year, plate, owner), service log per vehicle, parts used per service, cost tracking, searchable by plate/owner, PDF export, service interval calculation, pre-visit summary ("Last time: oil change, brake pads, AC regas").
+
+**Kicker:** "A customer whose history you remember feels valued. A customer you ask 'have you been here before?' feels forgotten. Which one comes back?"
+
+**Guarantee:** "Complete digital history from the first service logged."
 
 ### 4. BookMyService — "Customers Book Their Own Appointment From WhatsApp"
-Online service booking. Customer clicks a link, picks the service type, selects date and time, books. Confirmation by SMS. Calendar integration for your workshop. No missed calls. No phone tag. Bookings happen at 10pm Sunday when the customer remembers.
+**The problem:** Customer wants to book. They call. Nobody answers (you're under a car). They try again. Still no answer. They go to the workshop that picked up.
+
+**Giant promise:** "A booking link customers access from WhatsApp. Pick service type, date, time. Confirmed instantly. Works at 10pm Sunday when they remember."
+
+**What's inside:** Online booking page, service type selection, date/time picker, SMS/WhatsApp confirmation, calendar integration for workshop, booking management dashboard, rescheduling, capacity management.
+
+**Kicker:** "Every missed call is a missed booking. BookMyService works 24/7 — including when you're elbow-deep in an engine."
+
+**Guarantee:** "Online booking available within 2 weeks."
 
 ### 5. PartsVault — "Never Lose a Job Because You're Out of Brake Pads"
-Parts inventory and procurement system. Track every part in stock, usage per service, restock alerts before you run out, supplier management, cost tracking. A customer who comes in for brakes and you don't have pads = lost job AND lost customer.
+**The problem:** Customer needs brake pads. You're out. They drive to the next workshop. You lost the job AND the customer — because of a NGN 3,000 part you didn't restock.
+
+**Giant promise:** "Track every part. Usage per service. Restock alerts before you run out. Supplier management. Never lose a job to an out-of-stock."
+
+**What's inside:** Parts inventory tracking, usage per service job, restock alerts (configurable thresholds), supplier registry, cost per part, dead stock identification, purchase order management, monthly procurement reports.
+
+**Kicker:** "One lost job at NGN 25,000 because of a NGN 3,000 part you didn't restock. PartsVault costs less than one lost job."
+
+**Guarantee:** "Zero stockouts on monitored parts within 60 days."
 
 ### 6. WrenchRank — "Know Which Mechanic Is Your MVP and Which Needs Training"
-Mechanic performance and job tracking. Jobs per mechanic, turnaround time, quality scores (comeback rate), revenue per mechanic. Performance visibility without confrontation. Reward your best. Coach the rest.
+**The problem:** You're paying all mechanics the same. But are they performing the same? One might handle 8 jobs/day, another 4. One's comeback rate is 2%, another's is 15%. Without data, you're managing blind.
+
+**Giant promise:** "Per-mechanic performance data. Jobs completed, turnaround time, quality scores, revenue generated. Reward your best. Train the rest."
+
+**What's inside:** Per-mechanic job tracking, turnaround time, comeback/return rate, revenue per mechanic, customer satisfaction correlation, shift reports, workload distribution, performance rankings.
+
+**Kicker:** "Your best mechanic generates 3x the revenue of your worst — and you're paying them the same. WrenchRank shows you who's who."
+
+**Guarantee:** "Performance data from the first week of tracking."
 
 ### 7. FleetCare — "Manage 50 Company Vehicles Without a Spreadsheet"
-Fleet maintenance management for workshops servicing corporate fleets. Per-vehicle maintenance schedules, compliance tracking, service history, automated alerts when a vehicle is overdue, monthly fleet reports for the corporate client. The fleet contract that keeps paying monthly.
+**The problem:** A corporate client has 50 vehicles serviced at your workshop. Each has a maintenance schedule. You track it on paper (or not at all). Vehicles miss services. The corporate client asks for a monthly report — you scramble.
+
+**Giant promise:** "Per-vehicle maintenance schedules. Automated alerts when a vehicle is overdue. Monthly fleet reports auto-generated. The fleet contract that renews itself."
+
+**What's inside:** Fleet account management, per-vehicle profiles and schedules, automated overdue alerts, service compliance tracking, monthly fleet reports (auto-generated), fleet customer portal, cost tracking per vehicle, warranty tracking.
+
+**Kicker:** "Fleet contracts are recurring revenue — the most valuable kind. FleetCare makes your fleet service so organised that the client never wants to switch."
+
+**Guarantee:** "Full fleet visibility from the first month."
 
 ### 8. GaragePulse — "All Your Workshops. All Your Jobs. One Dashboard."
-Multi-location workshop dashboard. Active jobs, completed work, revenue, staff activity, parts inventory — across all branches. When one branch is overloaded and another has capacity, you see it and act.
+**The problem:** You have 2-3 workshop locations. Each managed separately. You call each branch for updates. One might be overloaded while another has empty bays. You can't see the balance.
+
+**Giant promise:** "Active jobs, completed work, revenue, staff, parts — across all branches on one screen. Balance workload. Spot problems early."
+
+**What's inside:** Multi-location dashboard, per-branch job tracking, revenue comparison, staff activity, parts inventory per location, workload balancing alerts, daily summaries.
+
+**Kicker:** "An empty bay at Branch B while Branch A turns customers away is money lost at both. GaragePulse shows you the imbalance in real time."
+
+**Guarantee:** "Full multi-location visibility from day one."
 
 ### 9. AutoPromo — "Fill Slow Tuesdays With Targeted Offers"
-Promotional campaign manager for auto workshops. "20% off AC service this month." "Free tyre rotation with major service — weekdays only." Send to your customer database via SMS. Track redemption. Fill empty service bays.
+**The problem:** Saturdays are packed. Tuesdays are empty. You're paying rent, staff, and utilities for empty bays on slow days. No mechanism to drive traffic to specific days.
+
+**Giant promise:** "Targeted promotions to your customer database. '20% off AC service — weekdays only.' Track redemption. Fill empty bays."
+
+**What's inside:** Promotion creation tool, SMS/WhatsApp deployment to customer database, redemption tracking, ROI measurement, seasonal campaign templates, day-of-week targeting.
+
+**Kicker:** "An empty bay on Tuesday is revenue that never comes back. A targeted SMS costs almost nothing to send but fills that bay."
+
+**Guarantee:** "Measurable promotion ROI from your first campaign."
 
 ### 10. WorkshopOS — "Your Entire Workshop — Digital, Connected, Accountable"
-Complete workshop management suite. Reminders, booking, vehicle history, parts inventory, mechanic tracking, fleet management, multi-location dashboard, promotions, and analytics — one system. Transform a walk-in workshop into a customer retention machine.
+**The problem:** Reminders in your head. Bookings on the phone. History on paper. Parts in a pile. Mechanics untracked. Fleet reports manual. Nothing connects.
+
+**Giant promise:** "AutoCare + FaultFinder AI + CarFile + BookMyService + PartsVault + WrenchRank + FleetCare + GaragePulse + AutoPromo — all connected. One system."
+
+**What's inside:** Everything from products 1-9 integrated. Customer reminders feed bookings. Bookings feed vehicle history. History informs diagnostics. Diagnostics inform parts usage. Everything connected.
+
+**Kicker:** "You're losing customers to forgetfulness, jobs to stockouts, and money to mechanics you can't measure. WorkshopOS fixes all three."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
@@ -442,68 +980,250 @@ Complete workshop management suite. Reminders, booking, vehicle history, parts i
 *Consulting, Legal, Accounting, Architecture, Engineering Firms*
 
 ### 1. BillSmart — "Every Hour Tracked. Every Invoice On Time."
-Automated time tracking and invoicing. One-click timers per project. Invoices generated automatically from tracked hours. Payment tracking. Automated reminders for overdue invoices. 10 staff under-reporting 2 hours/week = NGN 52M/year unbilled.
+**The problem:** Partners track time in their heads. Invoices go out 2-3 weeks late. Nobody knows total unbilled hours. Revenue slips through the cracks every month.
+
+**Giant promise:** "One-click time tracking. Invoices auto-generated from logged hours. Payment tracking. No revenue left unbilled."
+
+**What's inside:** One-click timer per project, manual entry option, per-project attribution, automatic invoice generation (from tracked hours), milestone and periodic billing, one-click send, payment tracking, overdue alerts.
+
+**Story:** "A consulting firm discovered that their 10 staff were collectively under-reporting 20 hours/week. At NGN 50K/hour, that's NGN 1M/week unbilled — NGN 52M/year. BillSmart captured every hour. Invoiced revenue increased 35% in the first quarter."
+
+**Kicker:** "10 staff × 2 under-reported hours/week × NGN 50K/hour = NGN 52M/year in unbilled revenue. BillSmart pays for itself from the first week."
+
+**Guarantee:** "Every billable hour tracked. Every invoice on time."
 
 ### 2. ClientWindow — "Your Clients See Their Own Status — 24/7"
-Client self-service portal. Project timeline, current stage, uploaded deliverables, invoices, payment history. Clients check from their phone anytime. "What's the status?" calls drop by 60%+ in the first month.
+**The problem:** Clients call every week: "What's the status?" Partners drop what they're doing to answer. 20 calls/week × 10 minutes = 200 minutes of partner time answering questions a portal would handle.
 
-### 3. LoadBalancer — "Know Who's Drowning and Who's Idle — Before It's Too Late"
-Staff workload and utilisation dashboard. Active projects per person, hours logged vs. capacity, availability indicator. An overloaded associate produces bad work and quits. An idle one costs salary for nothing. Both are visible before they become problems.
+**Giant promise:** "Clients login and see project timeline, deliverables, invoices — from their phone. The calls stop. They feel taken care of."
+
+**What's inside:** Client portal (project status, current stage, deliverables, invoices, payment history), automatic status updates, mobile responsive, per-client login, document sharing.
+
+**Kicker:** "200 minutes/week of partner time on status calls. At NGN 50K/hour billing rate, that's NGN 166K/week in partner time spent on admin — not billing."
+
+**Guarantee:** "Status inquiry calls drop by at least 60% within 30 days."
+
+### 3. LoadBalancer — "Know Who's Drowning and Who's Idle"
+**The problem:** One associate has 8 projects. Another has 2. You don't know until the overloaded one misses a deadline or the idle one asks for more work. Workload is invisible.
+
+**Giant promise:** "Every team member's active projects, hours logged, and remaining capacity — visible on one dashboard. Assignments become rational, not random."
+
+**What's inside:** Staff workload dashboard, active projects per person, hours vs. capacity, availability indicator, project reassignment tools, utilisation reports, burnout alerts.
+
+**Kicker:** "An overloaded associate produces bad work and quits. An idle one costs salary for zero output. LoadBalancer makes both visible before they become problems."
+
+**Guarantee:** "Full team visibility from the first week."
 
 ### 4. DealForge — "From Blank Page to Signed Proposal in 30 Minutes"
-Proposal and contract generator. Template-based creation, dynamic fields (client name, scope, pricing), e-signature integration, contract management, renewal tracking. First impressions matter — a professional proposal in 30 minutes beats a sloppy one in 3 days.
+**The problem:** Every proposal starts from scratch. Different partner, different format, different quality. Some proposals take 3 days to produce. By then, the prospect has cooled off or gone to a competitor.
 
-### 5. FileCabinet — "Every Proposal. Every Contract. Every Deliverable. Searchable."
-Document and knowledge management. Per-client folders, version control, keyword search, secure storage, role-based access. When a client asks "can you resend the contract from January?" — 5 seconds, not 20 minutes.
+**Giant promise:** "Template-based proposals. Dynamic fields auto-fill. Professional output in 30 minutes. E-signature integration. First impressions at speed."
+
+**What's inside:** Proposal templates (by service type), dynamic fields (client name, scope, pricing, timeline), branding consistency, e-signature, contract management, renewal tracking, version history.
+
+**Kicker:** "A professional proposal in 30 minutes beats a sloppy one in 3 days. The first firm to propose usually wins."
+
+**Guarantee:** "Your first template-generated proposal within 1 week of setup."
+
+### 5. FileCabinet — "Every Document. Every Client. Searchable in 5 Seconds."
+**The problem:** Documents scattered across email, Google Drive, desktops, WhatsApp. When a client asks for the contract from January, you spend 20 minutes hunting. During a dispute, you can't find the signed agreement.
+
+**Giant promise:** "Per-client digital folders. Version control. Keyword search. Find any document in 5 seconds."
+
+**What's inside:** Document storage per client, categorisation, keyword search, version tracking, role-based access, secure cloud backup, upload from any device, shareable links, audit trail.
+
+**Kicker:** "One lost document during a dispute can cost you the case. FileCabinet costs less than one hour of a lawyer's time."
+
+**Guarantee:** "All existing documents migrated and searchable within the first month."
 
 ### 6. ProfitLens — "Know Which Clients Make Money and Which Drain It"
-Firm financial analytics. Revenue per client, cost per project (staff time + expenses), net profit per engagement. Your biggest client might be your least profitable — because they consume the most partner time.
+**The problem:** You know total revenue. But which clients are profitable? Your biggest client might consume the most partner time and actually lose money. Without per-client profitability data, you can't make pricing or resource decisions.
 
-### 7. PayChaser — "Overdue Invoices Get Chased Automatically — No Awkward Calls"
-Automated payment collection. Overdue detection, polite email reminders at 7/14/30 days, payment links, escalation alerts. How much is sitting in overdue invoices right now? Even collecting 20% faster improves cash flow by millions.
+**Giant promise:** "Revenue per client. Cost per project. Net profit per engagement. See who makes money and who drains it."
 
-### 8. WelcomeDesk — "Onboard New Clients in 5 Minutes, Not 5 Days"
-Standardised client onboarding. Digital intake form, automatic profile creation, welcome email with portal login, engagement template, document request checklist. A client who receives professional onboarding in 5 minutes feels like they hired a premium firm.
+**What's inside:** Revenue per client, cost per project (staff time + expenses), profitability analysis, staff cost allocation, margin ranking, trend analysis, export for partner meetings.
 
-### 9. InsightReport — "Monthly Firm Report in One Click — Not One Week"
-Automated reporting. Revenue, utilisation, profitability, outstanding invoices, client activity — all auto-generated. Click "Generate April Report." Done. Stop pulling data from 5 different spreadsheets.
+**Kicker:** "Your 3 biggest clients generate 60% of revenue. But if they consume 80% of partner time, are they really your best clients?"
 
-### 10. FirmOS — "Your Entire Practice — Clients, Projects, Billing, Documents — One System"
-Complete firm management platform. CRM, project tracking, time tracking, invoicing, client portal, document management, analytics, payment collection, onboarding, and reporting. The operating system for a modern professional services firm.
+**Guarantee:** "Per-client profitability data within 30 days."
+
+### 7. PayChaser — "Overdue Invoices Get Chased Automatically"
+**The problem:** Invoices go overdue. Nobody sends a reminder because it feels awkward. Weeks pass. Cash flow suffers. The client didn't refuse to pay — they just forgot, and nobody followed up.
+
+**Giant promise:** "Overdue invoices get polite, professional reminders automatically — 7, 14, 30 days. Payment link in every reminder. No awkward calls."
+
+**What's inside:** Overdue detection, automated email reminders (configurable), payment links, escalation alerts for severely overdue, payment status dashboard, cash flow impact reporting.
+
+**Kicker:** "How much is sitting in overdue invoices right now? If it's NGN 10M, even collecting 20% faster improves cash flow by NGN 2M."
+
+**Guarantee:** "No overdue invoice goes more than 7 days without follow-up."
+
+### 8. WelcomeDesk — "Onboard New Clients in 5 Minutes"
+**The problem:** New client signs. Then silence for 3 days while someone manually creates their profile, sends a welcome email, and sets up their project. First impression: disorganised.
+
+**Giant promise:** "Digital intake form → automatic profile → welcome email with portal login → project created. 5 minutes. Premium first impression."
+
+**What's inside:** Digital onboarding form, automatic client profile creation, welcome email, portal access setup, engagement template, document request checklist, onboarding timeline tracking.
+
+**Kicker:** "A client who gets professional onboarding in 5 minutes feels premium. A client who waits 3 days feels like an afterthought. First impressions set the relationship."
+
+**Guarantee:** "Every new client onboarded within 24 hours."
+
+### 9. InsightReport — "Monthly Firm Report in One Click"
+**The problem:** Monthly reports take a week. Pull data from 5 spreadsheets, compile, format, send to partners. By the time it's ready, the data is stale.
+
+**Giant promise:** "Revenue, utilisation, profitability, outstanding invoices — all auto-generated. One click. Done."
+
+**What's inside:** One-click report generation, monthly/quarterly templates, revenue summary, utilisation rates, profitability per client, outstanding invoices, trend comparison, PDF export, email distribution to partners.
+
+**Kicker:** "How many hours does your team spend every month compiling reports? Those hours are billable. Let the system compile."
+
+**Guarantee:** "Any firm-wide report generated in under 60 seconds."
+
+### 10. FirmOS — "Your Entire Practice on One System"
+**The problem:** Time tracked in heads. Invoices in Excel. Clients in WhatsApp. Documents in email. Reports compiled manually. Nothing connects.
+
+**Giant promise:** "BillSmart + ClientWindow + LoadBalancer + DealForge + FileCabinet + ProfitLens + PayChaser + WelcomeDesk + InsightReport — all connected. One system."
+
+**What's inside:** Everything from products 1-9 integrated. Time feeds invoicing. Invoicing feeds payment tracking. Client portal shows everything. Reports generate automatically. One login.
+
+**Kicker:** "Every admin hour is a billable hour lost. FirmOS eliminates the admin so your team can bill."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
 # INDUSTRY 9: CONSTRUCTION & PROPERTY DEVELOPMENT
 
 ### 1. SitePulse — "See Every Project From Your Phone — Timeline, Budget, Progress"
-Project management and timeline tracker. Visual milestones, deadline tracking, task assignments, delay detection, progress reporting. Know the real status of every project without visiting the site. One dashboard. All projects.
+**The problem:** You don't know the real status until you visit the site. Project managers give optimistic updates. Delays are discovered weeks late. Budgets overrun because nobody tracks actual vs. estimated in real time.
+
+**Giant promise:** "Visual milestones, deadline tracking, delay detection, progress photos — from your phone. Know the truth about every project without driving to the site."
+
+**What's inside:** Project timeline with visual milestones, task assignments, deadline tracking, delay detection and alerts, progress reporting (% complete), photo updates from site, multi-project view, historical timeline (planned vs. actual), export for client reports.
+
+**Story:** "A developer managing 3 active projects was visiting each site twice a week — burning 12 hours on the road. After SitePulse, site supervisors upload daily photos and milestone updates. He visits once every 2 weeks instead. He caught a 3-week delay forming at one site from his dashboard — before the project manager mentioned it."
+
+**Kicker:** "A delay you catch at 1 week costs X to fix. A delay you discover at 4 weeks costs 10X. SitePulse catches delays when they're still fixable."
+
+**Guarantee:** "Full project visibility within 2 weeks of setup."
 
 ### 2. ContractorFile — "Track Every Contractor's Work, Performance, and Payment"
-Contractor and subcontractor management. Work order creation, completion tracking, performance ratings, payment scheduling, compliance verification. Know who delivers and who delays — with data, not gossip.
+**The problem:** You hire 10-20 subcontractors per project. Some deliver. Some delay. Some submit invoices for work you can't verify. When a project runs late, everyone blames someone else.
+
+**Giant promise:** "Every contractor tracked — work orders, completion status, performance ratings, payment schedule. Know who delivers and who delays — with data."
+
+**What's inside:** Contractor registry, work order creation and assignment, completion tracking and verification, performance ratings (quality, speed, reliability), payment scheduling, payment tracking, compliance verification (insurance, certifications), contractor comparison across projects.
+
+**Story:** "A construction company discovered that one subcontractor was responsible for delays on 3 separate projects — always the same excuse. ContractorFile made the pattern visible. They replaced the contractor. All 3 projects got back on schedule."
+
+**Kicker:** "A delayed contractor doesn't just cost their fee — they delay everything behind them. ContractorFile shows you who to trust and who to replace."
+
+**Guarantee:** "Full contractor visibility from the first project."
 
 ### 3. BuildBuy — "Every Material Ordered. Every Delivery Verified. Every Naira Tracked."
-Procurement and materials tracking. Purchase orders, delivery verification (ordered vs. received), waste monitoring, supplier management, cost per project. When 10% of materials "disappear" between order and delivery, the system catches it.
+**The problem:** Materials are ordered by phone. Deliveries arrive and nobody verifies the quantity matches the order. 10% of materials "disappear" between purchase and site. At month-end, procurement spend is a guess.
+
+**Giant promise:** "Every order tracked. Every delivery verified. Every variance flagged. Know exactly what was ordered, what arrived, and what it cost."
+
+**What's inside:** Purchase order creation, delivery confirmation (ordered vs. received), variance alerts, waste monitoring, supplier management, cost per project, cost per category, reorder alerts, procurement history, budget vs. actual.
+
+**Story:** "A contractor discovered through BuildBuy that 15% of cement deliveries were consistently short — the supplier was delivering 85 bags when 100 were ordered and invoiced. Over 6 months, that was NGN 4.5M in overpayment for undelivered materials. One conversation with the supplier (backed by delivery verification data) resolved it immediately."
+
+**Kicker:** "If 10% of materials disappear between order and site on a NGN 50M materials budget, that's NGN 5M gone. BuildBuy makes every bag, every rod, every sheet traceable."
+
+**Guarantee:** "Full procurement tracking from the first purchase order."
 
 ### 4. CostGuard — "Catch Budget Overruns Before They Spiral"
-Budget and cost control dashboard. Estimated vs. actual costs in real time. Overrun alerts. Change order management. Cash flow projections. A 5% overrun on a NGN 200M project is NGN 10M — by the time you find it in Excel, it's too late.
+**The problem:** Budgets are in Excel. Updates happen monthly. By the time you see the overrun, it's already NGN 10M. Change orders aren't tracked systematically. Cash flow surprises are constant.
+
+**Giant promise:** "Estimated vs. actual costs in real time. Overrun alerts the moment they start forming. Change order management. Cash flow projections."
+
+**What's inside:** Budget setup per project, real-time cost tracking (actuals feeding in from procurement and contractor payments), overrun alerts (configurable thresholds), change order logging and cost impact, cash flow projections, cost breakdown by category, variance analysis, multi-project budget comparison, export for finance.
+
+**Story:** "A developer caught a 3% budget overrun at NGN 6M on a NGN 200M project through CostGuard — while it was still at 3%. In Excel, it wouldn't have been visible until it hit 8-10%. Early intervention saved an estimated NGN 8-12M in additional overrun."
+
+**Kicker:** "A 5% overrun on NGN 200M = NGN 10M. By the time you see it in Excel, it's too late. CostGuard flags it while there's still time to fix it."
+
+**Guarantee:** "Real-time budget tracking from the first recorded cost."
 
 ### 5. InspectPro — "Digital Site Inspections With Photos, Checklists, and Defect Tracking"
-Quality assurance and site inspection tool. Digital checklists per stage, photo documentation with timestamps, defect logging, corrective action assignment, resolution tracking. Every inspection documented. Every defect traceable.
+**The problem:** Inspections happen on paper — if they happen at all. Defects are noted verbally, forgotten, and rediscovered during handover. No photo evidence. No timestamps. When a client complains about a defect, you can't prove when it was identified or who was responsible for fixing it.
 
-### 6. FacilityManager — "Post-Construction Operations — Cleaning, Maintenance, Costs, Tenants"
-Facility management system for completed properties. Cleaning workflows triggered by tenant activity, maintenance request tracking, service charge administration, utility management, cost analytics per unit, staff scheduling. The Court 474 model — built for multi-owner and multi-tenant properties.
+**Giant promise:** "Digital checklists per construction stage. Photo documentation with timestamps. Every defect logged, assigned, and tracked to resolution."
+
+**What's inside:** Stage-specific inspection checklists, photo capture with automatic timestamps and GPS, defect logging (categorised by severity), corrective action assignment, resolution tracking, inspection history per project, defect trend analysis, snag list generation for handover, export for client reports.
+
+**Story:** "During handover, a buyer flagged 12 defects. The developer pulled up InspectPro and showed that 10 of them had been identified during construction, assigned for repair, and resolved — with timestamped photos of the before/after. The buyer was impressed. The 2 new ones were fixed within 3 days."
+
+**Kicker:** "Defects found during construction cost 10x less to fix than defects found at handover. InspectPro catches them early."
+
+**Guarantee:** "Digital inspections running from your first site visit."
+
+### 6. FacilityManager — "Post-Construction Operations — Cleaning, Maintenance, Service Charges"
+**The problem:** The building is complete. Now it needs to be operated — cleaning, maintenance, utility tracking, service charges from multiple unit owners, staff scheduling. This is a completely different challenge from construction, and most developers have zero infrastructure for it.
+
+**Giant promise:** "Automated cleaning workflows, maintenance tracking, service charge administration, utility management, cost analytics per unit, staff scheduling. The operating system for managing completed properties."
+
+**What's inside:** Cleaning workflow (triggered by tenant activity or schedule), maintenance request and resolution tracking, service charge billing and payment tracking, utility cost tracking per unit, consumables inventory, staff scheduling based on occupancy, cost analytics per unit (cleaning + maintenance + utilities), facility dashboard, owner/tenant communication.
+
+**Story:** "Court 474 — a 29-apartment multi-owner short-let property — needed to manage cleaning for 29 apartments turning over on different schedules, track maintenance across all units, bill service charges to individual owners, and report costs per apartment. FacilityManager handles all of it — triggered automatically when a guest checks out via Spacer."
+
+**Kicker:** "Running 29 apartments on WhatsApp and phone calls requires 2-3 full-time coordinators. FacilityManager replaces the coordination — your staff execute, the system assigns and tracks."
+
+**Guarantee:** "Facility operations structured within 30 days."
 
 ### 7. SafeSite — "Safety Compliance That's Documented, Not Just Promised"
-Health and safety compliance tracker. Incident logging, PPE tracking, safety training records, hazard identification, near-miss reporting, compliance documentation. When there's an incident and someone asks "was the worker trained?" — you have the timestamped record.
+**The problem:** A worker gets injured. Someone asks: "Was he trained? Was he wearing PPE? Was there a risk assessment for that task?" You say yes. But where's the proof? Without documented safety records, you're exposed — legally, financially, and reputationally.
+
+**Giant promise:** "Every safety incident logged. Every PPE issuance tracked. Every training recorded. Every hazard identified. Documented, timestamped, audit-proof."
+
+**What's inside:** Safety incident logging (with photos), PPE issuance and tracking, safety training records per worker, hazard identification and assessment, near-miss reporting, compliance documentation, safety score per project/site, regulatory report generation, corrective action tracking.
+
+**Story:** "A construction company faced a liability claim after a worker injury. Their paper safety records were incomplete and disorganised. With SafeSite, every training session is logged with attendee signatures, every PPE issuance is recorded, and every hazard assessment is timestamped. The documentation that would have taken weeks to compile is generated in one click."
+
+**Kicker:** "One safety liability claim with inadequate documentation can cost tens of millions in legal fees and compensation. SafeSite costs a fraction of one claim."
+
+**Guarantee:** "Full safety documentation from the first week."
 
 ### 8. BuyerView — "Your Buyers See Construction Progress Without Visiting the Site"
-Client/buyer communication portal for developers selling off-plan. Construction progress photos, milestone updates, payment schedule tracking, handover timeline, document access. Buyers feel connected to their investment. Sales close faster when buyers can see progress.
+**The problem:** You're selling off-plan. Buyers paid deposits months ago. They call every week: "How far?" You send a WhatsApp photo occasionally. Some buyers get anxious. Some demand refunds. Trust erodes because there's no systematic transparency.
+
+**Giant promise:** "Buyers login to a portal showing construction photos, milestone progress, payment schedule, and handover timeline. They see progress in real time. Trust stays high. Calls stop."
+
+**What's inside:** Buyer portal (individual logins), construction progress with photos and dates, milestone tracking (foundation → structure → finishing → handover), payment milestone tracking, handover timeline, document access (sale agreements, receipts), notification when new updates are posted.
+
+**Story:** "A developer selling 40 apartments off-plan was getting 15+ 'how far?' calls per week. After BuyerView, buyers check progress themselves. Calls dropped to 2-3/week. One buyer told friends: 'My developer is the only one who shows me real progress updates.' Three referral sales followed."
+
+**Kicker:** "Every 'how far?' call costs you 10 minutes and tests the buyer's patience. BuyerView answers the question before they ask. And happy buyers refer friends."
+
+**Guarantee:** "Buyer portal live within 2 weeks."
 
 ### 9. AssetTrack — "Know Where Every Piece of Equipment Is and When It Needs Service"
-Equipment and asset management. Track heavy equipment and tools — location, maintenance schedule, utilisation rate, depreciation, rental tracking. An idle crane costs money. A broken generator stops the site. Both are preventable.
+**The problem:** Equipment is scattered across sites. A crane sits idle at Site A while Site B rents one. A generator breaks because nobody tracked its maintenance schedule. Tools disappear between projects. You're paying for equipment you can't account for.
 
-### 10. BuildOS — "Your Entire Construction Operation — Projects, Contractors, Budget, Safety — One System"
-Complete construction operations platform. Project management, contractor tracking, procurement, budget control, site inspections, facility management, safety compliance, buyer portal, equipment tracking — all integrated. One login. Every project. Every naira. Every contractor.
+**Giant promise:** "Every piece of equipment tracked — location, maintenance schedule, utilisation, condition. Know what's where, what's idle, and what's about to break."
+
+**What's inside:** Equipment registry (all assets), location tracking per site, maintenance schedules with alerts, utilisation tracking (active vs. idle), condition monitoring, depreciation tracking, rental cost tracking, tool checkout/return management, equipment cost per project.
+
+**Story:** "A construction company tracked 150+ pieces of equipment across 5 active sites. Before AssetTrack, they rented a generator for Site C — not realising Site A had two idle ones. NGN 450K/month in unnecessary rental. AssetTrack revealed 30% equipment underutilisation across all sites."
+
+**Kicker:** "An idle crane at NGN 2M/month rental on one site while you rent another for a different site = NGN 2M wasted. AssetTrack makes every asset visible."
+
+**Guarantee:** "Full equipment visibility within the first month."
+
+### 10. BuildOS — "Your Entire Construction Operation on One System"
+**The problem:** Projects in Excel. Contractors in WhatsApp. Budgets in your head. Procurement on phone calls. Inspections on paper. Nothing connects. Your project data doesn't talk to your financial data. Your contractor performance doesn't inform future hiring.
+
+**Giant promise:** "SitePulse + ContractorFile + BuildBuy + CostGuard + InspectPro + FacilityManager + SafeSite + BuyerView + AssetTrack — all connected. Every project. Every contractor. Every naira."
+
+**What's inside:** Everything from products 1-9 integrated. Procurement feeds budget tracking. Contractor payments update cost projections. Site inspections connect to defect resolution. Equipment location connects to project needs. One login. Full picture.
+
+**Story:** "Before BuildOS, the MD had 5 different spreadsheets and called 8 people every morning for updates. After deployment, he opens one dashboard. Every project, every contractor, every budget, every inspection, every piece of equipment — visible. He told us: 'I make better decisions now because I see everything.'"
+
+**Kicker:** "You're running NGN 200M+ in active projects. The cost of poor visibility — overruns, delays, disputes, idle equipment — far exceeds the cost of this system. BuildOS is the difference between managing construction and guessing at it."
+
+**Guarantee:** "Phased deployment — first module live within 30 days, full platform within 90."
 
 ---
 
