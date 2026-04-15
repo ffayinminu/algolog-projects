@@ -4,7 +4,7 @@
 - **Company:** Dalema Supermarket
 - **Locations:** 45 Gana Street, Maitama, Abuja + Kaduna branch
 - **Industry:** Retail / Supermarket (boutique/premium segment)
-- **Source:** Yasmin Umar (Algolog contact for this lead)
+- **Source:** Yasmin Umar (sourced this lead)
 - **Status:** Called, not yet sent proposal
 
 ## About the Business

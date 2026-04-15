@@ -4,7 +4,7 @@
 - **Company:** Kanti Plus Supermarket
 - **Location:** Kaduna, Nigeria
 - **Industry:** Retail / Supermarket
-- **Source:** Yasmin Umar (Algolog contact for this lead)
+- **Source:** Yasmin Umar (sourced this lead)
 - **Status:** Owner interested — wants to speak with his management before proceeding
 
 ## About the Business
