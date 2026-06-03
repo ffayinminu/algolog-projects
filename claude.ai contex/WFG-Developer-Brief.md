@@ -133,6 +133,8 @@ The UI/UX has already been designed and approved as a high-fidelity Figma protot
 
 Format: *As a [role], I want [capability], so that [benefit].* These map to the in-scope features above — they describe behaviour, not new scope.
 
+**A. Front-End (User-Facing) Roles**
+
 ### 6.1 Visitor / Prospect (not logged in)
 - As a visitor, I want to browse the landing page, featured courses, and featured speakers, so that I can understand the platform before committing.
 - As a visitor, I want to sample free-tier (teaser) content without paying, so that I can judge the value first.
@@ -151,6 +153,8 @@ Format: *As a [role], I want [capability], so that [benefit].* These map to the 
 - As a learner, I want a certificate of completion for each learning journey, so that I have proof of completion.
 - As a learner, I want to manage my subscription (monthly/yearly) and receive automated receipts, so that I stay in control of billing.
 
+**B. Admin & Management Roles (back-office)**
+
 ### 6.3 Organization Admin
 - As an org admin, I want to subscribe on a seat-based plan, so that I can enrol my team.
 - As an org admin, I want to assign staff to seats and to cohorts, so that groups can learn together.
@@ -168,6 +172,8 @@ Format: *As a [role], I want [capability], so that [benefit].* These map to the 
 - As a moderator, I want to review AI-flagged forum submissions before they publish, so that only appropriate, helpful content goes live.
 - As a moderator, I want to approve, reject, and categorise dilemmas, so that the forum stays organised and safe.
 - As a moderator, I want submitter anonymity preserved at all times, so that users feel safe posting.
+
+**C. Automated (System) Behaviour**
 
 ### 6.6 System (automated behaviour)
 - As the system, I run AI first-line moderation on new forum posts and route them to a human for review/approval, so that moderation scales without losing oversight.
