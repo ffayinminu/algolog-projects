@@ -12,7 +12,9 @@
 A faith-and-ethics learning platform delivered as **two front-ends sharing one backend and one database**:
 
 - **Ethical Leadership Institute (ELI)** — the primary, corporate-facing brand (ethicalleadershipinstitute.org)
-- **WorkingForGod.org (WFG)** — the associated Christian-facing brand
+- **WorkingForGod.org (WFG)** — the associated Christian-facing brand (workingforgod.org)
+
+**Each brand is served on its own domain.** The domain a visitor arrives on decides which experience they get — opening the ELI link lands them in the ELI front-end, and opening the WorkingForGod.org link lands them in the WFG front-end. There is no manual "pick a brand" step; the entry domain selects it. Cross-links between the two domains then let users move from one to the other.
 
 Both brands draw from the **same content library, user base, and backend services**. Branding, theming, and content tagging differentiate what each front-end surfaces.
 
@@ -121,9 +123,10 @@ The UI/UX has already been designed and approved as a high-fidelity Figma protot
 ---
 
 ## 4. Network Integration & Cross-Linking
+- Each brand has its **own domain** (ethicalleadershipinstitute.org and workingforgod.org); the domain visited determines the front-end shown.
 - "AiMP initiative / join the network" calls-to-action woven through the content.
-- Cross-linking between ELI and WorkingForGod.org (funnel users in both directions).
-- SEO setup under the new domains.
+- Cross-linking between the two domains (ELI ↔ WorkingForGod.org) lets users move from one brand to the other and funnels users in both directions.
+- SEO setup under both domains.
 
 ---
 
@@ -152,11 +155,11 @@ Each capability below is written as a user story — *As a [role], I want [capab
 3. Dynamic counters surface platform activity (e.g., number of courses, learners).
 4. Two clear calls-to-action invite them to continue as an **individual** or as an **organization**.
 
-**6.1.2 Move between the ELI and WorkingForGod.org experiences**
-*As a visitor, I want to switch between the two brands, so that I land on the one that fits me.*
-1. The visitor can move between the corporate-facing ELI experience and the Christian-facing WFG experience.
+**6.1.2 Land on the right brand by its domain, and cross over when wanted**
+*As a visitor, I want the link I open to take me straight to the matching brand, so that I land on the one that fits me without choosing manually.*
+1. The visitor opens a link and lands directly in the brand tied to that domain — the ELI domain opens the corporate-facing ELI experience; the WorkingForGod.org domain opens the Christian-facing WFG experience.
 2. Each brand carries its own theming and surfaces its own set of content — ELI shows the neutral core; WFG shows both the core and the Christian deep-dive.
-3. Navigation between the two is presented so the visitor can self-select the right brand without losing their place.
+3. Cross-links within each brand let the visitor move over to the other domain when they want to, funnelling users in both directions.
 
 **6.1.3 Sample free-tier (teaser) content**
 *As a visitor, I want to try teaser content without paying, so that I can judge the value first.*
