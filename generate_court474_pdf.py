@@ -112,7 +112,7 @@ def build():
         [Paragraph("<b>Prepared for:</b>", TCB), Paragraph("<b>Prepared by:</b>", TCB)],
         [Paragraph("Court 474 Ltd", TC), Paragraph("Algolog Limited", TC)],
         [Paragraph("Danjuma", TC), Paragraph("Plot 1387 Aminu Kano Crescent,<br/>Wuse, Abuja", TC)],
-        [Paragraph("", TC), Paragraph("ffayinminu@algolog.co<br/>+234 705 301 6348", TC)],
+        [Paragraph("", TC), Paragraph("ffayinminu@algolog.co<br/>+234 813 857 1129", TC)],
         [Paragraph("", TC), Paragraph("Fayinminu Femi<br/>Senior Business Developer", TC)],
     ]
     t = Table(info, colWidths=[aw * 0.5, aw * 0.5])
@@ -413,7 +413,7 @@ def build():
 
     story.append(Spacer(1, 3 * mm))
     story.append(Paragraph("Whenever you\u2019re ready, reach out to:", H3))
-    story.append(Paragraph("\u2022  <b>Call/WhatsApp:</b> Fayinminu Femi \u2014 +234 705 301 6348", BUL))
+    story.append(Paragraph("\u2022  <b>Call/WhatsApp:</b> Fayinminu Femi \u2014 +234 813 857 1129", BUL))
     story.append(Paragraph("\u2022  <b>Email:</b> ffayinminu@algolog.co", BUL))
 
     story.append(Spacer(1, 10 * mm))

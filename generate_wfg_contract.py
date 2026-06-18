@@ -156,7 +156,7 @@ def build_pdf():
         [Paragraph("AiMP (Apostles In The Market Place)", S_TABLE_CELL), Paragraph("Algolog Limited", S_TABLE_CELL)],
         [Paragraph("Network", S_TABLE_CELL),
          Paragraph("Plot 1387 Aminu Kano Crescent,<br/>Wuse, Abuja", S_TABLE_CELL)],
-        [Paragraph("", S_TABLE_CELL), Paragraph("ffayinminu@algolog.co<br/>+234 705 301 6348", S_TABLE_CELL)],
+        [Paragraph("", S_TABLE_CELL), Paragraph("ffayinminu@algolog.co<br/>+234 813 857 1129", S_TABLE_CELL)],
         [Paragraph("", S_TABLE_CELL), Paragraph("Fayinminu Femi<br/>Senior Business Developer", S_TABLE_CELL)],
     ]
     info_table = Table(info_data, colWidths=[avail_w * 0.5, avail_w * 0.5])

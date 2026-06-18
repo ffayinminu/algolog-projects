@@ -287,6 +287,11 @@ def agreement():
             "Bookmarking and related courses feature",
             "Free-tier access for teaser content",
         ]),
+        ("Live Sessions (Occasional)", [
+            "Support for occasional live (real-time) sessions alongside the standard pre-recorded courses",
+            "An integrated live-session tool that handles scheduling, participant access, and live delivery",
+            "Enrolled learners and cohorts can join scheduled live sessions from within the platform",
+        ]),
         ("Learning Programs & Assessments", [
             "Group individual courses into structured learning programs / journeys",
             "Pre-, during-, and post-module assessments",

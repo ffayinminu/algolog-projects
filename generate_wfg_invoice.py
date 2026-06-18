@@ -316,7 +316,7 @@ def build_pdf():
     story.append(hr())
 
     story.append(Paragraph(
-        "Contact: Fayinminu Femi | ffayinminu@algolog.co | +234 705 301 6348", S_FOOTER))
+        "Contact: Fayinminu Femi | ffayinminu@algolog.co | +234 813 857 1129", S_FOOTER))
     story.append(Spacer(1, 2 * mm))
     story.append(Paragraph(
         "Algolog Limited \u2014 Plot 1387 Aminu Kano Crescent, Wuse, Abuja | algolog.co", S_FOOTER))
