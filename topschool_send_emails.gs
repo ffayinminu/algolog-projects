@@ -47,7 +47,7 @@ var STEPS = [
     cta: 'See how it works',
     paras: [
       "A little while ago you created a TOPSCHOOL account at topschool.app, so here is a quick reminder of what it does for your school, and why it is worth a first look before the term gets busy.",
-      "TOPSCHOOL is a school management app built for Nigerian schools, and the part most proprietors love is how it handles end of term. You enter each pupil's scores once, and TOPSCHOOL works out the totals, averages, subject positions and class positions for you, with no manual adding or sorting.",
+      "TOPSCHOOL is a school management app built for Nigerian schools, and the part most proprietors love is how it handles end of term. You enter each pupil's scores once, and TOPSCHOOL works out the totals, averages, subject positions and class positions for you, instead of you doing all that adding and sorting by hand.",
       "The moment the results are in, it also generates clean, branded report cards you can print or share, complete with teacher and head-teacher comments, in minutes instead of days.",
       "So the week you would normally lose to compiling results and writing report cards becomes an afternoon, with fewer mistakes and a smarter finish for parents. Your account is already set up, and we can import your pupil and class lists for you in about 10 minutes, at no cost."
     ]
